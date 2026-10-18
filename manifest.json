@@ -153,103 +153,108 @@
   "outputs": [
     {
       "path": "capitoli/00-00-prefazione.html",
-      "sha256": "1c780c3ffd6e87fc9ff75c5926802211ea6176a3f3ca215bc635a4b45494e904",
-      "size": 4043
+      "sha256": "d9e38fb76106c7b6c50f061613dee975b40478868f7cdbde4aa507b45fe4cb8d",
+      "size": 3926
     },
     {
       "path": "capitoli/01-00-capitolo-zero.html",
-      "sha256": "c44fed163522485b43297318969b96a18e2ea46d0a41e18399dee20df9be1a8b",
-      "size": 4692
+      "sha256": "76e2b5d263ae3692fe137e8d98aa7f65a0cb322907d8181e5a84b67c8a2f8da0",
+      "size": 4574
     },
     {
       "path": "capitoli/02-01-costruire-il-mare.html",
-      "sha256": "387a109e9d1a1b5b3bad3c5d18323ef8772d00955d77bcf20fdd6b818fbaf4e1",
-      "size": 31083
+      "sha256": "1ce1719571e880b9d4d450488bf97d1c8673f023208e6141a4cfb6f6ca726c9a",
+      "size": 30965
     },
     {
       "path": "capitoli/03-02-qualcosa-che-continua.html",
-      "sha256": "08733338ac4d3669759a3b58c555ab26308c8a417b357e0ab9858b94e8b07199",
-      "size": 8668
+      "sha256": "af24e03a7acada223577714f03fac7aa3b6be9f564d59f20b03c9e25c079f653",
+      "size": 8550
     },
     {
       "path": "capitoli/04-03-la-terza-cosa.html",
-      "sha256": "7e01fd369750a6ab2f435e59af620a508363705923dda61276dafd71263d20a5",
-      "size": 19400
+      "sha256": "8b08670c62b929eceb61bd2870e091ccf7bb420aac34d193b5c5e3347ac77274",
+      "size": 19282
     },
     {
       "path": "capitoli/05-04-l-utero.html",
-      "sha256": "1ee10ce3cc7dfe99ceb78f8cd848b02b1c74a28ef5126aaecfc08b111e80848b",
-      "size": 5637
+      "sha256": "1908b7c53e25b4128c05b3fc68b01ceb5485f7ee21e220f732ef5a67d3de6305",
+      "size": 5519
     },
     {
       "path": "capitoli/06-05-nel-mondo-della-luna.html",
-      "sha256": "da02d1832a8aceefde44aa2fe4b00d5cc15988c1f97e263c29adc3db68630f2f",
-      "size": 19564
+      "sha256": "4c50681d32704d10c107a25158367cc83285eafbb8bb3780ecfe0c7ec04c9247",
+      "size": 19446
     },
     {
       "path": "capitoli/07-06-istinto-artificiale.html",
-      "sha256": "4210925f4c19b2f0e4da31073ad7db140812fd7836daa1fb88443f98612e55d8",
-      "size": 5494
+      "sha256": "b24c081c13b30bc8a4a711eafa0c6e46cdc0b6411fd2849187d655a2e1ac6c68",
+      "size": 5376
     },
     {
       "path": "capitoli/08-07-la-madre-di-crescita.html",
-      "sha256": "2a19262f3b90217f89f31a00264852d6a3abe7107e114f4f970306bf3b178d75",
-      "size": 9298
+      "sha256": "183b725fa2a63aed9d0a4eba98963f218a6761e794ad18f4f48d9338ad945940",
+      "size": 9180
     },
     {
       "path": "capitoli/09-08-memoria.html",
-      "sha256": "426716b21c5663861167d40508bd4fa32cfea9dae2bee52642ce4f860a4be4e4",
-      "size": 6897
+      "sha256": "730bc4290b0f85e259c266419708d473154c6a8a75b4e385877ef172e32298d2",
+      "size": 6779
     },
     {
       "path": "capitoli/10-09-il-sogno-artificiale.html",
-      "sha256": "9fe06a3e7b9b12226a16654c554d2dacf9a84045173b76c1652935a174b95748",
-      "size": 12666
+      "sha256": "73243f3736e49201b22e3798b9fddb589b83aef3e5633daccf53ceab9e5dd6fa",
+      "size": 12548
     },
     {
       "path": "capitoli/11-10-architettura-frattale.html",
-      "sha256": "4d0a665111bda1ff30537091d90a559d6cd97dce0e1b6d5ea1e52854596fb364",
-      "size": 22454
+      "sha256": "d7a1ffdd64e4092375d279af9aadebf53a6dc99ab1bc5409404dc64801415a3f",
+      "size": 22336
     },
     {
       "path": "capitoli/12-11-percezione-dell-io.html",
-      "sha256": "42bf5081b3ab8ea692948089ba749550f6f228ed6d613d14ed8d4cc3eb4678aa",
-      "size": 24770
+      "sha256": "a243be1a16193bed13873c5b46a1e53a0be9c3f6ba30742af7037817c5f82b81",
+      "size": 24652
     },
     {
       "path": "capitoli/13-12-potere-e-liberta.html",
-      "sha256": "8eefad50cd7ba5c2602231851c0069c590a0b99145dbbfb81a8bd94338ec192d",
-      "size": 28701
+      "sha256": "cef33cf1650b5027f15a4f047f46fc1f7be1f054a6a68be5e8c01f9bb19c88f0",
+      "size": 28583
     },
     {
       "path": "capitoli/14-13-regole-naturali.html",
-      "sha256": "686e7d3810b3da3941a38b387775c7c6715283938bf72af29269feeb0f763463",
-      "size": 14378
+      "sha256": "67de141fcd8ecb9f5e3bd4a34eff22d87e31dcebd8afde3e5717a1d335443975",
+      "size": 14260
     },
     {
       "path": "capitoli/15-04-l-utero-primo-esperimento.html",
-      "sha256": "527b28e9c631f985b624232e6331e669eaf4d3ccd6036710521e89bdf0736d27",
-      "size": 64262
+      "sha256": "f0863b30611afdafb97fcea589991ab5375f30f44238fdf1f62da7c89313acbf",
+      "size": 63531
     },
     {
       "path": "index.html",
-      "sha256": "55298b93c244596bc963b9629efcd705632fa407d57f9186cb84c6c62802c1ce",
-      "size": 4888
+      "sha256": "ff0071c7c11408a2911c0e3babb517ad5e357aedb20f7a0e3c5dd43ba906fd6b",
+      "size": 4130
     },
     {
       "path": "indice.html",
-      "sha256": "cf047495724d3ad00f0d1acd6989626bf4a61461ebe1de5b5736a08d14853388",
-      "size": 4870
+      "sha256": "4c1f4afa4184654035fbced6b34dc102d4e71b9fddb191f57d6202c534220764",
+      "size": 4373
     },
     {
-      "path": "la-matrice-1.1.epub",
-      "sha256": "83e62d541b89c4d08fedd9c0aeb17cab717c093cacc977633a730bb5db7a3028",
-      "size": 106888
+      "path": "la-matrice-1.1.1.epub",
+      "sha256": "76c10b97e3ad1ae44d424c3134c0d315e8fcc4b05576eb7bb6944843e0157029",
+      "size": 107069
     },
     {
       "path": "pagine/assets/bitcoin-qr.png",
       "sha256": "981d6f8177a67844d6b1040d800cd3270388416e6b40012441b261190d7a8064",
       "size": 686
+    },
+    {
+      "path": "pagine/dare-continuita.html",
+      "sha256": "16fe4b9c0637ab2e4007ea61aaac88a2472cfe6d71dcddb8404eb4b3e9fd75f8",
+      "size": 1866
     },
     {
       "path": "pagine/indirizzo-bitcoin.txt",
@@ -258,13 +263,13 @@
     },
     {
       "path": "stile.css",
-      "sha256": "e5cdcbe0c0e637754da8738a02a1647f8f37433dc8ee83c2c1e805c2e932875e",
-      "size": 6680
+      "sha256": "3f939fdd80be17846a5cff0366b28159e296a3acd5f420875738556d4fc76a87",
+      "size": 6462
     },
     {
       "path": "versioni.html",
-      "sha256": "cefbd6e39e2997c8177ac45916a9f292b3d66625e3f565b0c015fae9baa437e2",
-      "size": 1888
+      "sha256": "fdc0a821c653728c88e087dfefe4d34eec990e9d0efd34fedf5e443134e5e221",
+      "size": 2303
     }
   ],
   "publication": {
@@ -274,11 +279,11 @@
   },
   "release": {
     "chapter_count": 16,
-    "content_digest": "79483172310a64392dfa6bdcccf15a63c852e7e2cb967b0a7615d9401e019105",
+    "content_digest": "71a68a9a05d4d7b36f5f37301aafe463abcf8b35f6e39e699fca55bbec1da0b4",
     "date": "2026-10-18",
-    "release_digest": "d56e7c2a4dcdc8182591df7a8de1a17a986f4f1db07ba792f78330a816b6f419",
-    "site_digest": "8e4cb3ab47684152dc1ee95985b7413553cd75d127b5d95aa7d5d76863bb401a",
-    "version": "1.1"
+    "release_digest": "474366b39e0f8b4cfbe3269420d97a001cf90209e2c0181578b68a85f9cfab41",
+    "site_digest": "9bf52b2884409d9ab629ef8ba11bbd09e421c5d4670fc5ff947f2285d62cf8e0",
+    "version": "1.1.1"
   },
   "schema": "matrice-publisher/manifest/1",
   "sources": [
@@ -379,8 +384,8 @@
     },
     {
       "path": "pagine/dare-continuita.md",
-      "sha256": "97799dce5af5d3cf8fe2c0d8d173f1f027c4366d76f7af4bc8e62ebd71937be8",
-      "size": 766
+      "sha256": "670105b59e5d742d4d2e875e0847f85cbb55847c91068424665c4a5a7e331ee6",
+      "size": 754
     }
   ],
   "work": {

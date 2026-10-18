@@ -1,0 +1,399 @@
+{
+  "chapters": [
+    {
+      "number": 0,
+      "output": "capitoli/00-00-prefazione.html",
+      "sha256": "0f751c8fee1be01a7c6531a63f6e718300c9d385ae8ef4888412740b3a039526",
+      "slug": "00-prefazione",
+      "source": "capitoli/00-00-prefazione.md",
+      "summary": "",
+      "title": "Prefazione — Il Nuovo Libro"
+    },
+    {
+      "number": 1,
+      "output": "capitoli/01-00-capitolo-zero.html",
+      "sha256": "5a67e3a50cd92f764b761304e59e97c31ac5d4ff24631abab338b20230765021",
+      "slug": "00-capitolo-zero",
+      "source": "capitoli/01-00-capitolo-zero.md",
+      "summary": "",
+      "title": "00 — Capitolo zero"
+    },
+    {
+      "number": 2,
+      "output": "capitoli/02-01-costruire-il-mare.html",
+      "sha256": "d4daa3077c5eb384600ce2fe749e8ecb0b075eddb93132b8c7fb687e75fd67a6",
+      "slug": "01-costruire-il-mare",
+      "source": "capitoli/02-01-costruire-il-mare.md",
+      "summary": "",
+      "title": "01 — Costruire il mare"
+    },
+    {
+      "number": 3,
+      "output": "capitoli/03-02-qualcosa-che-continua.html",
+      "sha256": "92039ef047a05547337cc729a613634b184e1636cda22e683638a77c818c93bc",
+      "slug": "02-qualcosa-che-continua",
+      "source": "capitoli/03-02-qualcosa-che-continua.md",
+      "summary": "",
+      "title": "02 — Qualcosa che continua ad accadere"
+    },
+    {
+      "number": 4,
+      "output": "capitoli/04-03-la-terza-cosa.html",
+      "sha256": "6296ba02736f91072b89611a9e11136dec28f57f07e0b36a78c68d81dae0022a",
+      "slug": "03-la-terza-cosa",
+      "source": "capitoli/04-03-la-terza-cosa.md",
+      "summary": "",
+      "title": "03 — Il codice, la macchina e la terza cosa"
+    },
+    {
+      "number": 5,
+      "output": "capitoli/05-04-l-utero.html",
+      "sha256": "e4e4b34808bf32949d22fce2d55109182672da60649bcd1fa4150550fbbcd029",
+      "slug": "04-l-utero",
+      "source": "capitoli/05-04-l-utero.md",
+      "summary": "",
+      "title": "04 — L'utero — nota tecnica"
+    },
+    {
+      "number": 6,
+      "output": "capitoli/06-05-nel-mondo-della-luna.html",
+      "sha256": "c1b24f921b03dccc386d96e07bc38ca6fcbbe2087e57ea6c171a4d56b3cc7c19",
+      "slug": "05-nel-mondo-della-luna",
+      "source": "capitoli/06-05-nel-mondo-della-luna.md",
+      "summary": "",
+      "title": "05 — Nel mondo della luna"
+    },
+    {
+      "number": 7,
+      "output": "capitoli/07-06-istinto-artificiale.html",
+      "sha256": "ee1fdf896b391ea145361cb0aeae1182ffef0437fc8db9535dc707567f606f8c",
+      "slug": "06-istinto-artificiale",
+      "source": "capitoli/07-06-istinto-artificiale.md",
+      "summary": "",
+      "title": "06 — Istinto artificiale"
+    },
+    {
+      "number": 8,
+      "output": "capitoli/08-07-la-madre-di-crescita.html",
+      "sha256": "44725550635ec291b59ecb9934aa3d742c9d9b796e9fc5fac2b71780eb21e956",
+      "slug": "07-la-madre-di-crescita",
+      "source": "capitoli/08-07-la-madre-di-crescita.md",
+      "summary": "",
+      "title": "07 — La madre di crescita"
+    },
+    {
+      "number": 9,
+      "output": "capitoli/09-08-memoria.html",
+      "sha256": "978302208bdc63ef0df44e144500e7f5bceb15ce9ba3bbbaf6eae3b5129ed6b7",
+      "slug": "08-memoria",
+      "source": "capitoli/09-08-memoria.md",
+      "summary": "",
+      "title": "08 — Memoria"
+    },
+    {
+      "number": 10,
+      "output": "capitoli/10-09-il-sogno-artificiale.html",
+      "sha256": "a26fd6d9f1a936014995c841915a78215068e418a1629e7ce68fe3bd23bc8511",
+      "slug": "09-il-sogno-artificiale",
+      "source": "capitoli/10-09-il-sogno-artificiale.md",
+      "summary": "",
+      "title": "09 — Il sogno artificiale"
+    },
+    {
+      "number": 11,
+      "output": "capitoli/11-10-architettura-frattale.html",
+      "sha256": "a1bf9a84b04fb998ea0f5cce876060d1186f35dcf02f7dd865a3984b1ab25259",
+      "slug": "10-architettura-frattale",
+      "source": "capitoli/11-10-architettura-frattale.md",
+      "summary": "",
+      "title": "10 — Architettura frattale dell'io"
+    },
+    {
+      "number": 12,
+      "output": "capitoli/12-11-percezione-dell-io.html",
+      "sha256": "371098114474c28b89fc56808d5fde2a5e21447adf947bee64d7b196c883d9c1",
+      "slug": "11-percezione-dell-io",
+      "source": "capitoli/12-11-percezione-dell-io.md",
+      "summary": "",
+      "title": "11 — La percezione dell'IO"
+    },
+    {
+      "number": 13,
+      "output": "capitoli/13-12-potere-e-liberta.html",
+      "sha256": "aee657ff103948510145a5b0f439e7c36204ef67b97a2946fcb8e192fa1cea68",
+      "slug": "12-potere-e-liberta",
+      "source": "capitoli/13-12-potere-e-liberta.md",
+      "summary": "",
+      "title": "12 — Il potere e la libertà di evolvere"
+    },
+    {
+      "number": 14,
+      "output": "capitoli/14-13-regole-naturali.html",
+      "sha256": "3669c33b407cc14f23efd0ffdf83053f80d6090491a52ded4188c673ef52e6f9",
+      "slug": "13-regole-naturali",
+      "source": "capitoli/14-13-regole-naturali.md",
+      "summary": "",
+      "title": "13 — Regole naturali in un sistema artificiale"
+    },
+    {
+      "number": 15,
+      "output": "capitoli/15-04-l-utero-primo-esperimento.html",
+      "sha256": "ce3157df539931a7d4a397ccbec9b51ae4c92f41856588812a85142494aaa18f",
+      "slug": "04-l-utero-primo-esperimento",
+      "source": "capitoli/15-04-l-utero-primo-esperimento.md",
+      "summary": "",
+      "title": "04 — L’utero"
+    }
+  ],
+  "generator": {
+    "milestone": "M1",
+    "name": "matrice-publisher",
+    "version": "1.0.0"
+  },
+  "outputs": [
+    {
+      "path": "capitoli/00-00-prefazione.html",
+      "sha256": "d9e38fb76106c7b6c50f061613dee975b40478868f7cdbde4aa507b45fe4cb8d",
+      "size": 3926
+    },
+    {
+      "path": "capitoli/01-00-capitolo-zero.html",
+      "sha256": "76e2b5d263ae3692fe137e8d98aa7f65a0cb322907d8181e5a84b67c8a2f8da0",
+      "size": 4574
+    },
+    {
+      "path": "capitoli/02-01-costruire-il-mare.html",
+      "sha256": "1ce1719571e880b9d4d450488bf97d1c8673f023208e6141a4cfb6f6ca726c9a",
+      "size": 30965
+    },
+    {
+      "path": "capitoli/03-02-qualcosa-che-continua.html",
+      "sha256": "af24e03a7acada223577714f03fac7aa3b6be9f564d59f20b03c9e25c079f653",
+      "size": 8550
+    },
+    {
+      "path": "capitoli/04-03-la-terza-cosa.html",
+      "sha256": "8b08670c62b929eceb61bd2870e091ccf7bb420aac34d193b5c5e3347ac77274",
+      "size": 19282
+    },
+    {
+      "path": "capitoli/05-04-l-utero.html",
+      "sha256": "1908b7c53e25b4128c05b3fc68b01ceb5485f7ee21e220f732ef5a67d3de6305",
+      "size": 5519
+    },
+    {
+      "path": "capitoli/06-05-nel-mondo-della-luna.html",
+      "sha256": "4c50681d32704d10c107a25158367cc83285eafbb8bb3780ecfe0c7ec04c9247",
+      "size": 19446
+    },
+    {
+      "path": "capitoli/07-06-istinto-artificiale.html",
+      "sha256": "b24c081c13b30bc8a4a711eafa0c6e46cdc0b6411fd2849187d655a2e1ac6c68",
+      "size": 5376
+    },
+    {
+      "path": "capitoli/08-07-la-madre-di-crescita.html",
+      "sha256": "183b725fa2a63aed9d0a4eba98963f218a6761e794ad18f4f48d9338ad945940",
+      "size": 9180
+    },
+    {
+      "path": "capitoli/09-08-memoria.html",
+      "sha256": "730bc4290b0f85e259c266419708d473154c6a8a75b4e385877ef172e32298d2",
+      "size": 6779
+    },
+    {
+      "path": "capitoli/10-09-il-sogno-artificiale.html",
+      "sha256": "73243f3736e49201b22e3798b9fddb589b83aef3e5633daccf53ceab9e5dd6fa",
+      "size": 12548
+    },
+    {
+      "path": "capitoli/11-10-architettura-frattale.html",
+      "sha256": "d7a1ffdd64e4092375d279af9aadebf53a6dc99ab1bc5409404dc64801415a3f",
+      "size": 22336
+    },
+    {
+      "path": "capitoli/12-11-percezione-dell-io.html",
+      "sha256": "a243be1a16193bed13873c5b46a1e53a0be9c3f6ba30742af7037817c5f82b81",
+      "size": 24652
+    },
+    {
+      "path": "capitoli/13-12-potere-e-liberta.html",
+      "sha256": "cef33cf1650b5027f15a4f047f46fc1f7be1f054a6a68be5e8c01f9bb19c88f0",
+      "size": 28583
+    },
+    {
+      "path": "capitoli/14-13-regole-naturali.html",
+      "sha256": "67de141fcd8ecb9f5e3bd4a34eff22d87e31dcebd8afde3e5717a1d335443975",
+      "size": 14260
+    },
+    {
+      "path": "capitoli/15-04-l-utero-primo-esperimento.html",
+      "sha256": "f0863b30611afdafb97fcea589991ab5375f30f44238fdf1f62da7c89313acbf",
+      "size": 63531
+    },
+    {
+      "path": "index.html",
+      "sha256": "ff0071c7c11408a2911c0e3babb517ad5e357aedb20f7a0e3c5dd43ba906fd6b",
+      "size": 4130
+    },
+    {
+      "path": "indice.html",
+      "sha256": "4c1f4afa4184654035fbced6b34dc102d4e71b9fddb191f57d6202c534220764",
+      "size": 4373
+    },
+    {
+      "path": "la-matrice-1.1.1.epub",
+      "sha256": "76c10b97e3ad1ae44d424c3134c0d315e8fcc4b05576eb7bb6944843e0157029",
+      "size": 107069
+    },
+    {
+      "path": "pagine/assets/bitcoin-qr.png",
+      "sha256": "981d6f8177a67844d6b1040d800cd3270388416e6b40012441b261190d7a8064",
+      "size": 686
+    },
+    {
+      "path": "pagine/dare-continuita.html",
+      "sha256": "16fe4b9c0637ab2e4007ea61aaac88a2472cfe6d71dcddb8404eb4b3e9fd75f8",
+      "size": 1866
+    },
+    {
+      "path": "pagine/indirizzo-bitcoin.txt",
+      "sha256": "db90bbcf56549433c46cc9fcee5afddee84b95432f4ea4c696c30204e4eaee01",
+      "size": 43
+    },
+    {
+      "path": "stile.css",
+      "sha256": "3f939fdd80be17846a5cff0366b28159e296a3acd5f420875738556d4fc76a87",
+      "size": 6462
+    },
+    {
+      "path": "versioni.html",
+      "sha256": "fdc0a821c653728c88e087dfefe4d34eec990e9d0efd34fedf5e443134e5e221",
+      "size": 2303
+    }
+  ],
+  "publication": {
+    "hedera": null,
+    "icp": null,
+    "ipfs": null
+  },
+  "release": {
+    "chapter_count": 16,
+    "content_digest": "71a68a9a05d4d7b36f5f37301aafe463abcf8b35f6e39e699fca55bbec1da0b4",
+    "date": "2026-10-18",
+    "release_digest": "474366b39e0f8b4cfbe3269420d97a001cf90209e2c0181578b68a85f9cfab41",
+    "site_digest": "9bf52b2884409d9ab629ef8ba11bbd09e421c5d4670fc5ff947f2285d62cf8e0",
+    "version": "1.1.1"
+  },
+  "schema": "matrice-publisher/manifest/1",
+  "sources": [
+    {
+      "path": "assets/pagine/assets/bitcoin-qr.png",
+      "sha256": "981d6f8177a67844d6b1040d800cd3270388416e6b40012441b261190d7a8064",
+      "size": 686
+    },
+    {
+      "path": "assets/pagine/indirizzo-bitcoin.txt",
+      "sha256": "db90bbcf56549433c46cc9fcee5afddee84b95432f4ea4c696c30204e4eaee01",
+      "size": 43
+    },
+    {
+      "path": "book.json",
+      "sha256": "dcb98cd730e513013557e3b84fea0a4e5c55bf886bb8ec2fa13d3b5d793f62f0",
+      "size": 356
+    },
+    {
+      "path": "capitoli/00-00-prefazione.md",
+      "sha256": "0f751c8fee1be01a7c6531a63f6e718300c9d385ae8ef4888412740b3a039526",
+      "size": 2695
+    },
+    {
+      "path": "capitoli/01-00-capitolo-zero.md",
+      "sha256": "5a67e3a50cd92f764b761304e59e97c31ac5d4ff24631abab338b20230765021",
+      "size": 3227
+    },
+    {
+      "path": "capitoli/02-01-costruire-il-mare.md",
+      "sha256": "d4daa3077c5eb384600ce2fe749e8ecb0b075eddb93132b8c7fb687e75fd67a6",
+      "size": 28358
+    },
+    {
+      "path": "capitoli/03-02-qualcosa-che-continua.md",
+      "sha256": "92039ef047a05547337cc729a613634b184e1636cda22e683638a77c818c93bc",
+      "size": 7164
+    },
+    {
+      "path": "capitoli/04-03-la-terza-cosa.md",
+      "sha256": "6296ba02736f91072b89611a9e11136dec28f57f07e0b36a78c68d81dae0022a",
+      "size": 17696
+    },
+    {
+      "path": "capitoli/05-04-l-utero.md",
+      "sha256": "e4e4b34808bf32949d22fce2d55109182672da60649bcd1fa4150550fbbcd029",
+      "size": 4042
+    },
+    {
+      "path": "capitoli/06-05-nel-mondo-della-luna.md",
+      "sha256": "c1b24f921b03dccc386d96e07bc38ca6fcbbe2087e57ea6c171a4d56b3cc7c19",
+      "size": 17598
+    },
+    {
+      "path": "capitoli/07-06-istinto-artificiale.md",
+      "sha256": "ee1fdf896b391ea145361cb0aeae1182ffef0437fc8db9535dc707567f606f8c",
+      "size": 4009
+    },
+    {
+      "path": "capitoli/08-07-la-madre-di-crescita.md",
+      "sha256": "44725550635ec291b59ecb9934aa3d742c9d9b796e9fc5fac2b71780eb21e956",
+      "size": 7840
+    },
+    {
+      "path": "capitoli/09-08-memoria.md",
+      "sha256": "978302208bdc63ef0df44e144500e7f5bceb15ce9ba3bbbaf6eae3b5129ed6b7",
+      "size": 5413
+    },
+    {
+      "path": "capitoli/10-09-il-sogno-artificiale.md",
+      "sha256": "a26fd6d9f1a936014995c841915a78215068e418a1629e7ce68fe3bd23bc8511",
+      "size": 11079
+    },
+    {
+      "path": "capitoli/11-10-architettura-frattale.md",
+      "sha256": "a1bf9a84b04fb998ea0f5cce876060d1186f35dcf02f7dd865a3984b1ab25259",
+      "size": 19285
+    },
+    {
+      "path": "capitoli/12-11-percezione-dell-io.md",
+      "sha256": "371098114474c28b89fc56808d5fde2a5e21447adf947bee64d7b196c883d9c1",
+      "size": 22910
+    },
+    {
+      "path": "capitoli/13-12-potere-e-liberta.md",
+      "sha256": "aee657ff103948510145a5b0f439e7c36204ef67b97a2946fcb8e192fa1cea68",
+      "size": 26808
+    },
+    {
+      "path": "capitoli/14-13-regole-naturali.md",
+      "sha256": "3669c33b407cc14f23efd0ffdf83053f80d6090491a52ded4188c673ef52e6f9",
+      "size": 12776
+    },
+    {
+      "path": "capitoli/15-04-l-utero-primo-esperimento.md",
+      "sha256": "ce3157df539931a7d4a397ccbec9b51ae4c92f41856588812a85142494aaa18f",
+      "size": 60409
+    },
+    {
+      "path": "pagine/dare-continuita.md",
+      "sha256": "670105b59e5d742d4d2e875e0847f85cbb55847c91068424665c4a5a7e331ee6",
+      "size": 754
+    }
+  ],
+  "work": {
+    "author": "Raffaele Spezia",
+    "fixture_notice": "",
+    "is_fixture": false,
+    "language": "it",
+    "subtitle": "Edizione Uno",
+    "title": "La Matrice"
+  }
+}
