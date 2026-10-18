@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Come verificare questa edizione — La Matrice</title>
+<link rel="stylesheet" href="../stile.css">
+</head>
+<body>
+<header class="masthead">
+  <p class="wordmark"><a href="../index.html">La Matrice</a></p>
+</header>
+<main class="chapter">
+<h1>Come verificare questa edizione</h1>
+<article class="prose">
+<p>Questa edizione è attestata su un registro pubblico. Non dovete credere a noi: potete controllare da soli, con strumenti che non controlliamo.</p>
+<h3>Che cosa significa, e che cosa no</h3>
+<p>L'attestazione dice che <strong>a una certa ora, chi possedeva una certa chiave dichiarava che l'opera aveva una certa impronta</strong>. Da quel momento nessuno può sostenere che il testo fosse diverso: cambiare un solo carattere cambierebbe l'impronta, e l'impronta è su un registro che non possiamo riscrivere.</p>
+<p>Non dice chi abbia scritto l'opera, e non la conserva. Il registro contiene <strong>solo impronte</strong>: nemmeno una riga del libro. Un registro di consenso non è un archivio, e scriverci il testo sarebbe stata una pubblicazione decisa da un dettaglio tecnico invece che da chi l'opera la firma.</p>
+<h3>Dove guardare</h3>
+<p>Tutte le attestazioni de <em>La Matrice</em>, questa e le future, stanno in un unico registro su Hedera:</p>
+<p><strong>Topic <code>0.0.10926025</code></strong> — <code>https://hashscan.io/mainnet/topic/0.0.10926025</code></p>
+<p>Il registro non ha chiave di amministrazione: nessuno, noi compresi, può modificarlo o cancellarlo.</p>
+<p>Dalla riga di comando, senza fidarsi di alcun sito:</p>
+<pre><code>curl -s "https://mainnet-public.mirrornode.hedera.com/api/v1/topics/0.0.10926025/messages?limit=20"</code></pre>
+<p>Ogni messaggio porta un <code>consensus_timestamp</code>: <strong>lo stabilisce la rete, non chi attesta</strong>. È questo a renderlo una prova temporale e non un'autodichiarazione.</p>
+<h3>I sorgenti di questa edizione</h3>
+<p>Il manoscritto da cui questa edizione è stata generata è conservato in un archivio, la cui impronta è la prima attestazione del registro:</p>
+<pre><code>00_EDIZIONE_ZERO.zip
+sha256  021e1f4dc8c4e1ff51590bfc6a1976d9bea74240703ec017668a86d6a4821f50</code></pre>
+<p>Attestato il <strong>18 ottobre 2026 alle 11:09:59 UTC</strong>.</p>
+<p>L'archivio è <em>deterministico</em>: ricostruendolo dai sorgenti con le stesse regole — voci ordinate, date azzerate, permessi normalizzati — si riottiene esattamente quella impronta. Chi vuole può rifare il calcolo e confrontare.</p>
+<h3>Perché questa pagina non contiene la propria impronta</h3>
+<p>Sarebbe impossibile, e vale la pena spiegare perché.</p>
+<p>L'impronta di un testo si calcola sul testo. Se scrivessimo qui l'impronta di questa pagina, la pagina cambierebbe, e l'impronta scritta non sarebbe più quella giusta. È una serpe che si morde la coda.</p>
+<p>Per questo la pagina porta un <strong>indirizzo</strong> — il topic — e non un valore. L'indirizzo esiste da prima ed è sempre lo stesso; l'attestazione di questa edizione, impronte e identificatore compresi, viene scritta <em>dentro</em> quel registro subito dopo che l'edizione è stata costruita. Chi segue l'indirizzo trova ciò che riguarda la pagina che sta leggendo, e la pagina non ha mai dovuto contenere sé stessa.</p>
+<p>È lo stesso motivo per cui una firma si mette <em>accanto</em> a un documento e non dentro: firmare dentro cambierebbe ciò che si sta firmando.</p>
+</article>
+</main>
+<nav class="chapter-nav" aria-label="Navigazione">
+  <a class="nav-up" href="../indice.html">Indice</a>
+  <a class="nav-next" href="../index.html">Copertina</a>
+</nav>
+<footer class="colophon">
+  <dl>
+    <div><dt>Versione</dt><dd>0.1</dd></div>
+    <div><dt>Capitoli</dt><dd>0</dd></div>
+    <div><dt>Impronta della release</dt><dd class="digest">e84a122d43a372e42ca38c723a8cd893c6cfc30d64a14399af27e66ae4894f86</dd></div>
+  </dl>
+  <p class="colophon-links"><a href="../indice.html">Indice</a> · <a href="../versioni.html">Versioni</a> · <a href="../pagine/notarizzazione.html">Come verificare questa edizione</a> · <a href="../manifest.json">Manifesto</a></p>
+</footer>
+</body>
+</html>

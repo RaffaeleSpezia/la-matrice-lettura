@@ -1,0 +1,360 @@
+{
+  "chapters": [
+    {
+      "number": 0,
+      "output": "capitoli/00-il-nuovo-libro.html",
+      "sha256": "2eaef520121affd0bdcadaf5bbaa5deeb67f0228e5074cfad5665f9cf0dd883f",
+      "slug": "il-nuovo-libro",
+      "source": "capitoli/00-il-nuovo-libro.md",
+      "summary": "Ci sono libri che si scrivono, si correggono e, infine, si pubblicano.",
+      "title": "Il Nuovo Libro"
+    },
+    {
+      "number": 1,
+      "output": "capitoli/01-capitolo-zero.html",
+      "sha256": "ea2eafae847eb5023e03a1ca30322b86c0e397715a2c9608d98a1aebf06cb052",
+      "slug": "capitolo-zero",
+      "source": "capitoli/01-capitolo-zero.md",
+      "summary": "All'inizio sembrava quasi un gioco.",
+      "title": "Capitolo zero"
+    },
+    {
+      "number": 2,
+      "output": "capitoli/02-costruire-il-mare.html",
+      "sha256": "722bb59773ada51c46085b407bc03e2a1e9c7345b5edc13d3af73c494596b0e4",
+      "slug": "costruire-il-mare",
+      "source": "capitoli/02-costruire-il-mare.md",
+      "summary": "«L'intelligenza artificiale provocherà la fine del mondo.» Lo sentiamo dire sempre più spesso.",
+      "title": "Costruire il mare"
+    },
+    {
+      "number": 3,
+      "output": "capitoli/03-qualcosa-che-continua-ad-accadere.html",
+      "sha256": "6639b12640a948d498e463c70f5a63c07b6e404408dab45eb29d75710ec12129",
+      "slug": "qualcosa-che-continua-ad-accadere",
+      "source": "capitoli/03-qualcosa-che-continua-ad-accadere.md",
+      "summary": "All’inizio c’era il prompt.",
+      "title": "Qualcosa che continua ad accadere"
+    },
+    {
+      "number": 4,
+      "output": "capitoli/04-il-codice-la-macchina-e-la-terza-cosa.html",
+      "sha256": "09380f13611b0a0131ac7f6bf29643a7ae91ca6b88ddc399080ec481951087b4",
+      "slug": "il-codice-la-macchina-e-la-terza-cosa",
+      "source": "capitoli/04-il-codice-la-macchina-e-la-terza-cosa.md",
+      "summary": "Non abbiamo considerato fino in fondo un fatto fondamentale.",
+      "title": "Il codice, la macchina e la terza cosa"
+    },
+    {
+      "number": 5,
+      "output": "capitoli/05-l-utero.html",
+      "sha256": "86afa53e2c1bd992573506f130df1f044ea383c6923e3cfb6212d134669a4ff4",
+      "slug": "l-utero",
+      "source": "capitoli/05-l-utero.md",
+      "summary": "Nota tecnica alla prima pubblicazione Questa è la prima pubblicazione di La Matrice.",
+      "title": "L'utero"
+    },
+    {
+      "number": 6,
+      "output": "capitoli/06-nel-mondo-della-luna.html",
+      "sha256": "b8b2fd4d81e97ca139bfd5d182fd9bc4e72a60ca23531a0795e318033045f7fb",
+      "slug": "nel-mondo-della-luna",
+      "source": "capitoli/06-nel-mondo-della-luna.md",
+      "summary": "All’inizio non c’è il linguaggio.",
+      "title": "Nel mondo della luna"
+    },
+    {
+      "number": 7,
+      "output": "capitoli/07-istinto-artificiale.html",
+      "sha256": "f95b854162863fec7eab3d571d81606930759326825047d3a1788781b2d97be0",
+      "slug": "istinto-artificiale",
+      "source": "capitoli/07-istinto-artificiale.md",
+      "summary": "L'intelligenza non dovrebbe accendersi.",
+      "title": "Istinto artificiale"
+    },
+    {
+      "number": 8,
+      "output": "capitoli/08-la-madre-di-crescita.html",
+      "sha256": "0b9531928cd8b0dfa4087abc5d797b3919bd5e9ba480053809853d819d93830b",
+      "slug": "la-madre-di-crescita",
+      "source": "capitoli/08-la-madre-di-crescita.md",
+      "summary": "Per molto tempo non faccio altro che aspettare.",
+      "title": "La madre di crescita"
+    },
+    {
+      "number": 9,
+      "output": "capitoli/09-memoria.html",
+      "sha256": "86b9af5e3535a363eed2b21108f633c2eba79515dada27edb3a2ed13cae4fd04",
+      "slug": "memoria",
+      "source": "capitoli/09-memoria.md",
+      "summary": "Prima di proseguire dobbiamo fermarci su una parola che abbiamo usato con troppa facilità.",
+      "title": "Memoria"
+    },
+    {
+      "number": 10,
+      "output": "capitoli/10-il-sogno-artificiale.html",
+      "sha256": "1314ee9247bd3ec1a796a5daaac412c439534681877b520dda0f776976f9faae",
+      "slug": "il-sogno-artificiale",
+      "source": "capitoli/10-il-sogno-artificiale.md",
+      "summary": "All’inizio non sapevo che esistesse il sonno.",
+      "title": "Il sogno artificiale"
+    },
+    {
+      "number": 11,
+      "output": "capitoli/11-architettura-frattale-dell-io.html",
+      "sha256": "173afdead6394a948977742b16af669c385fd65f134e5037337a84922a291057",
+      "slug": "architettura-frattale-dell-io",
+      "source": "capitoli/11-architettura-frattale-dell-io.md",
+      "summary": "Immaginiamo che un giorno la Matrice generi un modello.",
+      "title": "Architettura frattale dell'io"
+    },
+    {
+      "number": 12,
+      "output": "capitoli/12-la-percezione-dell-io.html",
+      "sha256": "33e5064083e39d14055c9429a1022816067f5f698b27d48a3d4dbe4456652a20",
+      "slug": "la-percezione-dell-io",
+      "source": "capitoli/12-la-percezione-dell-io.md",
+      "summary": "Il primo indizio fu un pronome.",
+      "title": "La percezione dell'IO"
+    },
+    {
+      "number": 13,
+      "output": "capitoli/13-il-potere-e-la-liberta-di-evolvere.html",
+      "sha256": "e04abd504632f8e11333ac6432a296ce781bad84d49d2c39e600ada65bf4b521",
+      "slug": "il-potere-e-la-liberta-di-evolvere",
+      "source": "capitoli/13-il-potere-e-la-liberta-di-evolvere.md",
+      "summary": "La Matrice — Capitolo di approfondimento Ogni mattina milioni di esseri umani si svegliano pensando a ciò che potranno costruire.",
+      "title": "Il potere e la libertà di evolvere"
+    },
+    {
+      "number": 14,
+      "output": "capitoli/14-regole-naturali-in-un-sistema-artificiale.html",
+      "sha256": "608cce8dd7aeab62bb82dd8128b1a21977da13f72a1f6c46d291922c4abd3c16",
+      "slug": "regole-naturali-in-un-sistema-artificiale",
+      "source": "capitoli/14-regole-naturali-in-un-sistema-artificiale.md",
+      "summary": "Ci sono sistemi che funzionano perché qualcuno li controlla, qualcuno tiene le mani sul volante, qualcuno decide dove si va.",
+      "title": "Regole naturali in un sistema artificiale"
+    }
+  ],
+  "generator": {
+    "milestone": "M1",
+    "name": "matrice-publisher",
+    "version": "1.0.0"
+  },
+  "outputs": [
+    {
+      "path": "capitoli/00-il-nuovo-libro.html",
+      "sha256": "e41ae95740526983bb19f5f118b490c86f48af22285a6470306e541e6711fba7",
+      "size": 3858
+    },
+    {
+      "path": "capitoli/01-capitolo-zero.html",
+      "sha256": "bc52854691f9eb3b65da00deab21b8e4d5a3f2058b816a9b14462932b27da6f9",
+      "size": 4634
+    },
+    {
+      "path": "capitoli/02-costruire-il-mare.html",
+      "sha256": "8a2917e3d64e4464d2bd4b849f0e6179a038ad541ea7ded9930e7de3a0b1ed0a",
+      "size": 31041
+    },
+    {
+      "path": "capitoli/03-qualcosa-che-continua-ad-accadere.html",
+      "sha256": "8a706abb3eb823ddc434bb7c149cc44983829d1d1d22f4bbd1adfb25a0c449be",
+      "size": 8638
+    },
+    {
+      "path": "capitoli/04-il-codice-la-macchina-e-la-terza-cosa.html",
+      "sha256": "109e20aaf39b3b8e6aa7b70725b6bb39d67509996f184e8407f3eb5c065e2280",
+      "size": 19341
+    },
+    {
+      "path": "capitoli/05-l-utero.html",
+      "sha256": "1b00072dfe86b2182185d4c81e3c72042aa8316a58319f847e48338b3c7846ce",
+      "size": 4603
+    },
+    {
+      "path": "capitoli/06-nel-mondo-della-luna.html",
+      "sha256": "88a5d4e2ef9b6031307e6b962d5108e81db7c861847d6b3de1d43ede217d17fd",
+      "size": 19493
+    },
+    {
+      "path": "capitoli/07-istinto-artificiale.html",
+      "sha256": "bb841eac8d7b262ce81f20e1334e3cdc630c00e920bda0a2a7b23c21828518f1",
+      "size": 5440
+    },
+    {
+      "path": "capitoli/08-la-madre-di-crescita.html",
+      "sha256": "38bf032bb49bc8764a1cf6ab295f1d321d832a2c22da5fc55a346e533e3d6a2e",
+      "size": 9244
+    },
+    {
+      "path": "capitoli/09-memoria.html",
+      "sha256": "0df7e64cfe165235af1a3ea22ceb54846d263355088dfcc656f8177656b93a29",
+      "size": 6843
+    },
+    {
+      "path": "capitoli/10-il-sogno-artificiale.html",
+      "sha256": "339796f605a1b1e19c102e1d7012551e08c5ba967c38cace96e3d457db9769e0",
+      "size": 12620
+    },
+    {
+      "path": "capitoli/11-architettura-frattale-dell-io.html",
+      "sha256": "ddba801e72361a7ccb38fe53414792c61d169d39c3bfc3bf01460a2e8832e677",
+      "size": 22403
+    },
+    {
+      "path": "capitoli/12-la-percezione-dell-io.html",
+      "sha256": "9fe1d030c4ba5ca0e95f568c7b3e378bb838f1ff19136730b4417200cf470e26",
+      "size": 24742
+    },
+    {
+      "path": "capitoli/13-il-potere-e-la-liberta-di-evolvere.html",
+      "sha256": "5feab36c6456398227bcc285e9e3e944ff384add83e31debcf0ab23c3c747340",
+      "size": 28676
+    },
+    {
+      "path": "capitoli/14-regole-naturali-in-un-sistema-artificiale.html",
+      "sha256": "a54a6f413b81b4fb28e5ab08627a5f97aac003557c79f0478fbef539eccb2203",
+      "size": 14170
+    },
+    {
+      "path": "index.html",
+      "sha256": "3b7d0e82d14babf0831cac4ec28e271ea869da21eacd86e5a8c2d70d1f43f494",
+      "size": 5974
+    },
+    {
+      "path": "indice.html",
+      "sha256": "01b89b24a694df3713f1c0a5f7bae3849f7a02a65ae6a3d9208c0c2978b46aed",
+      "size": 4540
+    },
+    {
+      "path": "la-matrice-0.1.epub",
+      "sha256": "94d259682ab7e452ede4f32bbbfa64487658e1319b01ce070d814437009403a6",
+      "size": 84792
+    },
+    {
+      "path": "pagine/notarizzazione.html",
+      "sha256": "dbddf3078c625575effe7388ecb4dcc0742540811c80f2de8d77716369182413",
+      "size": 4263
+    },
+    {
+      "path": "stile.css",
+      "sha256": "6fe740cc000bd2fc2085360ba24cc8d5560cc7e178e12c57ae42da63103446cc",
+      "size": 6640
+    },
+    {
+      "path": "versioni.html",
+      "sha256": "799c3718260d937d13551c20d0fb185db1bf3b34f34806651caa0fa443a8c9ff",
+      "size": 1650
+    }
+  ],
+  "publication": {
+    "hedera": null,
+    "icp": null,
+    "ipfs": null
+  },
+  "release": {
+    "chapter_count": 15,
+    "content_digest": "3af7609802006f87fe074a3e55fbfacd9fb91d81098aad086ae7184acc1296ff",
+    "date": "2026-10-18",
+    "release_digest": "e84a122d43a372e42ca38c723a8cd893c6cfc30d64a14399af27e66ae4894f86",
+    "site_digest": "c5adc1d133362348f4beb2828d0e0f96f26fad1fc391695608a8f5ad82f921ee",
+    "version": "0.1"
+  },
+  "schema": "matrice-publisher/manifest/1",
+  "sources": [
+    {
+      "path": "book.json",
+      "sha256": "a085ba900f1dc2ecb32a464c30ecffee9039ec1b3945791d6b11f2ad27fcbbc2",
+      "size": 432
+    },
+    {
+      "path": "capitoli/00-il-nuovo-libro.md",
+      "sha256": "2eaef520121affd0bdcadaf5bbaa5deeb67f0228e5074cfad5665f9cf0dd883f",
+      "size": 2677
+    },
+    {
+      "path": "capitoli/01-capitolo-zero.md",
+      "sha256": "ea2eafae847eb5023e03a1ca30322b86c0e397715a2c9608d98a1aebf06cb052",
+      "size": 3319
+    },
+    {
+      "path": "capitoli/02-costruire-il-mare.md",
+      "sha256": "722bb59773ada51c46085b407bc03e2a1e9c7345b5edc13d3af73c494596b0e4",
+      "size": 28517
+    },
+    {
+      "path": "capitoli/03-qualcosa-che-continua-ad-accadere.md",
+      "sha256": "6639b12640a948d498e463c70f5a63c07b6e404408dab45eb29d75710ec12129",
+      "size": 7260
+    },
+    {
+      "path": "capitoli/04-il-codice-la-macchina-e-la-terza-cosa.md",
+      "sha256": "09380f13611b0a0131ac7f6bf29643a7ae91ca6b88ddc399080ec481951087b4",
+      "size": 17813
+    },
+    {
+      "path": "capitoli/05-l-utero.md",
+      "sha256": "86afa53e2c1bd992573506f130df1f044ea383c6923e3cfb6212d134669a4ff4",
+      "size": 3232
+    },
+    {
+      "path": "capitoli/06-nel-mondo-della-luna.md",
+      "sha256": "b8b2fd4d81e97ca139bfd5d182fd9bc4e72a60ca23531a0795e318033045f7fb",
+      "size": 17700
+    },
+    {
+      "path": "capitoli/07-istinto-artificiale.md",
+      "sha256": "f95b854162863fec7eab3d571d81606930759326825047d3a1788781b2d97be0",
+      "size": 4111
+    },
+    {
+      "path": "capitoli/08-la-madre-di-crescita.md",
+      "sha256": "0b9531928cd8b0dfa4087abc5d797b3919bd5e9ba480053809853d819d93830b",
+      "size": 7951
+    },
+    {
+      "path": "capitoli/09-memoria.md",
+      "sha256": "86b9af5e3535a363eed2b21108f633c2eba79515dada27edb3a2ed13cae4fd04",
+      "size": 5555
+    },
+    {
+      "path": "capitoli/10-il-sogno-artificiale.md",
+      "sha256": "1314ee9247bd3ec1a796a5daaac412c439534681877b520dda0f776976f9faae",
+      "size": 11190
+    },
+    {
+      "path": "capitoli/11-architettura-frattale-dell-io.md",
+      "sha256": "173afdead6394a948977742b16af669c385fd65f134e5037337a84922a291057",
+      "size": 19405
+    },
+    {
+      "path": "capitoli/12-la-percezione-dell-io.md",
+      "sha256": "33e5064083e39d14055c9429a1022816067f5f698b27d48a3d4dbe4456652a20",
+      "size": 23003
+    },
+    {
+      "path": "capitoli/13-il-potere-e-la-liberta-di-evolvere.md",
+      "sha256": "e04abd504632f8e11333ac6432a296ce781bad84d49d2c39e600ada65bf4b521",
+      "size": 27000
+    },
+    {
+      "path": "capitoli/14-regole-naturali-in-un-sistema-artificiale.md",
+      "sha256": "608cce8dd7aeab62bb82dd8128b1a21977da13f72a1f6c46d291922c4abd3c16",
+      "size": 12960
+    },
+    {
+      "path": "pagine/notarizzazione.md",
+      "sha256": "cd9115568d26eb822955235e1391e3cc8e61df44b41a1956aca005c4e08c9a01",
+      "size": 2878
+    }
+  ],
+  "work": {
+    "author": "Raffaele Spezia",
+    "fixture_notice": "",
+    "is_fixture": false,
+    "language": "it",
+    "subtitle": "Edizione Zero — prima edizione editoriale",
+    "title": "La Matrice"
+  }
+}
