@@ -138,7 +138,7 @@
     {
       "number": 15,
       "output": "capitoli/15-04-l-utero-primo-esperimento.html",
-      "sha256": "58cf38ca7849ec746af673fbd1799fb5a69ed0cc895036a7312820607ad25fab",
+      "sha256": "b718a25b8868c7109eca93e1df6b2a86fa9a9fc9372fe7cd4fcc814cce865fe4",
       "slug": "04-l-utero-primo-esperimento",
       "source": "capitoli/15-04-l-utero-primo-esperimento.md",
       "summary": "",
@@ -153,88 +153,88 @@
   "outputs": [
     {
       "path": "capitoli/00-00-prefazione.html",
-      "sha256": "158e0a9c77897b390f833d0f8e96fedc60ae1217fd3978dd37416723da1f50ec",
+      "sha256": "befa04135b35f588ab8efa2ec81496011295bc3d382e063e50bd091f249f9ce5",
       "size": 3626
     },
     {
       "path": "capitoli/01-00-capitolo-zero.html",
-      "sha256": "01c669eed12e585fd04ac43bc9f16191d0cfe5d0e764a58c879dd4334463bd31",
+      "sha256": "fa995d0c3e13da29dae9d5714ec1b6cd131acb4a75329f14b0de4032358ec673",
       "size": 4079
     },
     {
       "path": "capitoli/02-01-costruire-il-mare.html",
-      "sha256": "9b37e1a193b3137003bbf55bce6b9faae5fd15b537bdc9be88481a8902f64f3e",
+      "sha256": "ac42100eb2fd19f1f91d290cd0dc93e9932de27fecec9fbe79eeb767553f93f0",
       "size": 30456
     },
     {
       "path": "capitoli/03-02-qualcosa-che-continua.html",
-      "sha256": "1c5c9db847c4ac775f1fa320dbad3ec310ee6c5e3f6c4e59987313525435fcb3",
+      "sha256": "61bf7161de4b665847593d960b3549a65ad84654eaa9f7c80043c37ec93e0d10",
       "size": 8036
     },
     {
       "path": "capitoli/04-03-la-terza-cosa.html",
-      "sha256": "6c89f7bedd2e226691b1e8b914afdffbd3da76b816efb1d17fc5b43e0fe57963",
+      "sha256": "0f016e70e10d41ca3cfb79e3b0774dd648ddcdc2f3d03542bbb1c4c182c78886",
       "size": 18768
     },
     {
       "path": "capitoli/05-04-l-utero.html",
-      "sha256": "4e259f782fe85f6779112399fee969513c8e3bbe78f01487cf0adac99b277972",
+      "sha256": "6258e754efcf0d2565cf17df47fb56276a7275cb6e8d6241496a45b56f9f7ad2",
       "size": 5058
     },
     {
       "path": "capitoli/06-05-nel-mondo-della-luna.html",
-      "sha256": "0e42f073c995ca043ffb735824c4eaf0be8a91ee2d38b29e289e8b072d6758a3",
+      "sha256": "b76080fd79331065cd52efedf901fadbd47d91b7acbb987b587283f6e06db2f2",
       "size": 18948
     },
     {
       "path": "capitoli/07-06-istinto-artificiale.html",
-      "sha256": "44b28abda599dca9f94c6cd8163ebb55efb1105b9493802cd5e3d5bbb162ffc4",
+      "sha256": "2fad13d118fa08ca6bea32ef34278939b1ca458c08dba8af4768061fcfc23756",
       "size": 4867
     },
     {
       "path": "capitoli/08-07-la-madre-di-crescita.html",
-      "sha256": "eb2c065f6c6ae483c84fee1de481c7ca2079b22fce677a619a2fdb53b762e870",
+      "sha256": "bc6aa55b2aa6cdf951a870dbe8384ae3825de5665de77e1db7ad545ef8c6cb66",
       "size": 8699
     },
     {
       "path": "capitoli/09-08-memoria.html",
-      "sha256": "8d299586f89dd994b090ee7feb985dcdd8852f9bf4d15633cc92a194e1c7bf57",
+      "sha256": "d4f567f8a5dd23b533e2dda0968b010fc290ce1ca8cf623116878f5f1d327fab",
       "size": 6270
     },
     {
       "path": "capitoli/10-09-il-sogno-artificiale.html",
-      "sha256": "f35283695f372b535458f88d8bdad392f461492db5f26277579c84c4de4e9a4e",
+      "sha256": "5b391efea0d8d652bfdd16c677f31bfd3259fec3ea9623d1da0cb846e55f8608",
       "size": 12055
     },
     {
       "path": "capitoli/11-10-architettura-frattale.html",
-      "sha256": "9e168b8bb781e8ee54a110dcac11bc0b5ef9fe7761ac3285ae7408c72bd563dd",
+      "sha256": "785248dc05f52a73777e235ffce78f730ef7b48768ab86822472401e59dab113",
       "size": 21828
     },
     {
       "path": "capitoli/12-11-percezione-dell-io.html",
-      "sha256": "25edd8e3f84a5a716e6935f1a5eb67826f246767df5daa288e8219fc4cd430a0",
+      "sha256": "e0029b438d03802ed7f8180195be3cb403fc05c303f97007151c13026420e572",
       "size": 24122
     },
     {
       "path": "capitoli/13-12-potere-e-liberta.html",
-      "sha256": "23f8203087de6e992a99963a2958818341a8d34f09a968ff50db931c53b388c9",
+      "sha256": "18de20fa1d8236f9a81f47d2588f13373ba6d194045f4e8ab1019903e8358c7e",
       "size": 28059
     },
     {
       "path": "capitoli/14-13-regole-naturali.html",
-      "sha256": "4bb3dc8e398169c06046987d2ce1bd71a4cc32d55a7c212ef1383af8c32864da",
+      "sha256": "5aba74b0b7ceeae93e13f9b83cd2ba58cc9231ecc4a2f5ba6e294da73bc0aae3",
       "size": 13746
     },
     {
       "path": "capitoli/15-04-l-utero-primo-esperimento.html",
-      "sha256": "2cca7b6a1a22a5f41e542c1f832375726c8eb54293b501b5dadd9df3177daad1",
-      "size": 63093
+      "sha256": "5a6370150c6ea59a49f403ff5bb5ba3ca5d0fafaf7bce46b79a6484e2e642704",
+      "size": 66314
     },
     {
       "path": "index.html",
-      "sha256": "f432baa0c2ae376195eae8a30275958e136cf6b3a45c3cbcc50db12ff1b5c72b",
-      "size": 266407
+      "sha256": "177503a3c49abb18b4ba815078966f482e729be3e5d29c23f421ddd666e7d04b",
+      "size": 269628
     },
     {
       "path": "indice.html",
@@ -242,9 +242,9 @@
       "size": 6199
     },
     {
-      "path": "la-matrice-1.1.2.epub",
-      "sha256": "7ae08139cd367823340ee431e6553f5fbe2396510c037c9b3b9372f1c5102186",
-      "size": 106967
+      "path": "la-matrice-1.1.3.epub",
+      "sha256": "e7b40799321c0b7928edf72b90358f49955038575897eb964b98499bad46c300",
+      "size": 107955
     },
     {
       "path": "pagine/assets/bitcoin-qr.png",
@@ -253,7 +253,7 @@
     },
     {
       "path": "pagine/dare-continuita.html",
-      "sha256": "89189207254797b384efec5c61e4e401303687357a5713c00cb3f0dd7dde9160",
+      "sha256": "1723d7602c363c21054c3a867d90c4273ec2837506a4577b6ec85740b9e7867e",
       "size": 1588
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "path": "versioni.html",
-      "sha256": "d327620993cb8b11a8f827c9b7711b60141d76ac6b52560a2fe7fca798c9ed08",
+      "sha256": "46bf28b852151bd20c449b198433d0c00c6dd021b21d48118e4e8a1ce7ea6904",
       "size": 5319
     }
   ],
@@ -279,11 +279,11 @@
   },
   "release": {
     "chapter_count": 16,
-    "content_digest": "a3ffcebfc8fee4d70d174e60dbb85113c714d8a67f18c3424cfe4b179e9db44c",
+    "content_digest": "a1ca87012a76190b3c260fbaeeb75f1cfb53b11e5f9b6fb0598da0ab35d9b532",
     "date": "2026-10-20",
-    "release_digest": "a041b12d5bb4456ff6c985610c13ec8fcbf68387df2697f6f29a3e367ef73fb7",
-    "site_digest": "1ee94d83c18d953607954f494471ca69f8b7532a55fe77c1993a314480fa5d5c",
-    "version": "1.1.2"
+    "release_digest": "930af76d54805608e23256b932fceaef028907ecc5740ff76c7f40f2d37e1f49",
+    "site_digest": "178b7b3b48a87af7a7f40811f6ee96784f1ad56c2f70b0c378abd35924df6fd7",
+    "version": "1.1.3"
   },
   "schema": "matrice-publisher/manifest/1",
   "sources": [
@@ -379,8 +379,8 @@
     },
     {
       "path": "capitoli/15-04-l-utero-primo-esperimento.md",
-      "sha256": "58cf38ca7849ec746af673fbd1799fb5a69ed0cc895036a7312820607ad25fab",
-      "size": 60418
+      "sha256": "b718a25b8868c7109eca93e1df6b2a86fa9a9fc9372fe7cd4fcc814cce865fe4",
+      "size": 63547
     },
     {
       "path": "pagine/dare-continuita.md",

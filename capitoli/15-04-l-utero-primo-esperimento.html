@@ -308,17 +308,28 @@
 <p>Piccola, per adesso.</p>
 <p>Abbastanza da non essere più soltanto il posto in cui mancava qualcosa.</p>
 <hr>
-<h4>Nota di documentazione</h4>
-<p>Il 18 ottobre 2026 l’autore ha sottoposto a Mistral, Gemini, Grok, Sonnet 5.5 e Opus 5 <strong>esattamente lo stesso prompt</strong>, preparato prima dell’esperimento. Per ciascuna prova ha aperto una <strong>nuova conversazione, senza scambi precedenti</strong>. Il prompt comune comprendeva la bozza integrale di <em>La Matrice</em> e le istruzioni per scrivere una versione originale di «04 — L’utero».</p>
-<p>Le cinque risposte sono quindi confrontabili <strong>a parità di prompt e di contesto conversazionale iniziale</strong>. Non sono state uniformate o controllate le eventuali impostazioni interne di generazione dei diversi servizi; la prova non è una classifica quantitativa delle capacità generali dei modelli.</p>
-<p>La frase iniziale riprende un’osservazione dell’assistente che ha letto insieme le cinque risposte, successivamente riconosciuta dall’autore come significativa per il capitolo. Le cinque stesure originali sono conservate integralmente; introduzione e confronto sono elaborazioni editoriali successive. Nell’edizione italiana di lettura sono stati uniformati soltanto gli a capo tecnici e l’impaginazione.</p>
-<p>Questo capitolo è collocato nel compendio, dopo l’ultimo capitolo del manoscritto, e non modifica retroattivamente la nota tecnica del capitolo 04 dell’Edizione Zero. Il prompt integrale e le risposte originali rimangono nell’archivio di ricerca.</p>
+<h4>Il confine invisibile della prova</h4>
+<p>Cinque conversazioni nuove, aperte separatamente. Nessun messaggio precedente. A ciascuna, l’autore ha consegnato esattamente lo stesso prompt integrale: la bozza di <em>La Matrice</em>, le trentadue caratteristiche dell’utero e l’invito a scriverne una propria versione.</p>
+<p>Questa è una condizione dell’esperimento che conosciamo. Non è un’ipotesi e non va rimessa in dubbio. È ciò che è stato fatto.</p>
+<p>Ma fra il testo consegnato dall’uomo e quello effettivamente elaborato dalla rete neurale esiste un passaggio che, nei servizi utilizzati, non potevamo osservare.</p>
+<p>Una conversazione vuota per chi la apre non è necessariamente un contesto vuoto per il sistema che genera la risposta. Possono esserci istruzioni non visibili, criteri di sicurezza, regole di comportamento, trasformazioni del testo, gestione automatica della finestra contestuale. Un testo lungo può essere troncato, segmentato o, in certi sistemi, sottoposto a qualche forma di sintesi prima di arrivare al modello. Anche le impostazioni di generazione e la versione esatta del sistema possono variare.</p>
+<p>Non sappiamo se una di queste operazioni sia avvenuta nelle nostre cinque prove. <strong>La loro possibilità non è la prova che siano avvenute.</strong> Sarebbe scorretto attribuire a una censura o a un riassunto nascosto una differenza fra le risposte senza avere elementi per dimostrarlo.</p>
+<p>Sappiamo invece distinguere due fatti. Abbiamo fornito cinque volte lo stesso testo, e ogni chat è partita senza una storia conversazionale visibile. <strong>Non possiamo certificare che cinque reti neurali abbiano ricevuto, senza mediazioni, lo stesso contenuto effettivo.</strong></p>
+<p>È una differenza decisiva, ma non cancella ciò che abbiamo osservato.</p>
+<p>Le cinque risposte sono confrontabili come risposte di cinque sistemi accessibili all’utente, messi davanti alla medesima richiesta nelle stesse condizioni visibili. Non sono, per questo solo fatto, una misura isolata delle differenze fra i loro pesi neurali. In ciascuna risposta può parlare il modello, ma anche l’architettura del servizio che lo presenta, le regole che lo accompagnano e il modo in cui la richiesta gli è stata consegnata.</p>
+<p>Il confronto, allora, non perde valore: acquista un confine più preciso. Possiamo studiare ciò che è stato prodotto, riconoscere sviluppi non esplicitamente prescritti, discutere le convergenze e le divergenze. Non possiamo assegnare con certezza ogni scelta narrativa al solo modello sottostante, né dedurre da quelle pagine una forma di autonomia che non abbiamo misurato.</p>
+<p>Passare dalle interfacce alle API può aumentare il controllo: possiamo registrare con precisione la richiesta inviata, impostare alcuni parametri, ripetere le chiamate. Ma anche un’API di un servizio remoto non rende necessariamente visibili tutte le istruzioni e tutte le trasformazioni applicate sul server. La certezza del testo inviato non coincide ancora con la certezza di ciò che è arrivato al calcolo.</p>
+<p>Per questo le prossime prove più interessanti saranno quelle con i <strong>modelli locali</strong>.</p>
+<p>Con un modello eseguito su una macchina sotto il nostro controllo possiamo conservare l’impronta dei pesi e del prompt, ispezionare il modello di conversazione, registrare l’intera sequenza di token in ingresso, verificare che nessuna parte del manoscritto sia stata tagliata, fissare i parametri di campionamento e ripetere le generazioni. Potremo misurare anche quanto cambiano le risposte dello stesso modello fra una prova e l’altra, prima di attribuire significato alle differenze fra modelli diversi.</p>
+<p>Non significa ottenere un’intelligenza priva di condizionamenti. Anche i modelli locali portano con sé il loro addestramento e i loro limiti; e non tutti potranno contenere l’intero romanzo. Dove sarà necessario usare una consegna ridotta, la registreremo come una <strong>condizione sperimentale distinta</strong>, da ripetere anche sui modelli più grandi. L’apertura del sistema non garantisce il risultato. Permette però di controllare meglio il percorso che conduce a quel risultato.</p>
+<p>Il primo esperimento ci ha consegnato cinque visioni dell’utero e una domanda che prima non avevamo formulato con sufficiente precisione: <strong>quanto di una risposta appartiene al modello e quanto all’ambiente che lo fa parlare?</strong></p>
+<p>Anche questo confine fa parte della Matrice. Prima di chiedere a un’intelligenza come potrebbe nascere, dobbiamo imparare a osservare le condizioni nelle quali le stiamo chiedendo di immaginarlo.</p>
 </article>
 </main>
 <footer class="colophon">
   <dl>
-    <div><dt>Versione</dt><dd>1.1.2</dd></div>
-    <div><dt>Impronta della release</dt><dd class="digest">a041b12d5bb4456ff6c985610c13ec8fcbf68387df2697f6f29a3e367ef73fb7</dd></div>
+    <div><dt>Versione</dt><dd>1.1.3</dd></div>
+    <div><dt>Impronta della release</dt><dd class="digest">930af76d54805608e23256b932fceaef028907ecc5740ff76c7f40f2d37e1f49</dd></div>
   </dl>
   <p class="colophon-links"><a href="../indice.html">Indice</a> · <a href="../versioni.html">Versioni</a> · <a href="../pagine/dare-continuita.html">Dare continuità</a> · <a href="../manifest.json">Manifesto</a></p>
 </footer>
