@@ -1,0 +1,109 @@
+{
+  "updated": "2026-10-20",
+  "editions": [
+    {
+      "id": "it-1.1.3-0",
+      "language": "it",
+      "version": "1.1.3",
+      "date": "2026-10-20",
+      "cid": "bafybeigwzmgvuen4orf5qszjl3hlj7gxqoijfdfjekmvaqu54ecahxiab4",
+      "label": "Edizione Uno",
+      "note": "Il confine invisibile della prova.",
+      "hedera_sequence": 11,
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/",
+      "latest": true,
+      "epub": "la-matrice-1.1.3.epub"
+    },
+    {
+      "id": "en-1.1.3-1",
+      "language": "en",
+      "version": "1.1.3",
+      "date": "2026-10-20",
+      "cid": "bafybeiel2pdzbp2g2awaznkzdsa5xgkql56pnja2a6awccz2cnd75sy5lq",
+      "label": "Edition One",
+      "note": "The Invisible Boundary of the Experiment.",
+      "hedera_sequence": 12,
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/",
+      "latest": true,
+      "epub": "la-matrice-english-1.1.3.epub"
+    },
+    {
+      "id": "it-1.1.2-2",
+      "language": "it",
+      "version": "1.1.2",
+      "date": "2026-10-20",
+      "cid": "bafybeihnsajkvd3fr7otsapafjarnovugit5khtw7dihmhoczebgstq72m",
+      "label": "Edizione Uno",
+      "note": "Il romanzo e il primo esperimento con cinque intelligenze artificiali.",
+      "hedera_sequence": 9,
+      "pages": null,
+      "latest": false,
+      "epub": "la-matrice-1.1.2.epub"
+    },
+    {
+      "id": "en-1.1.2-3",
+      "language": "en",
+      "version": "1.1.2",
+      "date": "2026-10-20",
+      "cid": "bafybeigm6ahshx3mi2wfyhhg3w44tkwflzfmhlug4h6h7qtvlbze2tzc5u",
+      "label": "Edition One",
+      "note": "The novel and the first experiment with five artificial intelligences.",
+      "hedera_sequence": 10,
+      "pages": null,
+      "latest": false,
+      "epub": "la-matrice-english-1.1.2.epub"
+    },
+    {
+      "id": "it-0.1-4",
+      "language": "it",
+      "version": "0.1",
+      "date": "2026-10-18",
+      "cid": "bafybeiahmfqqlp33z4nxo6eh3sbcn4n37j5hoebhn2gamad34cv3ncdsgm",
+      "label": "Edizione Zero",
+      "note": "La prima forma del libro, prima del compendio sperimentale.",
+      "hedera_sequence": 4,
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/versioni/0.1/",
+      "latest": false,
+      "epub": "la-matrice-0.1.epub"
+    },
+    {
+      "id": "it-1.1.1-5",
+      "language": "it",
+      "version": "1.1.1",
+      "date": "2026-10-18",
+      "cid": "bafybeie2jfsysmwatmyvtgt2p5ifj6352skmh5ykj2spruyw5avrnml6ma",
+      "label": "Edizione Uno",
+      "note": "Versione precedente della presentazione del libro.",
+      "hedera_sequence": 6,
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/versioni/1.1.1/",
+      "latest": false,
+      "epub": "la-matrice-1.1.1.epub"
+    },
+    {
+      "id": "it-1.0-6",
+      "language": "it",
+      "version": "1.0",
+      "date": "2026-10-18",
+      "cid": "bafybeic3b35eicxxw2vjag7dva5n3m2y3e3fmq3h44bmfnejc6cubpgnda",
+      "label": "Edizione Uno",
+      "note": "Versione precedente della presentazione del libro.",
+      "hedera_sequence": 5,
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/versioni/1.0/",
+      "latest": false,
+      "epub": "la-matrice-1.0.epub"
+    },
+    {
+      "id": "it-1.1-7",
+      "language": "it",
+      "version": "1.1",
+      "date": "2026-10-18",
+      "cid": null,
+      "label": "Edizione Uno",
+      "note": "Versione pubblicata su GitHub Pages, senza una nuova attestazione IPFS/Hedera.",
+      "hedera_sequence": null,
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/versioni/1.1/",
+      "latest": false,
+      "epub": "la-matrice-1.1.epub"
+    }
+  ]
+}
