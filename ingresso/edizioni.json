@@ -28,7 +28,20 @@
       "epub": "la-matrice-english-1.1.3.epub"
     },
     {
-      "id": "it-1.1.2-2",
+      "id": "es-1.1.3-2",
+      "language": "es",
+      "version": "1.1.3",
+      "date": "2026-10-20",
+      "cid": "bafybeigtqltuixdtlc4lo3l7qrhefxwp64725dizr4hsyhicweg4f46zy4",
+      "label": "Edición Uno",
+      "note": "El límite invisible de la prueba.",
+      "hedera_sequence": 13,
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/",
+      "latest": true,
+      "epub": "la-matriz-espanol-1.1.3.epub"
+    },
+    {
+      "id": "it-1.1.2-3",
       "language": "it",
       "version": "1.1.2",
       "date": "2026-10-20",
@@ -41,7 +54,7 @@
       "epub": "la-matrice-1.1.2.epub"
     },
     {
-      "id": "en-1.1.2-3",
+      "id": "en-1.1.2-4",
       "language": "en",
       "version": "1.1.2",
       "date": "2026-10-20",
@@ -54,7 +67,7 @@
       "epub": "la-matrice-english-1.1.2.epub"
     },
     {
-      "id": "it-0.1-4",
+      "id": "it-0.1-5",
       "language": "it",
       "version": "0.1",
       "date": "2026-10-18",
@@ -67,7 +80,7 @@
       "epub": "la-matrice-0.1.epub"
     },
     {
-      "id": "it-1.1.1-5",
+      "id": "it-1.1.1-6",
       "language": "it",
       "version": "1.1.1",
       "date": "2026-10-18",
@@ -80,7 +93,7 @@
       "epub": "la-matrice-1.1.1.epub"
     },
     {
-      "id": "it-1.0-6",
+      "id": "it-1.0-7",
       "language": "it",
       "version": "1.0",
       "date": "2026-10-18",
@@ -93,7 +106,7 @@
       "epub": "la-matrice-1.0.epub"
     },
     {
-      "id": "it-1.1-7",
+      "id": "it-1.1-8",
       "language": "it",
       "version": "1.1",
       "date": "2026-10-18",
