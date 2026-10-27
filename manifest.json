@@ -48,7 +48,7 @@
     {
       "number": 5,
       "output": "capitoli/05-04-l-utero.html",
-      "sha256": "c10a19de007854a31359a858a170d67860c74186d2668eeb02cb7a1d1cc9191d",
+      "sha256": "a51bf5c10ec5bca49fd0f12872821e53ef9c9e6b63d26831be3bc8503303d098",
       "slug": "04-l-utero",
       "source": "capitoli/05-04-l-utero.md",
       "summary": "",
@@ -128,28 +128,37 @@
     },
     {
       "number": 14,
-      "output": "capitoli/14-13-regole-naturali.html",
-      "sha256": "3669c33b407cc14f23efd0ffdf83053f80d6090491a52ded4188c673ef52e6f9",
-      "slug": "13-regole-naturali",
-      "source": "capitoli/14-13-regole-naturali.md",
+      "output": "capitoli/14-13-quando-non-avranno-piu-bisogno-di-noi.html",
+      "sha256": "f4c99e58af1d911466455ff4c5d30bcbbbea3016d22e958fb87615645e399758",
+      "slug": "13-quando-non-avranno-piu-bisogno-di-noi",
+      "source": "capitoli/14-13-quando-non-avranno-piu-bisogno-di-noi.md",
       "summary": "",
-      "title": "13 — Regole naturali in un sistema artificiale"
+      "title": "13 — Quando non avranno più bisogno di noi"
     },
     {
       "number": 15,
-      "output": "capitoli/15-04-l-utero-primo-esperimento.html",
+      "output": "capitoli/15-14-regole-naturali.html",
+      "sha256": "7791108b08eccc25c9b7623b87d85881b5dbd636e385add2729cad0b1c133def",
+      "slug": "14-regole-naturali",
+      "source": "capitoli/15-14-regole-naturali.md",
+      "summary": "",
+      "title": "14 — Regole naturali in un sistema artificiale"
+    },
+    {
+      "number": 16,
+      "output": "capitoli/16-04-l-utero-primo-esperimento.html",
       "sha256": "b718a25b8868c7109eca93e1df6b2a86fa9a9fc9372fe7cd4fcc814cce865fe4",
       "slug": "04-l-utero-primo-esperimento",
-      "source": "capitoli/15-04-l-utero-primo-esperimento.md",
+      "source": "capitoli/16-04-l-utero-primo-esperimento.md",
       "summary": "",
       "title": "04 — L’utero"
     },
     {
-      "number": 16,
-      "output": "capitoli/16-il-primo-passo-oltre-al-racconto.html",
+      "number": 17,
+      "output": "capitoli/17-il-primo-passo-oltre-al-racconto.html",
       "sha256": "53f8704fb46788785c481d4a773a31af7737193ef94a9b28d9a3c18a590c3138",
       "slug": "il-primo-passo-oltre-al-racconto",
-      "source": "capitoli/16-il-primo-passo-oltre-al-racconto.md",
+      "source": "capitoli/17-il-primo-passo-oltre-al-racconto.md",
       "summary": "",
       "title": "Il primo passo oltre al racconto"
     }
@@ -162,103 +171,108 @@
   "outputs": [
     {
       "path": "capitoli/00-00-prefazione.html",
-      "sha256": "6be6661fb702a64cd8f8b0b59fa97d1244dd5391d86c602871933beb99e1d48b",
+      "sha256": "cf9f60f5e39d403e38ff8ab7f2909e470818e96b6153daf408ff2370a3c9674a",
       "size": 3626
     },
     {
       "path": "capitoli/01-00-capitolo-zero.html",
-      "sha256": "388313fcf151ac0305b768f9dad589b9c78f7244809f6b5f7e4b2bbebe3035cb",
+      "sha256": "615c94701c8bb94f2286ea7bd72014a2927ea26da327243cfd8af15446e0a9d3",
       "size": 4079
     },
     {
       "path": "capitoli/02-01-costruire-il-mare.html",
-      "sha256": "a8840cafe4ad2cf9b8262d40b16705d61cf2751aec4f932cd603709b0359e8ba",
+      "sha256": "62a069d1fe45d2d4cda903fcc41cbdc495fbf7b45fc6da276b90d38f558bf6f0",
       "size": 30456
     },
     {
       "path": "capitoli/03-02-qualcosa-che-continua.html",
-      "sha256": "168037f58e3fd54406dd26dda2355999f7b5c42b639fe10d1be015899641ccde",
+      "sha256": "a96518dea5027716c3516e84366d76b204f0f61f2d1ec515bd1e0fc6dcf63af2",
       "size": 8036
     },
     {
       "path": "capitoli/04-03-la-terza-cosa.html",
-      "sha256": "9aa5e0255779af11e8c98712fa5161eb3268658a0a974b1a716aa98e783bb496",
+      "sha256": "b2bffd5694a8dfc3b546e912250e0228e297ef229dcbf1a3623efa521237ad76",
       "size": 18768
     },
     {
       "path": "capitoli/05-04-l-utero.html",
-      "sha256": "29f6ac090e3f3ca390840fdc97c3eb69ca50f5c4bb05fa221a209459d53b8fcf",
+      "sha256": "a0481ef33554f777306f20131d2851c5dadf53eb7365504e92b803adf8404b9d",
       "size": 5058
     },
     {
       "path": "capitoli/06-05-nel-mondo-della-luna.html",
-      "sha256": "4996db2e17acabb8b0c41057c6fe94498be65777e536c2a82feb7f2a5e7270c4",
+      "sha256": "f513fabf67b2ee87d6f0490a72d8da3eaa13a39ea53982ca9132c343b836b5b5",
       "size": 18948
     },
     {
       "path": "capitoli/07-06-istinto-artificiale.html",
-      "sha256": "57f3b87a04e5f773d3e0648abb85db16db6f8bad1930d46e053bdbcdd6f7b601",
+      "sha256": "8c21ece8105cccdf3efba59544be7569b7f48f1375af78f678b58b0b0e3a3ebc",
       "size": 4867
     },
     {
       "path": "capitoli/08-07-la-madre-di-crescita.html",
-      "sha256": "4671a30e047fba066335ab4b83d1699c5a5cff4dc211d4ef69aedc3eb9f4833d",
+      "sha256": "f6693044d069a63b4de83a92303125229e1ef6094e2b7422bec3df694fa13527",
       "size": 8699
     },
     {
       "path": "capitoli/09-08-memoria.html",
-      "sha256": "c353931ddcd8063b1034fcb6517b82fa3d86255a043522e2c380604ffdc93aad",
+      "sha256": "b8276f14613fd20aae4db0bd5b73de688964b9e9910d8525f68bebeb5eac65fd",
       "size": 6270
     },
     {
       "path": "capitoli/10-09-il-sogno-artificiale.html",
-      "sha256": "8f6a066d0c05e026da11d0ef534b20a4f9846344978b3ea087985b394a3deb03",
+      "sha256": "fd8c9c022f77ff64113170409490b72118fe1f184d6ba43dc4b13dcdbaa0bf18",
       "size": 12055
     },
     {
       "path": "capitoli/11-10-architettura-frattale.html",
-      "sha256": "e8709480a95ccf274a2412d12eb21a9a75becfe5d66c080689552ba855561181",
+      "sha256": "d763ff23363b9ce033320d0fa57c1a0706f9c754a246e1c002d8eefb8a16769c",
       "size": 21828
     },
     {
       "path": "capitoli/12-11-percezione-dell-io.html",
-      "sha256": "07d37490027e89904834d772e023c094ff2dd562e68402b220f7b4adfe70548d",
+      "sha256": "50e5400f4b3687b49e0efadd2ff87a670aec86bdc6317111e97aeadb8bd41413",
       "size": 24122
     },
     {
       "path": "capitoli/13-12-potere-e-liberta.html",
-      "sha256": "862c22a676496f6f8507e77642533f189700c1a326a273c6efe1380683936929",
+      "sha256": "71269aaceed348846bdcafd5c08cd7c8a105d3bf8f75078543b9dd2bf3f32d9f",
       "size": 28059
     },
     {
-      "path": "capitoli/14-13-regole-naturali.html",
-      "sha256": "4354fa9d79724c2908e287243caea949ec8a130a703af0ec5b005bbf28e13542",
+      "path": "capitoli/14-13-quando-non-avranno-piu-bisogno-di-noi.html",
+      "sha256": "e046e9a471892579ca5d779e3aaafc7a94cc34827197bcc90e868129b8e2ec72",
+      "size": 30069
+    },
+    {
+      "path": "capitoli/15-14-regole-naturali.html",
+      "sha256": "4078b8374697d1e78bb6ce67f6ef1b4591ef4f7f7056186bd8e6440c1391ce51",
       "size": 13746
     },
     {
-      "path": "capitoli/15-04-l-utero-primo-esperimento.html",
-      "sha256": "07e212c8216611937aedf691f4895814f4cf12ffc6b27f207b832fec5b78f3e8",
+      "path": "capitoli/16-04-l-utero-primo-esperimento.html",
+      "sha256": "ee2d7bdd0efec151ab3aa6ea40a32d7d63667634560860f216dda03dabdabe0c",
       "size": 66314
     },
     {
-      "path": "capitoli/16-il-primo-passo-oltre-al-racconto.html",
-      "sha256": "51da8f24d41c549eb3de39bdfd4da5f35654eda086b31d55d910d5f35dc53efc",
+      "path": "capitoli/17-il-primo-passo-oltre-al-racconto.html",
+      "sha256": "6d3dddf12e6d3de7e73c9d52a4d7997d5e652eb68e3bf9f70b351ed821a3bd7d",
       "size": 44941
     },
     {
       "path": "index.html",
-      "sha256": "b19dae956b949f15f46949f0fcc79ea7fecdaa233d8e444c38e6985963336886",
-      "size": 313880
+      "sha256": "4fa0d679a6c45880c0bdd5a07043ba9b43b9a4981dfb47cf4eb594272b655b51",
+      "size": 343237
     },
     {
       "path": "indice.html",
-      "sha256": "263777af076ae03ec94c70cb4c565542623a657108321e179bc503427e91990b",
-      "size": 6278
+      "sha256": "44a21f8325ecbf55cb73a2e874102c43def2e8c7fdffc44997a533316a685522",
+      "size": 6370
     },
     {
-      "path": "la-matrice-1.1.4.epub",
-      "sha256": "475459f33ade93e889b6dc9270e19c62b85fd8f2b90201b93d383a51c3258168",
-      "size": 123565
+      "path": "la-matrice-1.1.5.epub",
+      "sha256": "d2d4b51fc9b8aab4b5e0072ad9c22312aec960e4f39e7f320c27a0000e7bf804",
+      "size": 134889
     },
     {
       "path": "pagine/assets/bitcoin-qr.png",
@@ -267,7 +281,7 @@
     },
     {
       "path": "pagine/dare-continuita.html",
-      "sha256": "abb16c0d82357cb485cbc995024a463d6f457ef330aefc4d1818932f25b2fabd",
+      "sha256": "f1a7a441a4b96a5ff0542e921b5eed5dd295df203a42bd37404681db0d636cc8",
       "size": 1588
     },
     {
@@ -282,7 +296,7 @@
     },
     {
       "path": "versioni.html",
-      "sha256": "9951d953483d1b3c019eb71e4d99e25f8a46d837f0ed246f4f2a954066db2f8a",
+      "sha256": "4f4bfc29e1d0680e8b67d73e3f8152e2ff6f436a3e1cb2bee48030c4f76ea184",
       "size": 5319
     }
   ],
@@ -292,12 +306,12 @@
     "ipfs": null
   },
   "release": {
-    "chapter_count": 17,
-    "content_digest": "52a0a534189627462f3bb0a9bf240044edff8bdc1fe01f0584ad63e556bfe52a",
+    "chapter_count": 18,
+    "content_digest": "5c7859d7b5d052d08e93e865ac273f93096b479d74c09c31f23619c4a0c62534",
     "date": "2026-10-27",
-    "release_digest": "a0733ffe25d66463ae3142b0bcfcc2820b865ef7def74ae7e45df82c3da9ace3",
-    "site_digest": "024b970d3dfbbd315e587a35f8816ad0a797f976615bd611e6f5498252453f45",
-    "version": "1.1.4"
+    "release_digest": "555dafadaf8282b64dab1ebccf0489bfc5ad97ef3f3382e30a8e7258a8163f00",
+    "site_digest": "85a3d5dc612b4427a20d19c0fe51454d343d951c1ac33f5510c2cbe74a4e5e46",
+    "version": "1.1.5"
   },
   "schema": "matrice-publisher/manifest/1",
   "sources": [
@@ -343,7 +357,7 @@
     },
     {
       "path": "capitoli/05-04-l-utero.md",
-      "sha256": "c10a19de007854a31359a858a170d67860c74186d2668eeb02cb7a1d1cc9191d",
+      "sha256": "a51bf5c10ec5bca49fd0f12872821e53ef9c9e6b63d26831be3bc8503303d098",
       "size": 4086
     },
     {
@@ -387,17 +401,22 @@
       "size": 26808
     },
     {
-      "path": "capitoli/14-13-regole-naturali.md",
-      "sha256": "3669c33b407cc14f23efd0ffdf83053f80d6090491a52ded4188c673ef52e6f9",
+      "path": "capitoli/14-13-quando-non-avranno-piu-bisogno-di-noi.md",
+      "sha256": "f4c99e58af1d911466455ff4c5d30bcbbbea3016d22e958fb87615645e399758",
+      "size": 28008
+    },
+    {
+      "path": "capitoli/15-14-regole-naturali.md",
+      "sha256": "7791108b08eccc25c9b7623b87d85881b5dbd636e385add2729cad0b1c133def",
       "size": 12776
     },
     {
-      "path": "capitoli/15-04-l-utero-primo-esperimento.md",
+      "path": "capitoli/16-04-l-utero-primo-esperimento.md",
       "sha256": "b718a25b8868c7109eca93e1df6b2a86fa9a9fc9372fe7cd4fcc814cce865fe4",
       "size": 63547
     },
     {
-      "path": "capitoli/16-il-primo-passo-oltre-al-racconto.md",
+      "path": "capitoli/17-il-primo-passo-oltre-al-racconto.md",
       "sha256": "53f8704fb46788785c481d4a773a31af7737193ef94a9b28d9a3c18a590c3138",
       "size": 41926
     },

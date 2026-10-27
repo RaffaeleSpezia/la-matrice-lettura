@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>03 — El código, la máquina y la tercera cosa — La Matriz</title>
+<link rel="stylesheet" href="../stile.css">
+</head>
+<body>
+<header class="masthead">
+  <p class="wordmark"><a href="../index.html">La Matriz</a></p>
+</header>
+<main class="chapter">
+<h1>03 — El código, la máquina y la tercera cosa</h1>
+<article class="prose">
+<p>No hemos considerado a fondo un hecho fundamental.</p>
+<p>Esta vez tenemos delante una máquina nueva.</p>
+<p>Una caja negra para todos.</p>
+<p>Una caja que, al recibir una combinación de información de entrada, produce una combinación de salida que de algún modo resulta correcta, coherente o útil.</p>
+<p>No porque alguien haya escrito una por una las reglas que conectan esa entrada con esa salida.</p>
+<p>No porque exista, escondida en algún lugar, una larga secuencia de instrucciones del tipo:</p>
+<p>si el usuario dice esto, responde aquello.</p>
+<p>Dentro de esa caja existe, en cambio, una representación.</p>
+<p>Una representación comprimida, incompleta, imperfecta, pero extraordinariamente vasta de nuestra realidad, de nuestros conocimientos, de nuestro lenguaje, de nuestras reglas, de las relaciones entre los objetos, de los conceptos que utilizamos y de una parte enorme de la cultura producida por los seres humanos.</p>
+<p>Podemos darle algo que comprendemos de inmediato.</p>
+<p>Una frase.</p>
+<p>Una imagen.</p>
+<p>Un sonido.</p>
+<p>Una secuencia de números.</p>
+<p>Un programa.</p>
+<p>La descripción de un problema.</p>
+<p>La máquina recibe esa secuencia, la hace pasar por su propia estructura interna y produce otra secuencia.</p>
+<p>Y esa secuencia vuelve de nuevo a nuestro mundo.</p>
+<p>Palabras que comprendemos.</p>
+<p>Código que podemos ejecutar.</p>
+<p>Imágenes que podemos observar.</p>
+<p>Acciones que podemos realizar.</p>
+<p>En la mayoría de los casos, algo útil.</p>
+<p>Esto solo parece normal porque nos hemos acostumbrado muy deprisa.</p>
+<p>Pero no lo es en absoluto.</p>
+<h3>Primero el código</h3>
+<p>Durante décadas hemos identificado el software con algo relativamente preciso.</p>
+<p>Un conjunto de instrucciones.</p>
+<p>El programador decidía qué debía ocurrir y le describía a la máquina cómo hacerlo.</p>
+<p>El software podía ser gigantesco, complejo, lleno de niveles de abstracción, bibliotecas, dependencias y comportamientos difíciles de prever.</p>
+<p>Pero en su base seguía habiendo una lógica familiar.</p>
+<p>Alguien había escrito unas instrucciones.</p>
+<p>El código representaba el comportamiento de la máquina.</p>
+<p>La complejidad podía ser enorme, pero seguía existiendo una relación bastante clara entre el programa y lo que el programa hacía.</p>
+<p>Si queríamos modificar su comportamiento, modificábamos el código.</p>
+<p>Si queríamos añadir una función, añadíamos código.</p>
+<p>Si queríamos entender por qué ocurría algo, al menos en teoría podíamos seguir la ejecución de las instrucciones.</p>
+<p>Era difícil.</p>
+<p>Pero el principio estaba claro.</p>
+<h3>Después la máquina</h3>
+<p>Antes incluso del software teníamos la máquina física.</p>
+<p>El motor.</p>
+<p>El chasis.</p>
+<p>Los engranajes.</p>
+<p>La turbina.</p>
+<p>El circuito.</p>
+<p>El ordenador.</p>
+<p>La máquina existía como objeto.</p>
+<p>Tenía una forma.</p>
+<p>Tenía límites.</p>
+<p>Podíamos señalarla con un dedo.</p>
+<p>Podíamos decir:</p>
+<p>esta es la máquina.</p>
+<p>El software había introducido después algo distinto.</p>
+<p>La misma máquina física podía realizar tareas completamente diferentes cambiando el programa.</p>
+<p>El ordenador se había convertido en una máquina universal.</p>
+<p>Pero seguían existiendo dos niveles fácilmente distinguibles.</p>
+<p>Por un lado, el hardware.</p>
+<p>Por el otro, el software.</p>
+<p>La máquina.</p>
+<p>Y el código que la gobernaba.</p>
+<p>Esta distinción ha quedado tan arraigada en nuestra manera de pensar que seguimos utilizándola hoy.</p>
+<p>Hardware y software.</p>
+<p>El cuerpo y las instrucciones.</p>
+<p>Pero quizá ya no baste.</p>
+<h3>La tercera cosa</h3>
+<p>Un gran modelo neuronal no es simplemente código.</p>
+<p>Por supuesto que hay código.</p>
+<p>Sirve para definir la arquitectura.</p>
+<p>Sirve para entrenar el modelo.</p>
+<p>Sirve para cargar los pesos.</p>
+<p>Sirve para ejecutar las operaciones matemáticas.</p>
+<p>Sirve para distribuir el cálculo en el hardware.</p>
+<p>Pero el código, por sí solo, no contiene lo que la máquina sabe hacer.</p>
+<p>Podemos tener dos copias perfectamente idénticas del programa que ejecuta una red neuronal.</p>
+<p>El mismo código.</p>
+<p>La misma arquitectura.</p>
+<p>El mismo hardware.</p>
+<p>Y obtener dos máquinas radicalmente distintas cargando pesos distintos.</p>
+<p>Una puede conocer una lengua.</p>
+<p>La otra no.</p>
+<p>Una puede programar.</p>
+<p>La otra puede reconocer imágenes.</p>
+<p>Una puede ser casi inútil.</p>
+<p>La otra puede contener una representación extremadamente sofisticada del mundo.</p>
+<p>¿Dónde está, entonces, la máquina?</p>
+<p>No en el código.</p>
+<p>No completamente en el hardware.</p>
+<p>Ha surgido una tercera cosa.</p>
+<p>Una estructura aprendida.</p>
+<p>Una configuración numérica capaz de transformar entradas en salidas a través de una enorme red de relaciones.</p>
+<p>Los pesos no son simplemente datos en el sentido tradicional del término.</p>
+<p>No son un archivo de documentos.</p>
+<p>No son una base de datos que podamos consultar buscando una fila concreta.</p>
+<p>Tampoco son instrucciones.</p>
+<p>Son la propia estructura a través de la cual se transforma la información.</p>
+<p>Si cambiamos esa estructura, cambiamos el comportamiento de la máquina.</p>
+<p>Y, sin embargo, ningún programador ha escrito directamente esa estructura.</p>
+<p>Ha sido producida.</p>
+<p>Entrenada.</p>
+<p>Se ha hecho que emerja.</p>
+<p>Esta es la tercera cosa.</p>
+<p>No solo código.</p>
+<p>No solo máquina.</p>
+<p>Una máquina aprendida.</p>
+<h3>Una máquina que nadie ha programado directamente</h3>
+<p>Esta diferencia es enorme.</p>
+<p>Por primera vez hemos construido sistemas en los que el comportamiento más interesante no deriva de instrucciones explícitas escritas una por una.</p>
+<p>Deriva de un proceso.</p>
+<p>Mostramos a la máquina cantidades enormes de información.</p>
+<p>Definimos un objetivo.</p>
+<p>Corregimos el error.</p>
+<p>Modificamos miles de millones de parámetros.</p>
+<p>Repetimos el proceso un número enorme de veces.</p>
+<p>Al final obtenemos algo que funciona.</p>
+<p>Pero no hemos escrito directamente aquello en lo que se ha convertido.</p>
+<p>Hemos construido el proceso capaz de producirlo.</p>
+<p>Es una diferencia parecida a la que existe entre construir un objeto y crear las condiciones para que algo crezca.</p>
+<p>Cuando escribimos un programa tradicional, construimos directamente el comportamiento.</p>
+<p>Cuando entrenamos una red neuronal, construimos sobre todo las condiciones a través de las cuales puede emerger el comportamiento.</p>
+<p>El resultado final puede utilizarse como una máquina.</p>
+<p>Pero no se ha construido de la misma manera que las máquinas anteriores.</p>
+<h3>La caja</h3>
+<p>De aquí nace la sensación de caja negra.</p>
+<p>Proporcionamos una entrada.</p>
+<p>Obtenemos una salida.</p>
+<p>Podemos conocer perfectamente la arquitectura.</p>
+<p>Podemos conocer cada peso.</p>
+<p>Podemos observar cada multiplicación.</p>
+<p>Y, sin embargo, eso no significa que seamos capaces de explicar de manera sencilla por qué una determinada secuencia ha producido precisamente esa respuesta.</p>
+<p>No hay necesariamente una regla localizable.</p>
+<p>No hay una línea de código que contenga esa frase.</p>
+<p>No existe una casilla en la que esté guardada esa respuesta.</p>
+<p>La respuesta nace del paso de la información a través de toda la configuración.</p>
+<p>Esto hace que la máquina sea profundamente distinta de las anteriores.</p>
+<p>Su función no puede describirse fácilmente enumerando sus instrucciones.</p>
+<p>Su función está distribuida en su estructura.</p>
+<h3>Un espacio casi inagotable</h3>
+<p>Las combinaciones posibles no son infinitas.</p>
+<p>Esto hay que decirlo con precisión.</p>
+<p>Todo sistema digital finito posee un número finito de estados.</p>
+<p>Incluso el mayor modelo jamás construido es finito.</p>
+<p>Pero el número de combinaciones posibles es tan grande que, desde nuestro punto de vista práctico, puede volverse casi inagotable.</p>
+<p>Podemos formular una frase que nadie haya escrito antes.</p>
+<p>La máquina puede producir una respuesta que nadie había preparado.</p>
+<p>Podemos cambiar una palabra.</p>
+<p>Cambiar el contexto.</p>
+<p>Añadir una imagen.</p>
+<p>Modificar el orden de la información.</p>
+<p>Pedir que combine conceptos pertenecientes a ámbitos distintos.</p>
+<p>Cada variación puede abrir un nuevo camino.</p>
+<p>El espacio de las entradas es enorme.</p>
+<p>El espacio de las transformaciones internas es enorme.</p>
+<p>El espacio de las salidas es enorme.</p>
+<p>Esto es lo que produce la impresión de encontrarnos ante algo que ya no es simplemente un programa.</p>
+<p>El programa tradicional recorre posibilidades diseñadas.</p>
+<p>Esta máquina explora un espacio de posibilidades aprendidas.</p>
+<h3>Una representación del mundo</h3>
+<p>Pero quizá lo más importante no sea el número de combinaciones.</p>
+<p>Es lo que contiene la máquina.</p>
+<p>Para poder producir respuestas plausibles, tiene que haber incorporado una cantidad enorme de relaciones.</p>
+<p>La relación entre una palabra y otra.</p>
+<p>Entre un objeto y su uso.</p>
+<p>Entre una causa y un efecto.</p>
+<p>Entre un concepto y otros conceptos.</p>
+<p>Entre una estructura lingüística y una intención.</p>
+<p>Entre una descripción y lo que esa descripción podría representar.</p>
+<p>Naturalmente, esta representación no coincide con el mundo.</p>
+<p>No es una copia perfecta de la realidad.</p>
+<p>Puede estar equivocada.</p>
+<p>Puede ser incompleta.</p>
+<p>Puede contener distorsiones.</p>
+<p>Puede producir asociaciones absurdas.</p>
+<p>Pero aun así tiene que poseer una estructura interna lo bastante rica como para permitir navegar entre distintas partes del conocimiento humano.</p>
+<p>Y es precisamente esa estructura lo que la hace interesante.</p>
+<p>No hemos construido simplemente un sistema que contiene información.</p>
+<p>Hemos construido una máquina que contiene relaciones entre informaciones.</p>
+<h3>Una máquina sin forma</h3>
+<p>Aquí aparece otra diferencia fundamental respecto al pasado.</p>
+<p>Antes construíamos la máquina física.</p>
+<p>El motor tenía un tamaño.</p>
+<p>La turbina tenía un tamaño.</p>
+<p>El ordenador tenía un tamaño.</p>
+<p>Una vez construido, el objeto era ese.</p>
+<p>Naturalmente, podíamos sustituir componentes.</p>
+<p>Podíamos mejorarlo.</p>
+<p>Podíamos construir uno más grande.</p>
+<p>Pero su identidad física estaba clara.</p>
+<p>La máquina neuronal, en cambio, no posee necesariamente una forma física propia.</p>
+<p>La cajita no existe.</p>
+<p>Podemos guardar el modelo en un disco.</p>
+<p>Podemos copiarlo.</p>
+<p>Podemos moverlo.</p>
+<p>Podemos dividirlo.</p>
+<p>Podemos ejecutarlo en hardware distinto.</p>
+<p>Podemos distribuir partes de él entre varios dispositivos.</p>
+<p>La misma estructura matemática puede existir hoy en un servidor y mañana en otro.</p>
+<p>El hardware es el sustrato que permite que la máquina se manifieste.</p>
+<p>Pero no coincide necesariamente con la máquina.</p>
+<p>Esto hace del modelo algo extraño.</p>
+<p>Es real.</p>
+<p>Produce efectos reales.</p>
+<p>Requiere energía real.</p>
+<p>Requiere memoria real.</p>
+<p>Ocupa hardware real.</p>
+<p>Pero su forma no coincide con ninguno de estos objetos.</p>
+<h3>El cuerpo temporal</h3>
+<p>Cuando un modelo se ejecuta, el hardware se convierte temporalmente en su cuerpo.</p>
+<p>GPU.</p>
+<p>CPU.</p>
+<p>RAM.</p>
+<p>Memoria distribuida.</p>
+<p>Interconexiones.</p>
+<p>Red.</p>
+<p>Durante unos segundos, unas horas o unos años, esa estructura matemática vive a través de ese sustrato.</p>
+<p>Después puede trasladarse.</p>
+<p>Duplicarse.</p>
+<p>Reducirse.</p>
+<p>Cuantizarse.</p>
+<p>Subdividirse.</p>
+<p>Modificarse.</p>
+<p>El cuerpo puede cambiar sin que necesariamente desaparezca la identidad funcional de la máquina.</p>
+<p>Este es un concepto que merece mucha atención.</p>
+<p>Porque si una máquina no posee un cuerpo físico obligado, entonces no existe una razón fundamental por la que deba tener un solo cuerpo.</p>
+<h3>El hardware nunca es suficiente</h3>
+<p>Y quizá sea aquí donde podemos entender uno de los fenómenos más evidentes de la inteligencia artificial contemporánea.</p>
+<p>El hardware parece no ser nunca suficiente.</p>
+<p>Más memoria.</p>
+<p>Más GPU.</p>
+<p>Más ancho de banda.</p>
+<p>Más energía.</p>
+<p>Más centros de datos.</p>
+<p>Más interconexiones.</p>
+<p>Cada nueva generación parece inmediatamente insuficiente.</p>
+<p>No necesariamente porque estemos construyendo mal el hardware.</p>
+<p>Sino porque, por primera vez, el aumento del hardware puede transformarse directamente en un aumento de la máquina virtual.</p>
+<p>Si construyo un motor, en algún momento el motor está terminado.</p>
+<p>Puedo construir uno más potente, pero estoy construyendo otro motor.</p>
+<p>Aquí, en cambio, puedo ampliar el sustrato y hacer más grande la estructura que existe sobre él.</p>
+<p>Más parámetros.</p>
+<p>Más contexto.</p>
+<p>Más memoria.</p>
+<p>Más modalidades sensoriales.</p>
+<p>Más expertos.</p>
+<p>Más recorridos.</p>
+<p>Más capacidad.</p>
+<p>Podemos dar a la máquina un cuerpo más grande.</p>
+<p>Y de inmediato la máquina puede ocupar ese espacio.</p>
+<p>Esto crea un hambre de recursos potencialmente continua.</p>
+<h3>Pero aquí nace un error</h3>
+<p>De esta característica hemos extraído casi automáticamente una conclusión.</p>
+<p>Si una máquina más grande requiere más hardware, entonces tenemos que construir hardware cada vez más grande en el mismo lugar.</p>
+<p>Más GPU dentro de un servidor.</p>
+<p>Más servidores dentro de un rack.</p>
+<p>Más racks dentro de un centro de datos.</p>
+<p>Más centros de datos conectados entre sí.</p>
+<p>Es una solución posible.</p>
+<p>Pero no es necesariamente la única.</p>
+<p>Podría ser simplemente la continuación de nuestra vieja manera de pensar.</p>
+<p>Estamos acostumbrados a imaginar una máquina como algo que tiene que estar contenido.</p>
+<p>Una caja.</p>
+<p>Una habitación.</p>
+<p>Una fábrica.</p>
+<p>Un edificio.</p>
+<p>Un centro de datos.</p>
+<p>Pero la máquina de la que hablamos no tiene una frontera física natural.</p>
+<p>Esa frontera se la estamos imponiendo nosotros.</p>
+<h3>¿Dónde termina la máquina?</h3>
+<p>Esta pregunta se vuelve entonces fundamental.</p>
+<p>Si cien dispositivos participan en la ejecución de un modelo, ¿dónde está la máquina?</p>
+<p>¿En el primero?</p>
+<p>¿En el centésimo?</p>
+<p>¿En la red?</p>
+<p>¿En los pesos?</p>
+<p>¿En el código?</p>
+<p>¿En el tráfico que pasa entre los nodos?</p>
+<p>¿O la máquina es todo el sistema de relaciones que permite que la información atraviese esos componentes?</p>
+<p>Esta pregunta se vuelve aún más interesante cuando dejamos de pensar en nodos idénticos.</p>
+<p>Imaginemos miles de máquinas distintas.</p>
+<p>Una tiene mucha memoria.</p>
+<p>Una tiene una pequeña GPU.</p>
+<p>Una tiene una NPU.</p>
+<p>Una contiene una parte del conocimiento.</p>
+<p>Una está especializada en la visión.</p>
+<p>Una en el lenguaje.</p>
+<p>Una en el control de un robot.</p>
+<p>Una existe solo durante unos minutos, cuando dispone de energía.</p>
+<p>Una entra en la red.</p>
+<p>Otra sale de ella.</p>
+<p>¿Dónde está, entonces, la máquina?</p>
+<p>Quizá la pregunta sea equivocada.</p>
+<p>Quizá la máquina ya no tenga que estar en algún lugar.</p>
+<p>Quizá deba simplemente existir a través de la red.</p>
+<h3>Del programa al organismo</h3>
+<p>Aquí la frontera con las ideas que desarrollaremos más adelante se vuelve tenue.</p>
+<p>Si una estructura puede distribuirse, modificarse, ampliarse y hacerse crecer con el tiempo, entonces empieza a parecerse cada vez menos a un programa tradicional.</p>
+<p>No porque se vuelva biológica.</p>
+<p>No porque adquiera mágicamente propiedades que no posee.</p>
+<p>Sino porque cambia el paradigma con el que debemos describirla.</p>
+<p>Un programa se escribe.</p>
+<p>Una máquina se construye.</p>
+<p>Esta tercera cosa puede entrenarse.</p>
+<p>Puede hacerse crecer.</p>
+<p>Puede modificarse sin reescribir directamente su comportamiento.</p>
+<p>Puede duplicarse.</p>
+<p>Puede fusionarse con otras estructuras.</p>
+<p>Puede especializar algunas partes.</p>
+<p>Puede perder capacidades.</p>
+<p>Puede adquirir otras nuevas.</p>
+<p>Puede, al menos en principio, seguir transformándose.</p>
+<p>Entonces quizá la metáfora adecuada ya no sea solo la de la máquina.</p>
+<p>Empieza a aparecer la del organismo.</p>
+<p>No porque esté viva.</p>
+<p>Sino porque, para comprender su evolución, podría ser más útil hablar de crecimiento, especialización, conexión y adaptación que solo de programación.</p>
+<h3>El límite de la caja</h3>
+<p>Los grandes modelos actuales siguen construyéndose sobre todo como objetos delimitados.</p>
+<p>Un modelo.</p>
+<p>Una determinada cantidad de parámetros.</p>
+<p>Una determinada arquitectura.</p>
+<p>Una fase de entrenamiento.</p>
+<p>Una versión.</p>
+<p>Un lanzamiento.</p>
+<p>GPT-X.</p>
+<p>Gemma-X.</p>
+<p>Qwen-X.</p>
+<p>Llama-X.</p>
+<p>Nombres distintos para objetos distintos.</p>
+<p>Es comprensible.</p>
+<p>Necesitamos congelar algo para poder distribuirlo, medirlo, compararlo y venderlo.</p>
+<p>Pero no es seguro que esta forma sea la definitiva.</p>
+<p>Podría ser solo la primera forma industrialmente manejable de esta nueva máquina.</p>
+<p>Como los primeros ordenadores, que ocupaban habitaciones enteras y se utilizaban como grandes calculadoras centralizadas.</p>
+<p>Su forma inicial no representaba el límite conceptual del ordenador.</p>
+<p>Era solo la manera en que podíamos construirlos en aquel momento.</p>
+<p>Quizá estemos haciendo lo mismo con los modelos.</p>
+<p>Hemos descubierto la tercera cosa.</p>
+<p>Y de inmediato la hemos encerrado en una caja.</p>
+<h3>Quitar los límites</h3>
+<p>Esto introduce una pregunta fundamental para La Matriz.</p>
+<p>Si la máquina que nos interesa ya no es solo el hardware, ni es ya solo el código, ¿por qué seguimos construyéndola como si tuviera que vivir dentro de una única caja?</p>
+<p>¿Por qué su cuerpo debería coincidir con un servidor?</p>
+<p>¿Con un clúster?</p>
+<p>¿Con un centro de datos?</p>
+<p>¿Con la infraestructura que posee una sola organización?</p>
+<p>¿Por qué debería existir un tamaño máximo definido por la cantidad de hardware que una única entidad consigue reunir en el mismo lugar?</p>
+<p>Quizá el siguiente paso no consista en construir una caja todavía más grande.</p>
+<p>Quizá consista en quitarle sus límites a la caja.</p>
+<p>Entonces el problema cambia por completo.</p>
+<p>Ya no debemos preguntarnos solo:</p>
+<p>¿qué tamaño de modelo podemos construir?</p>
+<p>La pregunta pasa a ser:</p>
+<p>¿hasta qué tamaño puede crecer una estructura que no necesita estar contenida por nadie?</p>
+<p>Y después:</p>
+<p>¿puede crecer sin ser reconstruida desde cero?</p>
+<p>¿Puede añadir nuevas células?</p>
+<p>¿Puede aceptar nuevos nodos?</p>
+<p>¿Puede distribuir partes de su propio conocimiento?</p>
+<p>¿Puede desarrollar especializaciones?</p>
+<p>¿Puede perder un nodo sin perderse a sí misma?</p>
+<p>¿Puede seguir aprendiendo sin borrar lo que ya conoce?</p>
+<p>¿Puede existir sin que ningún individuo, empresa o Estado posea por sí solo la máquina entera?</p>
+<p>Estas ya no son solo preguntas sobre la inteligencia artificial.</p>
+<p>Son preguntas sobre la arquitectura de la máquina.</p>
+<p>Y sobre todo sobre la naturaleza de la tercera cosa.</p>
+<p>Hemos tenido el código.</p>
+<p>Hemos tenido la máquina.</p>
+<p>Ahora tenemos algo que nace del código, utiliza la máquina, pero no coincide por completo con ninguno de los dos.</p>
+<p>Una estructura aprendida.</p>
+<p>Una representación capaz de transformar información.</p>
+<p>Una máquina virtual sin una forma física obligada.</p>
+<p>Algo que todavía podemos elegir encerrar en una caja.</p>
+<p>O dejar que crezca más allá de sus límites.</p>
+</article>
+</main>
+<footer class="colophon">
+  <dl>
+    <div><dt>Versión</dt><dd>1.1.4</dd></div>
+    <div><dt>Huella de la edición</dt><dd class="digest">3276a63740cd78c938c04e062f45ba45337401955cf451d99e26108b6dd8b57b</dd></div>
+  </dl>
+  <p class="colophon-links"><a href="../indice.html">Índice</a> · <a href="../ediciones.html">Ediciones</a> · <a href="../pagine/dar-continuidad.html">Dar continuidad</a> · <a href="../manifest.json">Manifiesto</a></p>
+</footer>
+</body>
+</html>
