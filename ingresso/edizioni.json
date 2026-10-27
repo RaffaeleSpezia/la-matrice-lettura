@@ -2,6 +2,48 @@
     "updated": "2026-10-27",
     "editions": [
         {
+            "id": "it-1.1.5-0",
+            "language": "it",
+            "version": "1.1.5",
+            "date": "2026-10-27",
+            "cid": "bafybeiahu4sls3exsep5txjzhczjbvm4bwi4hc6zg4nqokmdrgm62pealm",
+            "label": "Edizione Uno",
+            "note": "Quando non avranno più bisogno di noi.",
+            "hedera_sequence": 17,
+            "ipns": "k51qzi5uqu5dkwvlqxci4zysjunyy625ka2sj98ton11p0nwswaw43e8x5e4ww",
+            "pages": "https://raffaelespezia.github.io/la-matrice-lettura/",
+            "latest": true,
+            "epub": "la-matrice-1.1.5.epub"
+        },
+        {
+            "id": "en-1.1.5-1",
+            "language": "en",
+            "version": "1.1.5",
+            "date": "2026-10-27",
+            "cid": "bafybeig2gmf2ubgls2qfjtflwz772urvaq4vvc5baryciqhenkrn4pqb7i",
+            "label": "Edition One",
+            "note": "When They No Longer Need Us.",
+            "hedera_sequence": 18,
+            "ipns": "k51qzi5uqu5djwm48kh1f5an2vnreqb4w2it0tr3o3749rrluy4n0twpnxpt6t",
+            "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/",
+            "latest": true,
+            "epub": "la-matrice-english-1.1.5.epub"
+        },
+        {
+            "id": "es-1.1.5-2",
+            "language": "es",
+            "version": "1.1.5",
+            "date": "2026-10-27",
+            "cid": "bafybeiao3sas33q5w6xxec6jcnnejqwopqikwvja6brnnw3njjtciqxc6e",
+            "label": "Edición Uno",
+            "note": "Cuando ya no nos necesiten.",
+            "hedera_sequence": 19,
+            "ipns": "k51qzi5uqu5dkmpm88ak6sm6ipeh3gkqje8r4njo95jqan0mmxb8e0mueghqpg",
+            "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/",
+            "latest": true,
+            "epub": "la-matriz-espanol-1.1.5.epub"
+        },
+        {
             "id": "it-1.1.4-0",
             "language": "it",
             "version": "1.1.4",
@@ -12,7 +54,7 @@
             "hedera_sequence": 14,
             "ipns": "k51qzi5uqu5dkwvlqxci4zysjunyy625ka2sj98ton11p0nwswaw43e8x5e4ww",
             "pages": "https://raffaelespezia.github.io/la-matrice-lettura/",
-            "latest": true,
+            "latest": false,
             "epub": "la-matrice-1.1.4.epub"
         },
         {
@@ -26,7 +68,7 @@
             "hedera_sequence": 15,
             "ipns": "k51qzi5uqu5djwm48kh1f5an2vnreqb4w2it0tr3o3749rrluy4n0twpnxpt6t",
             "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/",
-            "latest": true,
+            "latest": false,
             "epub": "la-matrice-english-1.1.4.epub"
         },
         {
@@ -40,7 +82,7 @@
             "hedera_sequence": 16,
             "ipns": "k51qzi5uqu5dkmpm88ak6sm6ipeh3gkqje8r4njo95jqan0mmxb8e0mueghqpg",
             "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/",
-            "latest": true,
+            "latest": false,
             "epub": "la-matriz-espanol-1.1.4.epub"
         },
         {
