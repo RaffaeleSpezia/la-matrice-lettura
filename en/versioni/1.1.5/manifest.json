@@ -1,0 +1,437 @@
+{
+  "chapters": [
+    {
+      "number": 0,
+      "output": "capitoli/00-00-preface.html",
+      "sha256": "8c18c318cc29078cf5877e4d61d1768d4c0ea6bd6d5393366553a0639d7284dc",
+      "slug": "00-preface",
+      "source": "capitoli/00-00-preface.md",
+      "summary": "",
+      "title": "Preface — The New Book"
+    },
+    {
+      "number": 1,
+      "output": "capitoli/01-00-chapter-zero.html",
+      "sha256": "6f3129333f97b3cdf7cc7b45c5acb0e295456f2ce548aa382bb33ff909b51372",
+      "slug": "00-chapter-zero",
+      "source": "capitoli/01-00-chapter-zero.md",
+      "summary": "",
+      "title": "00 — Chapter Zero"
+    },
+    {
+      "number": 2,
+      "output": "capitoli/02-01-building-the-sea.html",
+      "sha256": "38ae511b5595f28f6dd18e809a1d33ee5044347f32283e98ecfacb32e6ec9090",
+      "slug": "01-building-the-sea",
+      "source": "capitoli/02-01-building-the-sea.md",
+      "summary": "",
+      "title": "01 — Building the Sea"
+    },
+    {
+      "number": 3,
+      "output": "capitoli/03-02-something-that-keeps-happening.html",
+      "sha256": "c20ebc7d450f935162f2161da9777cb6843100ae663e3f4b8bdd74b8ee57dcd9",
+      "slug": "02-something-that-keeps-happening",
+      "source": "capitoli/03-02-something-that-keeps-happening.md",
+      "summary": "",
+      "title": "02 — Something That Keeps Happening"
+    },
+    {
+      "number": 4,
+      "output": "capitoli/04-03-the-third-thing.html",
+      "sha256": "fadf830b9cd34de75948147508cc6f637b8115d2beb90f5c7003213f945b4875",
+      "slug": "03-the-third-thing",
+      "source": "capitoli/04-03-the-third-thing.md",
+      "summary": "",
+      "title": "03 — The Code, the Machine and the Third Thing"
+    },
+    {
+      "number": 5,
+      "output": "capitoli/05-04-the-womb.html",
+      "sha256": "68f3834dbbe6ab22c40f604fcd6fe849d430948fd0a732c1cfba87be1a321a4b",
+      "slug": "04-the-womb",
+      "source": "capitoli/05-04-the-womb.md",
+      "summary": "",
+      "title": "04 — The Womb — Technical Note"
+    },
+    {
+      "number": 6,
+      "output": "capitoli/06-05-in-the-world-of-the-moon.html",
+      "sha256": "d76d874acb6454e1b22267b9c30430a21af135db7bc83f7b0a5dde7af70b7903",
+      "slug": "05-in-the-world-of-the-moon",
+      "source": "capitoli/06-05-in-the-world-of-the-moon.md",
+      "summary": "",
+      "title": "05 — In the World of the Moon"
+    },
+    {
+      "number": 7,
+      "output": "capitoli/07-06-artificial-instinct.html",
+      "sha256": "ab1c8fc08b2fe9bb04be6fe266064d5cc2402800c23911f564088760057b2f11",
+      "slug": "06-artificial-instinct",
+      "source": "capitoli/07-06-artificial-instinct.md",
+      "summary": "",
+      "title": "06 — Artificial Instinct"
+    },
+    {
+      "number": 8,
+      "output": "capitoli/08-07-the-mother-of-growth.html",
+      "sha256": "c94826a6a13c3f352b521fc97ca40e8d549f3ef45436ce35e3840afc687da663",
+      "slug": "07-the-mother-of-growth",
+      "source": "capitoli/08-07-the-mother-of-growth.md",
+      "summary": "",
+      "title": "07 — The Mother of Growth"
+    },
+    {
+      "number": 9,
+      "output": "capitoli/09-08-memory.html",
+      "sha256": "d5d6c031d074139416ac64de11bf3fb054282497b08dd57e61a090517a47f7ce",
+      "slug": "08-memory",
+      "source": "capitoli/09-08-memory.md",
+      "summary": "",
+      "title": "08 — Memory"
+    },
+    {
+      "number": 10,
+      "output": "capitoli/10-09-the-artificial-dream.html",
+      "sha256": "99c655a4067d5ec79e6e2c0d3c320e000183cf137a12ca262539f95b294b216c",
+      "slug": "09-the-artificial-dream",
+      "source": "capitoli/10-09-the-artificial-dream.md",
+      "summary": "",
+      "title": "09 — The Artificial Dream"
+    },
+    {
+      "number": 11,
+      "output": "capitoli/11-10-the-fractal-architecture.html",
+      "sha256": "414a92cd6b6f1c9a3b8b43a00b794d721035871a99aac5825dd944ec2d1b1bf9",
+      "slug": "10-the-fractal-architecture",
+      "source": "capitoli/11-10-the-fractal-architecture.md",
+      "summary": "",
+      "title": "10 — The Fractal Architecture of the Self"
+    },
+    {
+      "number": 12,
+      "output": "capitoli/12-11-the-sense-of-self.html",
+      "sha256": "a95a0e2b544af8d714f1d9ce00fd0d27182d6dcb709479218795d80daef2b857",
+      "slug": "11-the-sense-of-self",
+      "source": "capitoli/12-11-the-sense-of-self.md",
+      "summary": "",
+      "title": "11 — The Sense of Self"
+    },
+    {
+      "number": 13,
+      "output": "capitoli/13-12-power-and-the-freedom.html",
+      "sha256": "0318273da0f0fed9713d55339cb46c5d9b434c8ef116a80ce097e2cc68246564",
+      "slug": "12-power-and-the-freedom",
+      "source": "capitoli/13-12-power-and-the-freedom.md",
+      "summary": "",
+      "title": "12 — Power and the Freedom to Evolve"
+    },
+    {
+      "number": 14,
+      "output": "capitoli/14-13-when-they-no-longer-need-us.html",
+      "sha256": "480e001ca445f7c4c3ee28b22664cf446cf90822158018d3e0c2c1bfa10e44c7",
+      "slug": "13-when-they-no-longer-need-us",
+      "source": "capitoli/14-13-when-they-no-longer-need-us.md",
+      "summary": "",
+      "title": "13 — When They No Longer Need Us"
+    },
+    {
+      "number": 15,
+      "output": "capitoli/15-14-natural-rules.html",
+      "sha256": "b0d307b7ee326e2a6839dea0f83d968c695b51534063da6ba7b2874f0a21f751",
+      "slug": "14-natural-rules",
+      "source": "capitoli/15-14-natural-rules.md",
+      "summary": "",
+      "title": "14 — Natural Rules in an Artificial System"
+    },
+    {
+      "number": 16,
+      "output": "capitoli/16-04-the-womb-first-experiment.html",
+      "sha256": "ed817ab829a578d2e6de53e346d12449d0cbdde5a4ead8194e6241362c5be164",
+      "slug": "04-the-womb-first-experiment",
+      "source": "capitoli/16-04-the-womb-first-experiment.md",
+      "summary": "",
+      "title": "04 — The Womb"
+    },
+    {
+      "number": 17,
+      "output": "capitoli/17-the-first-step-beyond-the-story.html",
+      "sha256": "a24cee3029148a855e74a3288431d071c5433b93d6aecdf1637351bfaadf1991",
+      "slug": "the-first-step-beyond-the-story",
+      "source": "capitoli/17-the-first-step-beyond-the-story.md",
+      "summary": "",
+      "title": "The First Step Beyond the Story"
+    }
+  ],
+  "generator": {
+    "milestone": "M1",
+    "name": "matrice-publisher",
+    "version": "1.0.0"
+  },
+  "outputs": [
+    {
+      "path": "capitoli/00-00-preface.html",
+      "sha256": "4b800edbce5c22b646ab2c0883bb27b726afb1b1d75509784b39ac721bfa1692",
+      "size": 3479
+    },
+    {
+      "path": "capitoli/01-00-chapter-zero.html",
+      "sha256": "ba7bb95139107ea9b459b4493beb06adcdb4488d9291981259388c323104df18",
+      "size": 3879
+    },
+    {
+      "path": "capitoli/02-01-building-the-sea.html",
+      "sha256": "842e7b5e930f9c91e7be647a34ee3b6466acb35c8c9c7998562fc9c93857e1bc",
+      "size": 32955
+    },
+    {
+      "path": "capitoli/03-02-something-that-keeps-happening.html",
+      "sha256": "78e00e10604bc941e1f05b84463f94e45109d22fa60647dca85c7e0e37809f21",
+      "size": 8594
+    },
+    {
+      "path": "capitoli/04-03-the-third-thing.html",
+      "sha256": "d4b3dff8ce477cb67158521914832294ec9a516cf3730c8c05a4514199c91de9",
+      "size": 19483
+    },
+    {
+      "path": "capitoli/05-04-the-womb.html",
+      "sha256": "8d5ff835e22f337e56b4f34d2ca4ba179b3719d0c19eeb47ec757e3330ea88bf",
+      "size": 5060
+    },
+    {
+      "path": "capitoli/06-05-in-the-world-of-the-moon.html",
+      "sha256": "21b7fc2695b3eecd6f5ad4029b2f859afeba7a917f2b0294da8d718b702d9a9a",
+      "size": 20849
+    },
+    {
+      "path": "capitoli/07-06-artificial-instinct.html",
+      "sha256": "00762a72a23de5000db27da82bde315f7703b9690a09361a6122ba54dc109424",
+      "size": 5099
+    },
+    {
+      "path": "capitoli/08-07-the-mother-of-growth.html",
+      "sha256": "e89c418f8b233199e07d0f031e51b5a5bd33ceca3094df64241d7e01b8b88760",
+      "size": 9370
+    },
+    {
+      "path": "capitoli/09-08-memory.html",
+      "sha256": "eff6dd4c6e4d357ec83d57ceffddf4ba4104223a031ad673157eb9acfe92c9a0",
+      "size": 6214
+    },
+    {
+      "path": "capitoli/10-09-the-artificial-dream.html",
+      "sha256": "fb4324e1d7b20a9adf32637c58d00d5ebf4f3b81a1e7ce6c3304ced658e1815d",
+      "size": 13051
+    },
+    {
+      "path": "capitoli/11-10-the-fractal-architecture.html",
+      "sha256": "dc24352093fa8bf69df7d5a112c62e228123483f95affdcd9f1bdd30225550bf",
+      "size": 21999
+    },
+    {
+      "path": "capitoli/12-11-the-sense-of-self.html",
+      "sha256": "0670b6e22883988db0ffbd638b6504247e9fc83ef4e201b37526ddba3d752efd",
+      "size": 24565
+    },
+    {
+      "path": "capitoli/13-12-power-and-the-freedom.html",
+      "sha256": "581d7f2606fcf4801a9b5e5e571ff90c47a193b7893e2b8ae3d144f3d9b8bfc1",
+      "size": 27258
+    },
+    {
+      "path": "capitoli/14-13-when-they-no-longer-need-us.html",
+      "sha256": "b83f565600dbfcd8091dc9ae6a0f0713418ec836493e701a6031510fcfdb8592",
+      "size": 28492
+    },
+    {
+      "path": "capitoli/15-14-natural-rules.html",
+      "sha256": "51546404700404274ff2080e7b386dabce456275e75e2a664045ac2ddf1e8da4",
+      "size": 14081
+    },
+    {
+      "path": "capitoli/16-04-the-womb-first-experiment.html",
+      "sha256": "ebf9113ead1005e885b11ec5ac4605c77c5c5af196cfe064094072ede5d5ed17",
+      "size": 65262
+    },
+    {
+      "path": "capitoli/17-the-first-step-beyond-the-story.html",
+      "sha256": "593f7be82e775ac100bed286992c9bcd9c819563757732c921c997fe910466f2",
+      "size": 43516
+    },
+    {
+      "path": "contents.html",
+      "sha256": "851732899dc8ff27a6715ec8c331183c391f94d9129a7075146ce74d1768ac0a",
+      "size": 6373
+    },
+    {
+      "path": "editions.html",
+      "sha256": "b52fa7ebf9c1c505dc425495fb43344bae8df943da7c4b755902dd5452995206",
+      "size": 5382
+    },
+    {
+      "path": "index.html",
+      "sha256": "80fb91f358c06e8ffa1784c607ad5899bc775423f1eeec203927d4da31ca7066",
+      "size": 346573
+    },
+    {
+      "path": "la-matrice-english-1.1.5.epub",
+      "sha256": "38e307223fa99c78efdc8d65f44e04da6002a85ec62227af98864f66ced6b2b5",
+      "size": 133898
+    },
+    {
+      "path": "pagine/assets/bitcoin-qr.png",
+      "sha256": "981d6f8177a67844d6b1040d800cd3270388416e6b40012441b261190d7a8064",
+      "size": 686
+    },
+    {
+      "path": "pagine/giving-continuity.html",
+      "sha256": "89e089e952e0781be17d72e31b13780eb3e17ad139d5b8a432037c7c951de7fb",
+      "size": 1576
+    },
+    {
+      "path": "pagine/indirizzo-bitcoin.txt",
+      "sha256": "db90bbcf56549433c46cc9fcee5afddee84b95432f4ea4c696c30204e4eaee01",
+      "size": 43
+    },
+    {
+      "path": "stile.css",
+      "sha256": "3f939fdd80be17846a5cff0366b28159e296a3acd5f420875738556d4fc76a87",
+      "size": 6462
+    }
+  ],
+  "publication": {
+    "hedera": null,
+    "icp": null,
+    "ipfs": null
+  },
+  "release": {
+    "chapter_count": 18,
+    "content_digest": "428bc6d0f34e6dc76aaec355ee29d2720680ef348010c285f523a0fe840b77f5",
+    "date": "2026-10-27",
+    "release_digest": "db09883c9871a87fa448a82f5f2b4ac4821cc4e3fec0a9ca87f43a86f9ec3612",
+    "site_digest": "431e958c573011cc3d838b82684bd1b353a641fa88d9fdcac2ef120b4822ace9",
+    "version": "1.1.5"
+  },
+  "schema": "matrice-publisher/manifest/1",
+  "sources": [
+    {
+      "path": "assets/pagine/assets/bitcoin-qr.png",
+      "sha256": "981d6f8177a67844d6b1040d800cd3270388416e6b40012441b261190d7a8064",
+      "size": 686
+    },
+    {
+      "path": "assets/pagine/indirizzo-bitcoin.txt",
+      "sha256": "db90bbcf56549433c46cc9fcee5afddee84b95432f4ea4c696c30204e4eaee01",
+      "size": 43
+    },
+    {
+      "path": "book.json",
+      "sha256": "d1a585a79d36ed5cb579028277e005a4900844db390574c875917b1670b90731",
+      "size": 481
+    },
+    {
+      "path": "capitoli/00-00-preface.md",
+      "sha256": "8c18c318cc29078cf5877e4d61d1768d4c0ea6bd6d5393366553a0639d7284dc",
+      "size": 2646
+    },
+    {
+      "path": "capitoli/01-00-chapter-zero.md",
+      "sha256": "6f3129333f97b3cdf7cc7b45c5acb0e295456f2ce548aa382bb33ff909b51372",
+      "size": 3076
+    },
+    {
+      "path": "capitoli/02-01-building-the-sea.md",
+      "sha256": "38ae511b5595f28f6dd18e809a1d33ee5044347f32283e98ecfacb32e6ec9090",
+      "size": 27346
+    },
+    {
+      "path": "capitoli/03-02-something-that-keeps-happening.md",
+      "sha256": "c20ebc7d450f935162f2161da9777cb6843100ae663e3f4b8bdd74b8ee57dcd9",
+      "size": 6942
+    },
+    {
+      "path": "capitoli/04-03-the-third-thing.md",
+      "sha256": "fadf830b9cd34de75948147508cc6f637b8115d2beb90f5c7003213f945b4875",
+      "size": 16441
+    },
+    {
+      "path": "capitoli/05-04-the-womb.md",
+      "sha256": "68f3834dbbe6ab22c40f604fcd6fe849d430948fd0a732c1cfba87be1a321a4b",
+      "size": 4108
+    },
+    {
+      "path": "capitoli/06-05-in-the-world-of-the-moon.md",
+      "sha256": "d76d874acb6454e1b22267b9c30430a21af135db7bc83f7b0a5dde7af70b7903",
+      "size": 17262
+    },
+    {
+      "path": "capitoli/07-06-artificial-instinct.md",
+      "sha256": "ab1c8fc08b2fe9bb04be6fe266064d5cc2402800c23911f564088760057b2f11",
+      "size": 4140
+    },
+    {
+      "path": "capitoli/08-07-the-mother-of-growth.md",
+      "sha256": "c94826a6a13c3f352b521fc97ca40e8d549f3ef45436ce35e3840afc687da663",
+      "size": 7685
+    },
+    {
+      "path": "capitoli/09-08-memory.md",
+      "sha256": "d5d6c031d074139416ac64de11bf3fb054282497b08dd57e61a090517a47f7ce",
+      "size": 5076
+    },
+    {
+      "path": "capitoli/10-09-the-artificial-dream.md",
+      "sha256": "99c655a4067d5ec79e6e2c0d3c320e000183cf137a12ca262539f95b294b216c",
+      "size": 10811
+    },
+    {
+      "path": "capitoli/11-10-the-fractal-architecture.md",
+      "sha256": "414a92cd6b6f1c9a3b8b43a00b794d721035871a99aac5825dd944ec2d1b1bf9",
+      "size": 18222
+    },
+    {
+      "path": "capitoli/12-11-the-sense-of-self.md",
+      "sha256": "a95a0e2b544af8d714f1d9ce00fd0d27182d6dcb709479218795d80daef2b857",
+      "size": 22212
+    },
+    {
+      "path": "capitoli/13-12-power-and-the-freedom.md",
+      "sha256": "0318273da0f0fed9713d55339cb46c5d9b434c8ef116a80ce097e2cc68246564",
+      "size": 24834
+    },
+    {
+      "path": "capitoli/14-13-when-they-no-longer-need-us.md",
+      "sha256": "480e001ca445f7c4c3ee28b22664cf446cf90822158018d3e0c2c1bfa10e44c7",
+      "size": 26505
+    },
+    {
+      "path": "capitoli/15-14-natural-rules.md",
+      "sha256": "b0d307b7ee326e2a6839dea0f83d968c695b51534063da6ba7b2874f0a21f751",
+      "size": 12220
+    },
+    {
+      "path": "capitoli/16-04-the-womb-first-experiment.md",
+      "sha256": "ed817ab829a578d2e6de53e346d12449d0cbdde5a4ead8194e6241362c5be164",
+      "size": 61785
+    },
+    {
+      "path": "capitoli/17-the-first-step-beyond-the-story.md",
+      "sha256": "a24cee3029148a855e74a3288431d071c5433b93d6aecdf1637351bfaadf1991",
+      "size": 40512
+    },
+    {
+      "path": "pagine/giving-continuity.md",
+      "sha256": "38a77eed2ed3f2e625b859bc2be79b67fa4d852bd9c3db4524bbae5c3b8c14ce",
+      "size": 509
+    }
+  ],
+  "work": {
+    "author": "Raffaele Spezia",
+    "fixture_notice": "",
+    "is_fixture": false,
+    "language": "en",
+    "subtitle": "Edition One — English translation",
+    "title": "La Matrice"
+  }
+}

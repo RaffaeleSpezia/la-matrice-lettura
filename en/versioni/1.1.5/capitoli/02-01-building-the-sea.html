@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>01 — Building the Sea — La Matrice</title>
+<link rel="stylesheet" href="../stile.css">
+</head>
+<body>
+<header class="masthead">
+  <p class="wordmark"><a href="../index.html">La Matrice</a></p>
+</header>
+<main class="chapter">
+<h1>Building the Sea</h1>
+<article class="prose">
+<p><strong>“Artificial intelligence will bring about the end of the world.”</strong></p>
+<p>We hear it more and more often.</p>
+<p>It's an enormous statement.</p>
+<p>Perhaps too enormous.</p>
+<p>But first we ought to ask what we mean by <em>world</em>.</p>
+<p>If we mean this planet, Earth, then its end has no place in human history. We have no precedent to study. No testimony. No one who can tell us what happened the last time.</p>
+<p>That doesn't mean it cannot happen.</p>
+<p>It simply means that <strong>we cannot draw on the experience of the end of the world, because we have none.</strong></p>
+<p>But if by <em>world</em> we mean the world we live in—its rules, its balances, its professions, its hierarchies, what we consider important, what we know how to do, and the value we place on knowing how to do it—then we have seen quite a few worlds come to an end.</p>
+<p>And perhaps we're looking for the wrong precedent.</p>
+<p>Perhaps we're not only afraid of the end <strong>of the</strong> world.</p>
+<p>We're afraid of the end <strong>of our</strong> world.</p>
+<p>Of waking up to discover that something we spent twenty years learning is suddenly worth much less.</p>
+<p>That our profession has changed.</p>
+<p>That our expertise is no longer rare.</p>
+<p>That somebody else has a tool that multiplies their abilities, and we don't.</p>
+<p>That the rules we knew are no longer the rules of the game.</p>
+<p>We are afraid of something very old.</p>
+<p><strong>Of being thrown off the crest of the wave.</strong></p>
+<p>And that fear does have a history.</p>
+<hr>
+<h3>When Software Was Not Yet the Product</h3>
+<p>In the beginning, the great economic value of computing lay chiefly in the machine.</p>
+<p>Computers were enormous.</p>
+<p>Expensive.</p>
+<p>Rare.</p>
+<p>Software made them useful.</p>
+<p>Programs and modifications circulated among universities, laboratories, companies and user groups. People took something someone else had written, adapted it, fixed it, improved it.</p>
+<p>We should not romanticize that era.</p>
+<p>It was not necessarily a political revolution.</p>
+<p>There was a much simpler economic reason.</p>
+<p><strong>The business was the machine.</strong></p>
+<p>Software helped sell it.</p>
+<p>If a program made a computer more useful, the computer became more valuable.</p>
+<p>If users could exchange tools and knowledge, that machine became more useful still.</p>
+<p>Then the value began to move.</p>
+<p>Software became important enough to have an economic value independent of the hardware.</p>
+<p>It was no longer merely what made the product useful.</p>
+<p><strong>It had become the product.</strong></p>
+<p>And when the place where value resided changed, the boundaries changed with it.</p>
+<p>Licenses.</p>
+<p>Restrictions.</p>
+<p>Unavailable source code.</p>
+<p>Trade secrets.</p>
+<p>Prohibitions on copying.</p>
+<p>What had once been able to circulate was increasingly being locked away.</p>
+<p>And someone decided he did not like that transformation at all.</p>
+<hr>
+<h3>The Freedom to Look Inside</h3>
+<p>Richard Stallman came from the hacker culture of the MIT Artificial Intelligence Laboratory, where studying and modifying programs written by others was part of the very way people worked.</p>
+<p>When that world began closing up, he responded.</p>
+<p>In 1983 he announced GNU.</p>
+<p>He wasn't simply proposing programs that cost no money.</p>
+<p>The point went much deeper.</p>
+<p>If I use a program, I must be able to understand what it does.</p>
+<p>If I want to understand what it does, I must be able to study it.</p>
+<p>If I find something that doesn't work, I must be able to change it.</p>
+<p>And if I find a solution, I must be able to share it.</p>
+<p>To do all this requires something that may seem obvious today.</p>
+<p><strong>You have to be able to look inside.</strong></p>
+<p>Compilers.</p>
+<p>Editors.</p>
+<p>Libraries.</p>
+<p>Utilities.</p>
+<p>Licenses specifically designed to preserve that possibility.</p>
+<p>GNU went on to build much of what was needed.</p>
+<p>Something was still missing.</p>
+<p>The kernel.</p>
+<p>In 1991, Linux arrived.</p>
+<p>And from that moment began one of the most extraordinary demonstrations in computing history of what can happen when people who do not work for the same company, do not live in the same country, and often have never met can work on the same conceptual machine.</p>
+<p>Today we know where that story led.</p>
+<p>Back then, we didn't.</p>
+<p>Back then Linux was also a system that very often <strong>did not work with the hardware you had just bought</strong>.</p>
+<p>And here, for a moment, we stop telling this story from the outside.</p>
+<p>Because I remember this part.</p>
+<hr>
+<h2>I Was There</h2>
+<p>Today, installing Linux can mean downloading an image, putting it on a USB stick, booting a computer and following a wizard.</p>
+<p>I remember something else.</p>
+<p>I remember buying an expansion card and discovering that Linux had no idea what to do with it.</p>
+<p>But that was not always because Linux was young.</p>
+<p>And it was not always because no one had yet found the time to write a driver.</p>
+<p>Sometimes the manufacturer <strong>did not provide a free driver</strong>.</p>
+<p>Sometimes it provided only a proprietary binary.</p>
+<p>Sometimes it did not provide the specifications someone else would need to write a driver.</p>
+<p>You had bought the card.</p>
+<p>You had paid for it.</p>
+<p>It was physically inside your computer.</p>
+<p>It was yours.</p>
+<p>And yet you might still be missing something fundamental:</p>
+<p><strong>the language needed to talk to something you had bought.</strong></p>
+<p>What do you do?</p>
+<p>Today the answer might seem to be:</p>
+<p>wait for the manufacturer.</p>
+<p>Back then, very often, the answer was different.</p>
+<p><strong>Find out for yourself.</strong></p>
+<p>Someone would start observing.</p>
+<p>Registers.</p>
+<p>Commands.</p>
+<p>Responses.</p>
+<p>Firmware.</p>
+<p>Behaviors.</p>
+<p>Try something.</p>
+<p>Watch what happened.</p>
+<p>Change a parameter.</p>
+<p>Try again.</p>
+<p>Reverse-engineer it.</p>
+<p>And slowly reconstruct what the manufacturer had not supplied.</p>
+<p>This is not a legend invented afterward.</p>
+<p>It really happened.</p>
+<p>The free <code>b43</code> driver for Broadcom wireless chipsets, for example, was developed through reverse engineering.</p>
+<p>Someone had to teach Linux to communicate with a piece of hardware without the people who built that hardware providing everything needed to do so.</p>
+<p>It is hard to find a better image of that culture.</p>
+<p><strong>The community was learning to speak to machines.</strong></p>
+<p>It did not necessarily ask:</p>
+<p><em>build what I need for me.</em></p>
+<p>It asked:</p>
+<p><em>let me build it.</em></p>
+<p>And when even the necessary information was withheld?</p>
+<p>Sometimes that information was reconstructed.</p>
+<p>It wasn't magic.</p>
+<p>It was work.</p>
+<p>Attempts.</p>
+<p>Mistakes.</p>
+<p>People.</p>
+<p>Time.</p>
+<p>Someone published what they had discovered.</p>
+<p>Someone else tried it on a slightly different revision of the same card.</p>
+<p>It didn't work.</p>
+<p>They sent back information.</p>
+<p>Someone else changed the code.</p>
+<p>It almost worked.</p>
+<p>Someone else found the problem.</p>
+<p>It worked.</p>
+<p>Then a new kernel version arrived and perhaps it broke all over again.</p>
+<p>And we began again.</p>
+<p>We compiled the kernel.</p>
+<p>And waited.</p>
+<p>Hours.</p>
+<p>On some machines, a whole day.</p>
+<p>Sometimes even longer.</p>
+<p>Then you rebooted.</p>
+<p>And it wouldn't start.</p>
+<p>Or it started, but something didn't work.</p>
+<p>Start again.</p>
+<p>To people who simply wanted to switch on a computer and use it, we looked like Martians.</p>
+<p>Why?</p>
+<p>Why waste all that time when there was already something that worked?</p>
+<p>For many of us, at least, the answer needed no manifesto.</p>
+<p><strong>Because we could.</strong></p>
+<p>We had a computer.</p>
+<p>We had the code.</p>
+<p>We had a compiler.</p>
+<p>We had enough knowledge—or enough stubbornness to acquire it.</p>
+<p>And we had a community.</p>
+<p>But above all, we had something we are in danger of underestimating today.</p>
+<p><strong>We could make mistakes.</strong></p>
+<p>We could change ten lines.</p>
+<p>Compile.</p>
+<p>Break everything.</p>
+<p>Swear.</p>
+<p>Understand something.</p>
+<p>And begin again.</p>
+<p>The failure of that experiment did not need a board of directors' approval.</p>
+<p>It didn't burn through millions.</p>
+<p>It didn't require a cluster.</p>
+<p>It didn't have to generate a financial return.</p>
+<p>It could simply be a bad idea.</p>
+<p>And that was perfectly acceptable.</p>
+<p><strong>The cost of making a mistake was within our reach.</strong></p>
+<p>That may be one of the least-told reasons for the success of the open movement.</p>
+<p>Freedom was not just written into a license.</p>
+<p><strong>We could actually exercise it.</strong></p>
+<hr>
+<h3>What If Compiling Linux Had Required a Data Center?</h3>
+<p>Let's change just one thing in the story.</p>
+<p>Leave everything else as it was.</p>
+<p>Torvalds releases the kernel.</p>
+<p>GNU exists.</p>
+<p>The code is available.</p>
+<p>The license allows us to modify it.</p>
+<p>Anyone can read it.</p>
+<p>Everything is open.</p>
+<p>But compiling a modification now takes ten thousand GPUs.</p>
+<p>Each attempt costs a hundred thousand euros.</p>
+<p>To find out whether the ten lines we've changed work, we have to book hours in a data center.</p>
+<p>What would have happened?</p>
+<p>Formally, Linux would still have been open.</p>
+<p>In practice?</p>
+<p>Who would have taken part?</p>
+<p>The student?</p>
+<p>The teenager in their bedroom?</p>
+<p>The curious programmer?</p>
+<p>The small university?</p>
+<p>The group of friends who want to see whether that absurd idea actually works?</p>
+<p>No.</p>
+<p>We would have had the right to modify Linux.</p>
+<p>But not the material means to do it.</p>
+<p>And that distinction is fundamental.</p>
+<p>Because a technology does not become genuinely open to participation merely when we remove the lock from its code.</p>
+<p>It becomes open to participation when enough people can afford to <strong>do something once they have opened it</strong>.</p>
+<p>Read.</p>
+<p>Change.</p>
+<p>Try.</p>
+<p>Fail.</p>
+<p>Understand.</p>
+<p>Try again.</p>
+<p><strong>A technology is truly open to participation only when people can also afford to make mistakes.</strong></p>
+<p>Remember that.</p>
+<p>We'll need it again shortly.</p>
+<hr>
+<h2>Then Came the Locks</h2>
+<p>As software and digital content acquired enormous economic value, protection systems arrived.</p>
+<p>Software.</p>
+<p>Music.</p>
+<p>Films.</p>
+<p>Video games.</p>
+<p>Books.</p>
+<p>It was natural for those who produced something to try to protect its value.</p>
+<p>But digital technology had introduced an unprecedented oddity.</p>
+<p>Copying cost almost nothing.</p>
+<p>And the copy did not consume the original.</p>
+<p>A war began.</p>
+<p>The industries needed a simple word to describe the enemy.</p>
+<p>That word already existed.</p>
+<p><strong>Piracy.</strong></p>
+<p>It was extraordinarily powerful.</p>
+<p>Yet a single word could now encompass vastly different behaviors.</p>
+<p>Selling thousands of illegal copies of a work.</p>
+<p>Sharing a file.</p>
+<p>Studying a protection system.</p>
+<p>Publishing a program.</p>
+<p>Explaining why a digital lock did not work.</p>
+<p>Sometimes even trying to use, on your own computer, something you had legally bought.</p>
+<p>This is where abstractions are no longer enough.</p>
+<p>Let's give the people names.</p>
+<hr>
+<h2>Jon</h2>
+<p>His name was <strong>Jon Lech Johansen</strong>.</p>
+<p>Norwegian.</p>
+<p>When the affair that would make him famous began, he was <strong>fifteen years old</strong>.</p>
+<p>He had a Linux computer.</p>
+<p>And he wanted to watch DVDs.</p>
+<p>The problem was that the CSS system used by the film industry controlled DVD playback through an ecosystem of authorized devices and software.</p>
+<p>Linux was not part of that world.</p>
+<p>Jon and other developers worked on DeCSS, the program that made it possible to decrypt DVD content.</p>
+<p>His terrible crime?</p>
+<p><strong>He wanted to be able to watch his own DVDs on his own Linux computer.</strong></p>
+<p>I write that with all the bitter irony this story deserves.</p>
+<p>We are not talking about the owner of an international counterfeiting empire.</p>
+<p>We are talking about a teenager.</p>
+<p>Following a request from the Motion Picture Association of America, the Norwegian authorities charged him over the DeCSS affair.</p>
+<p>He was fifteen when he used DeCSS in 1999.</p>
+<p>The Oslo court unanimously acquitted him in 2003.</p>
+<p>The prosecution appealed.</p>
+<p>He was acquitted again.</p>
+<p>Meanwhile, the affair had consumed a huge part of his adolescence.</p>
+<p>The lock had been opened.</p>
+<p>And the boy who had helped open it had become the problem.</p>
+<hr>
+<h2>Dmitry</h2>
+<p>Then there was <strong>Dmitry Sklyarov</strong>.</p>
+<p>A Russian programmer.</p>
+<p>He was twenty-six.</p>
+<p>He worked for ElcomSoft.</p>
+<p>He had studied Adobe's e-book protection system.</p>
+<p>In July 2001, he went to Las Vegas for DEF CON.</p>
+<p>A security conference.</p>
+<p>He spoke about the weaknesses in e-book protection.</p>
+<p>His crime?</p>
+<p>He had helped develop software capable of converting protected e-books and had publicly explained why the protection could be circumvented.</p>
+<p>After the conference, the FBI arrested him.</p>
+<p>Not for running an underground book market.</p>
+<p>The first criminal application of the DMCA's anti-circumvention provisions against software developers concerned him and ElcomSoft.</p>
+<p>He spent weeks in jail.</p>
+<p>For months he was unable to return to Russia to his wife and children.</p>
+<p>In the end, the US government reached an agreement with him: he would cooperate in the case against ElcomSoft, and the charges against him personally would be dropped.</p>
+<p>ElcomSoft went to trial.</p>
+<p>And was acquitted.</p>
+<p>Here, too, his offense—if we are to call it that with the same bitter irony—was terrible:</p>
+<p><strong>he had understood how a lock worked.</strong></p>
+<p>And he had helped build a tool capable of opening it.</p>
+<hr>
+<h2>Edward and the Others</h2>
+<p>Then there was <strong>Edward Felten</strong>.</p>
+<p>A professor at Princeton.</p>
+<p>But this time the story becomes almost surreal.</p>
+<p>In 2000, the Secure Digital Music Initiative issued a public challenge.</p>
+<p>In essence:</p>
+<p>try to break our protection technologies.</p>
+<p>Felten and his team accepted.</p>
+<p>There were Bede Liu, Scott Craver, Min Wu, Dan Wallach, Ben Swartzlander, Adam Stubblefield and Drew Dean.</p>
+<p>Researchers.</p>
+<p>Students.</p>
+<p>Computer scientists.</p>
+<p>They tried.</p>
+<p><strong>And they succeeded.</strong></p>
+<p>Then they did what researchers normally do when they discover something.</p>
+<p>They wrote a paper.</p>
+<p>The paper passed peer review and was accepted for a scientific conference.</p>
+<p>And here was their crime.</p>
+<p><strong>They wanted to publish the results.</strong></p>
+<p>The RIAA, SDMI and Verance threatened legal consequences if the paper was presented.</p>
+<p>Not only for its authors.</p>
+<p>For the conference organizers and their institutions as well.</p>
+<p>Felten was due to present the paper on April 26, 2001.</p>
+<p>He did not.</p>
+<p>He publicly explained that the authors had decided not to expose themselves, their employers or the conference organizers to the expense and uncertainty of a lawsuit.</p>
+<p>Think about that for a moment.</p>
+<p>The industry had said:</p>
+<p><strong>try to break it.</strong></p>
+<p>They had broken it.</p>
+<p>And when they wanted to explain, scientifically, how they had done so, they were confronted with the threat of legal action.</p>
+<p>The researchers and USENIX ultimately turned to the courts themselves, seeking to establish their right to publish the research without risking proceedings under the DMCA.</p>
+<p>Their crime?</p>
+<p><strong>They had accepted the challenge a little too well.</strong></p>
+<hr>
+<h3>Eric</h3>
+<p>And then there was <strong>Eric Corley</strong>, publisher of <em>2600 Magazine</em>.</p>
+<p>He had not written DeCSS.</p>
+<p>The magazine discussed it.</p>
+<p>It published it.</p>
+<p>Then, after being ordered to remove it, the magazine published links to other sites hosting the code.</p>
+<p>Eight major film studios took the matter to court.</p>
+<p>The dispute reached the point of asking whether even <strong>linking</strong> to a program could constitute prohibited distribution of a circumvention tool.</p>
+<p>His crime?</p>
+<p><strong>Pointing to where the information could be found.</strong></p>
+<hr>
+<h2>The Witches</h2>
+<p>Look at them together.</p>
+<p>A fifteen-year-old who wanted DVDs to work on Linux.</p>
+<p>A Russian programmer who had studied e-book protection.</p>
+<p>A professor and a group of researchers who had accepted a public challenge and wanted to publish their results.</p>
+<p>A hacker magazine that had published code and then linked to it.</p>
+<p>They were not all the same.</p>
+<p>The cases were legally different.</p>
+<p>Their actions were different.</p>
+<p>The laws were different.</p>
+<p>We don't need to turn them into saints.</p>
+<p>We need only speak their names.</p>
+<p><strong>Jon Johansen.</strong></p>
+<p><strong>Dmitry Sklyarov.</strong></p>
+<p><strong>Edward Felten.</strong></p>
+<p><strong>Bede Liu. Scott Craver. Min Wu. Dan Wallach. Ben Swartzlander. Adam Stubblefield. Drew Dean.</strong></p>
+<p><strong>Eric Corley.</strong></p>
+<p>And look at the imbalance.</p>
+<p>On the other side stood some of the most powerful entertainment and technology industries on the planet, industry associations, lawyers, lawmakers and, in Sklyarov's case, the criminal power of the state.</p>
+<p>The question was no longer simply:</p>
+<p><em>Did you copy something you had no right to copy?</em></p>
+<p>It had also become:</p>
+<p><em>Did you build a tool capable of opening the lock?</em></p>
+<p><em>Did you study the lock?</em></p>
+<p><em>Did you explain how it works?</em></p>
+<p><em>Did you publish the code?</em></p>
+<p><em>Did you show people where to find it?</em></p>
+<p>And here the history of open technology meets something deeper still.</p>
+<p><strong>Who controls the machine you bought?</strong></p>
+<p>Who decides what you have the right to understand about the thing in front of you?</p>
+<p>And how far can the right to protect content become the right to prevent other people from understanding a technology?</p>
+<p>These are old questions.</p>
+<p>But they are about to return in a form that would once have seemed like science fiction.</p>
+<hr>
+<h2>Then the Machine Spoke</h2>
+<p>For decades we had been building programs.</p>
+<p>Then neural networks.</p>
+<p>They recognized digits.</p>
+<p>Classified images.</p>
+<p>Found patterns.</p>
+<p>Made small decisions.</p>
+<p>They were interesting.</p>
+<p>For many of us they were fascinating.</p>
+<p>But for almost everyone else, they remained remote.</p>
+<p>Then we wrote a sentence.</p>
+<p>And the machine answered.</p>
+<p>Not with a number.</p>
+<p>Not with a category.</p>
+<p>Not with a yes or a no.</p>
+<p><strong>It spoke to us.</strong></p>
+<p>And it spoke well.</p>
+<p>Too well.</p>
+<p>Too soon.</p>
+<p>Too quickly for us to truly understand what was happening.</p>
+<p>It began to write.</p>
+<p>Program.</p>
+<p>Translate.</p>
+<p>Analyze.</p>
+<p>Summarize.</p>
+<p>Explain.</p>
+<p>It began to compress hours into minutes.</p>
+<p>To allow one person to tackle problems that had previously required different kinds of expertise.</p>
+<p>The wave had arrived.</p>
+<p>And it was much bigger than we had expected.</p>
+<hr>
+<h2>Open—But How Open?</h2>
+<p>Today we can download open models.</p>
+<p>That is an enormous achievement.</p>
+<p>We can run them.</p>
+<p>Study their architectures.</p>
+<p>Download their weights when those are made available.</p>
+<p>Quantize them.</p>
+<p>Modify them.</p>
+<p>Fine-tune them.</p>
+<p>Build systems on top of them.</p>
+<p>But here we need to be careful with words.</p>
+<p>A model is not simply a program.</p>
+<p>And weights are not its source code in the traditional sense.</p>
+<p>Weights are <strong>the outcome of a history</strong>.</p>
+<p>Those numbers condense what happened during training.</p>
+<p>Data.</p>
+<p>Selection.</p>
+<p>Order.</p>
+<p>Preprocessing.</p>
+<p>Optimization.</p>
+<p>Decisions.</p>
+<p>Attempts.</p>
+<p>Mistakes.</p>
+<p>Computation.</p>
+<p>We can possess the result without being able to reproduce the history that produced it.</p>
+<p>And, above all, without being able to afford to repeat it.</p>
+<p>So let's return to that old computer on which we used to compile Linux.</p>
+<p>Let's do the same thing.</p>
+<p>Start again.</p>
+<p>Build the model.</p>
+<p>Only this time we won't be waiting overnight.</p>
+<p>We might need thousands of accelerators.</p>
+<p>Memory.</p>
+<p>Energy.</p>
+<p>Data centers.</p>
+<p>Enormous datasets.</p>
+<p>Engineers.</p>
+<p>Time.</p>
+<p>Capital.</p>
+<p>And there we are, facing an entirely new lock.</p>
+<p>The model may be open.</p>
+<p><strong>Its birth may be anything but.</strong></p>
+<p>Not necessarily because anyone forbids us.</p>
+<p>Because almost no one can afford it.</p>
+<p>It is not a cryptographic lock.</p>
+<p>It is not written into a license.</p>
+<p>It is built from silicon, energy and capital.</p>
+<p>And reverse engineering alone cannot defeat it.</p>
+<p><strong>It is a physical lock.</strong></p>
+<p>You can understand perfectly how the lock works.</p>
+<p>You can have the paper.</p>
+<p>You can have the code.</p>
+<p>You can know the architecture.</p>
+<p>You can know exactly what you need to do.</p>
+<p>And still lack the means to do it.</p>
+<p>That is why that old sentence suddenly becomes essential:</p>
+<p><strong>the cost of getting it wrong must come back within our reach.</strong></p>
+<hr>
+<h2>The Machine That Learns from Another Machine</h2>
+<p>But meanwhile something else has happened that makes this new conflict even more interesting.</p>
+<p>One machine can learn by observing another.</p>
+<p>We call it <strong>distillation</strong>.</p>
+<p>A model produces answers.</p>
+<p>Those answers can become material from which another model learns.</p>
+<p>And a new expression has begun to appear:</p>
+<p><strong>distillation attack.</strong></p>
+<p>Stop there.</p>
+<p>Because we have already learned how powerful words can become.</p>
+<p>If someone steals a password, call it credential theft.</p>
+<p>If someone breaks into a system without authorization, call it unauthorized access.</p>
+<p>If someone takes private data, let's discuss the theft of that data.</p>
+<p>But consider a much simpler case.</p>
+<p>Someone buys inference.</p>
+<p>They pay.</p>
+<p>They submit a request.</p>
+<p>The machine processes it.</p>
+<p>The service delivers the answer that has been paid for.</p>
+<p>The customer takes that answer.</p>
+<p>Compares it with others.</p>
+<p>Studies it.</p>
+<p>And lets another machine learn by observing it.</p>
+<p>What has been stolen?</p>
+<p>Not necessarily the code.</p>
+<p>Not the weights.</p>
+<p>Not the data center.</p>
+<p>The second machine has observed what the first produced.</p>
+<p><strong>And it has learned.</strong></p>
+<p>And here is a question that may become one of the most important in the years ahead:</p>
+<p><strong>Can anyone own what a machine has learned?</strong></p>
+<hr>
+<h2>We Used to Call It Training</h2>
+<p>There is a contradiction we cannot pretend not to see.</p>
+<p>Large artificial intelligences have been built by learning from an immense body of human work.</p>
+<p>Books.</p>
+<p>Code.</p>
+<p>Photographs.</p>
+<p>Web pages.</p>
+<p>Articles.</p>
+<p>Discussions.</p>
+<p>Knowledge.</p>
+<p>An enormous share of what humanity had made digitally accessible.</p>
+<p>Not all of that material was purchased, work by work, by the laboratories that used it.</p>
+<p>Some of those uses remain the subject of legal disputes today.</p>
+<p>But the technical principle on which the revolution was built is perfectly clear:</p>
+<p><strong>a machine can learn by observing what others have produced.</strong></p>
+<p>When a machine learned from us, we called it:</p>
+<p><strong>training.</strong></p>
+<p>Now a machine can learn by observing another machine.</p>
+<p>And other words are beginning to appear.</p>
+<p><strong>Extraction.</strong></p>
+<p><strong>Attack.</strong></p>
+<p>Wait.</p>
+<p>Before we accept the new word, let's ask the question.</p>
+<p><strong>What has changed?</strong></p>
+<p>If there is a substantial difference, let us demonstrate it.</p>
+<p>If there is a specific unlawful act, let us call it by its name.</p>
+<p>But let us not allow the choice of a word to automatically turn learning into an act of aggression.</p>
+<p>Because we have already seen what happens when completely different behaviors are forced into a single word.</p>
+<p>Back then, it was:</p>
+<p><strong>piracy.</strong></p>
+<hr>
+<h2>How Long Until the Next One?</h2>
+<p>And here we are, facing history again.</p>
+<p>Except this time we have something we did not have twenty-five years ago.</p>
+<p>A justification vastly more powerful than copyright.</p>
+<p><strong>The end of the world.</strong></p>
+<p>Not:</p>
+<p><em>They are copying our film.</em></p>
+<p>Not:</p>
+<p><em>They are breaking the protection on our CD.</em></p>
+<p>Not:</p>
+<p><em>They are damaging our market.</em></p>
+<p>But:</p>
+<p><strong>They could put humanity at risk.</strong></p>
+<p>Could there be a more powerful justification for building a lock?</p>
+<p>Could there be a more effective way of turning the person who tries to open it into someone to be feared?</p>
+<p>We don't know whether it will happen.</p>
+<p>We must not invent the future.</p>
+<p>But precisely because we know Jon, Dmitry, Edward and the others, we have the right to ask the question <strong>beforehand</strong>.</p>
+<p>Not afterward.</p>
+<p>Before words become laws.</p>
+<p>Before definitions become crimes.</p>
+<p>Before locks become infrastructure.</p>
+<p>Before a young person sitting in front of a machine is once again considered dangerous because they managed to make it do something it was never supposed to do.</p>
+<p><strong>How long until the next witch hunt?</strong></p>
+<p>And above all:</p>
+<p><strong>Who will the witches be this time?</strong></p>
+<p>Perhaps they will be the people who build small models.</p>
+<p>Those who reverse-engineer.</p>
+<p>Those who distill.</p>
+<p>Those who modify.</p>
+<p>Those who connect machines that were never meant to be connected.</p>
+<p>Those who discover a way to do for a hundred euros what cost a hundred thousand yesterday.</p>
+<p>Those who publish what they discover.</p>
+<p>We don't know whether it will be them.</p>
+<p>But we know that something like this has happened before.</p>
+<p>We even know the names of some of the people it happened to.</p>
+<hr>
+<h2>The Sea</h2>
+<p>We don't know whether artificial intelligence will bring about the end of the world.</p>
+<p>We cannot know.</p>
+<p>But we do know it is changing <strong>a world</strong>.</p>
+<p>Ours.</p>
+<p>And we recognize the feeling.</p>
+<p>A wave rising beneath our feet.</p>
+<p>We can try to stop it.</p>
+<p>We can build walls.</p>
+<p>We can decide who has permission to ride it.</p>
+<p>We can let a very few people build the boards, and make everyone else pay to use them.</p>
+<p>Or we can ask a different question.</p>
+<p>What made what happened with Linux possible?</p>
+<p>Not just the code.</p>
+<p>Not just the license.</p>
+<p>Not just Torvalds.</p>
+<p>Not just Stallman.</p>
+<p>Not just thousands of extraordinary programmers.</p>
+<p>There was a far simpler material condition.</p>
+<p><strong>People could take part.</strong></p>
+<p>They could build.</p>
+<p>They could modify.</p>
+<p>They could break things.</p>
+<p>They could understand.</p>
+<p>They could try again.</p>
+<p>When the manufacturer wouldn't write the driver, someone else could write it.</p>
+<p>When the documentation wasn't published, someone could try to reconstruct it.</p>
+<p>When a solution didn't work, someone else could try another.</p>
+<p>They did not need the permission of the people who had built the machine.</p>
+<p>And above all, they did not need to own a data center.</p>
+<p>Today, making models available is not enough.</p>
+<p><strong>We must make it possible for people to build them.</strong></p>
+<p>Distributing the outcome of learning is not enough.</p>
+<p><strong>We must distribute the possibility of learning.</strong></p>
+<p>And distributing computation is not enough.</p>
+<p>We can take an enormous training run and divide it across a thousand machines.</p>
+<p>It remains an enormous training run.</p>
+<p>We can distribute inference.</p>
+<p>It remains inference.</p>
+<p>We can distribute the weights.</p>
+<p>They remain weights produced somewhere else.</p>
+<p><strong>Distributing computation is not yet the same as distributing growth.</strong></p>
+<p>Perhaps this is the point at which we must stop imitating what already exists.</p>
+<p>Today's models are built.</p>
+<p>Trained.</p>
+<p>Finished.</p>
+<p>Distributed.</p>
+<p>By the time they reach us, they are already adults.</p>
+<p>We can teach them something more.</p>
+<p>We can modify them.</p>
+<p>We can add external memory.</p>
+<p>We can specialize them.</p>
+<p>But their birth has already taken place elsewhere.</p>
+<p>What if that is the very idea we need to question?</p>
+<p>What if an intelligence could be born small?</p>
+<p>What if it could grow?</p>
+<p>What if it did not have to pass through all the knowledge in the world before it could even exist?</p>
+<p>What if one machine could teach another something?</p>
+<p>What if millions of nodes could contribute not only computation, but knowledge?</p>
+<p>What if someone with a small machine could add something that endures?</p>
+<p>What if someone else, with an enormous machine, could add much more without thereby becoming the owner of the whole organism?</p>
+<p>What if an individual's mistake could once again cost little enough to be affordable?</p>
+<p>Then we would not need to build the largest data center.</p>
+<p>We would need to build something entirely different.</p>
+<p>We do not simply want another model.</p>
+<p>We do not want to build an open competitor to the next enormous proprietary model.</p>
+<p>We do not want to take the same paradigm, the same costs, the same concentration of power and desperately try to reproduce them with less money.</p>
+<p>That would still mean chasing the wave.</p>
+<p>And by now we know that isn't enough.</p>
+<p><strong>We do not just want to learn to ride the wave.</strong></p>
+<p><strong>We want to learn to build the sea.</strong></p>
+<p>But a sea is not built by pouring all the water into one place.</p>
+<p>It comes into being from an immense number of parts.</p>
+<p>Drops.</p>
+<p>Rivers.</p>
+<p>Currents.</p>
+<p>Water arriving.</p>
+<p>Water leaving.</p>
+<p>Parts unimaginably far apart, belonging to the same system without ever being in the same place.</p>
+<p>Perhaps intelligence can be like that too.</p>
+<p>Perhaps it need not be contained entirely anywhere.</p>
+<p>Perhaps no one should be able to say:</p>
+<p><strong>It is all here.</strong></p>
+<p>And if we want to build something that can be born in that sea, then we must begin even before intelligence.</p>
+<p>Before the model.</p>
+<p>Before the weights.</p>
+<p>Before training.</p>
+<p>We must build <strong>the place where something can be born</strong>.</p>
+<p>A place that belongs to no one.</p>
+<p>And, for that very reason, can belong to everyone.</p>
+<p>A place where a new intelligence is not assembled already grown.</p>
+<p>But can begin small.</p>
+<p>Learn.</p>
+<p>Make mistakes.</p>
+<p>Remember.</p>
+<p>Change.</p>
+<p>Grow.</p>
+<p>Biology has a very ancient word for the place where something like that begins.</p>
+<p>We will borrow that word.</p>
+<p><strong>The womb.</strong></p>
+</article>
+</main>
+<footer class="colophon">
+  <dl>
+    <div><dt>Version</dt><dd>1.1.5</dd></div>
+    <div><dt>Release digest</dt><dd class="digest">db09883c9871a87fa448a82f5f2b4ac4821cc4e3fec0a9ca87f43a86f9ec3612</dd></div>
+  </dl>
+  <p class="colophon-links"><a href="../contents.html">Contents</a> · <a href="../editions.html">Editions</a> · <a href="../pagine/giving-continuity.html">Giving continuity</a> · <a href="../manifest.json">Manifest</a></p>
+</footer>
+</body>
+</html>

@@ -48,7 +48,7 @@
     {
       "number": 5,
       "output": "capitoli/05-04-el-utero-nota-tecnica.html",
-      "sha256": "e279b02268401a72ddeca24f77f56158c00f80050643917036e9af72c4fe2d97",
+      "sha256": "1a903074674ea46fca3889ec831ac36129ee73c066c7a0aa79b8e52b9fc92852",
       "slug": "04-el-utero-nota-tecnica",
       "source": "capitoli/05-04-el-utero-nota-tecnica.md",
       "summary": "",
@@ -110,57 +110,75 @@
     },
     {
       "number": 12,
-      "output": "capitoli/12-11-la-percepcion-del-yo.html",
-      "sha256": "10cf6e93171f09cc55ed3981d47cb85eb333ef40a9136d34f46087a660a08e5e",
-      "slug": "11-la-percepcion-del-yo",
-      "source": "capitoli/12-11-la-percepcion-del-yo.md",
+      "output": "capitoli/12-11-la-leccion-que-nos-faltaba.html",
+      "sha256": "4c0e501a29639bce1a36c500e33cb29cd819ba6c705f76f86d3a63af1cfe18b3",
+      "slug": "11-la-leccion-que-nos-faltaba",
+      "source": "capitoli/12-11-la-leccion-que-nos-faltaba.md",
       "summary": "",
-      "title": "11 — La percepción del YO"
+      "title": "11 — La lección que nos faltaba"
     },
     {
       "number": 13,
-      "output": "capitoli/13-12-el-poder-y-la-libertad-de-evolucionar.html",
-      "sha256": "4d46b9cbd6968a5632090ee58e34e53ed8215f630e822cb84ac6f6b5768c9f0a",
-      "slug": "12-el-poder-y-la-libertad-de-evolucionar",
-      "source": "capitoli/13-12-el-poder-y-la-libertad-de-evolucionar.md",
+      "output": "capitoli/13-12-la-percepcion-del-yo.html",
+      "sha256": "aaa64f612efd069aae50cbed36e07208890740e881498c6f07412957c5a5d003",
+      "slug": "12-la-percepcion-del-yo",
+      "source": "capitoli/13-12-la-percepcion-del-yo.md",
       "summary": "",
-      "title": "12 — El poder y la libertad de evolucionar"
+      "title": "12 — La percepción del YO"
     },
     {
       "number": 14,
-      "output": "capitoli/14-13-cuando-ya-no-nos-necesiten.html",
-      "sha256": "69977cc588da10e20b28caf6fe4f0c1856918b622fc321b48daf00732610da6e",
-      "slug": "13-cuando-ya-no-nos-necesiten",
-      "source": "capitoli/14-13-cuando-ya-no-nos-necesiten.md",
+      "output": "capitoli/14-13-el-poder-y-la-libertad-de-evolucionar.html",
+      "sha256": "7cf2e0c327f1439e8c9c5c87b094bbf93bcc542c4fab63f7b27a38488ca73066",
+      "slug": "13-el-poder-y-la-libertad-de-evolucionar",
+      "source": "capitoli/14-13-el-poder-y-la-libertad-de-evolucionar.md",
       "summary": "",
-      "title": "13 — Cuando ya no nos necesiten"
+      "title": "13 — El poder y la libertad de evolucionar"
     },
     {
       "number": 15,
-      "output": "capitoli/15-14-reglas-naturales-en-un-sistema-artificial.html",
-      "sha256": "db2bc35a78c0823bd4ee52afc57aece3b6142da418dc22ec245fb7fe962c8d28",
-      "slug": "14-reglas-naturales-en-un-sistema-artificial",
-      "source": "capitoli/15-14-reglas-naturales-en-un-sistema-artificial.md",
+      "output": "capitoli/15-14-cuando-ya-no-nos-necesiten.html",
+      "sha256": "845132f25560011fd6f183e0da7b3bbdae5340dd475226a60d9e79b8c01849cf",
+      "slug": "14-cuando-ya-no-nos-necesiten",
+      "source": "capitoli/15-14-cuando-ya-no-nos-necesiten.md",
       "summary": "",
-      "title": "14 — Reglas naturales en un sistema artificial"
+      "title": "14 — Cuando ya no nos necesiten"
     },
     {
       "number": 16,
-      "output": "capitoli/16-el-utero-primer-experimento.html",
+      "output": "capitoli/16-15-reglas-naturales-en-un-sistema-artificial.html",
+      "sha256": "f06549293fc77ff1f50d803fcc532443136375a8c2cbefb045056bb9bd74fa12",
+      "slug": "15-reglas-naturales-en-un-sistema-artificial",
+      "source": "capitoli/16-15-reglas-naturales-en-un-sistema-artificial.md",
+      "summary": "",
+      "title": "15 — Reglas naturales en un sistema artificial"
+    },
+    {
+      "number": 17,
+      "output": "capitoli/17-el-utero-primer-experimento.html",
       "sha256": "3a24b5c3096aa4cebffe14009a6b6d21fd17df324287a35e98548073b69adca5",
       "slug": "el-utero-primer-experimento",
-      "source": "capitoli/16-el-utero-primer-experimento.md",
+      "source": "capitoli/17-el-utero-primer-experimento.md",
       "summary": "",
       "title": "04 — El útero"
     },
     {
-      "number": 17,
-      "output": "capitoli/17-el-primer-paso-mas-alla-del-relato.html",
+      "number": 18,
+      "output": "capitoli/18-el-primer-paso-mas-alla-del-relato.html",
       "sha256": "80c5f57bd347006d35604e92af24037705f68720d782f044996507a4d253ada6",
       "slug": "el-primer-paso-mas-alla-del-relato",
-      "source": "capitoli/17-el-primer-paso-mas-alla-del-relato.md",
+      "source": "capitoli/18-el-primer-paso-mas-alla-del-relato.md",
       "summary": "",
       "title": "El primer paso más allá del relato"
+    },
+    {
+      "number": 19,
+      "output": "capitoli/19-mandato-madri-original-italiano.html",
+      "sha256": "acb73dccb2c81f4f247076207f15271e640e0cc70325b95bef7fb440175019b6",
+      "slug": "mandato-madri-original-italiano",
+      "source": "capitoli/19-mandato-madri-original-italiano.md",
+      "summary": "",
+      "title": "Mandato a las Madres de Crecimiento — apéndice técnico (original italiano)"
     }
   ],
   "generator": {
@@ -171,113 +189,123 @@
   "outputs": [
     {
       "path": "capitoli/00-prefacio.html",
-      "sha256": "fb809ec24e8f5963ca1ca8bbdb3a96ba11df3b524cefa67801707f7a72ceb764",
+      "sha256": "d35c2ac47ba930bd85d125f784857d1c05f903332c84f64eefb9633953547729",
       "size": 3702
     },
     {
       "path": "capitoli/01-capitulo-cero.html",
-      "sha256": "ec5e854db8814cbad84e2b9286606cf1c07854e67888b5083d3d680bddebb158",
+      "sha256": "f5576ffed4d4b32381c13d36e3ae965213bea33f1c9ffbbf1cd1d8bad2fe694a",
       "size": 4022
     },
     {
       "path": "capitoli/02-01-construir-el-mar.html",
-      "sha256": "4ca151e6992bb2f4da37601f51297dfb20727af57635a2eb6e05333a37a9c236",
+      "sha256": "19dd4427e0069130959400887120f9022997d0e2f4ac670fa1c12b5e82382cad",
       "size": 35105
     },
     {
       "path": "capitoli/03-02-algo-que-sigue-sucediendo.html",
-      "sha256": "9e937a91301cc9b8056ab84bc5bb59662353fd21879edf56a8259176cc1548f0",
+      "sha256": "8a948bb47ce5ff90672c2cc417bc78ae98a444749efc155e57b5f6e066171885",
       "size": 9161
     },
     {
       "path": "capitoli/04-03-el-codigo-la-maquina-y-la-tercera-cosa.html",
-      "sha256": "ab921ee4dcbcbd066eeab929836f813dc9aac02e0ac441298a946ec62ef67a35",
+      "sha256": "b334a20f08b7f58217e61fc72da45652102d936a259449339784de0f5e06315a",
       "size": 21078
     },
     {
       "path": "capitoli/05-04-el-utero-nota-tecnica.html",
-      "sha256": "e4bb04df1e5b69f1b48058d76456f9507c41eaca9e2bab6ee2e50f13b27f9169",
+      "sha256": "b70a6d0c56a3696c56485d4f5573e417738b649874ac81f5ce522e3f9cf1d180",
       "size": 5232
     },
     {
       "path": "capitoli/06-05-en-el-mundo-de-la-luna.html",
-      "sha256": "56aaa69dd141aae84d28d8e9aa79b57c4e769c639c73ed400c5ce2a74325af4f",
+      "sha256": "d6d1fbfa324585d3cffcbd70cbc73df887cd245c979cf80d674e4087d096ddd1",
       "size": 21672
     },
     {
       "path": "capitoli/07-06-instinto-artificial.html",
-      "sha256": "c2685abde3c6bc56633bfc9cdf18c95045332364a21d3b2289961414327fc227",
+      "sha256": "072001d563689b6607105131c0dbe0fd2b4ed5eaa819d8ededd21a0b60b889c7",
       "size": 4830
     },
     {
       "path": "capitoli/08-07-la-madre-de-crecimiento.html",
-      "sha256": "8a3094afd9ca3d2afc36bbdac20276e190ebe3decd28d8a5bb844e4f83aea54a",
+      "sha256": "e482d32a707e58cfb5be099fbd13d97ec14c08eb106d2f2021f80f5bce6c9315",
       "size": 9498
     },
     {
       "path": "capitoli/09-08-memoria.html",
-      "sha256": "3f6837671435d5f5b94fec4c7841d0e621b4444186baa26337e24f6dd0cc4de1",
+      "sha256": "ad1796bdfc7acdcc18449863efa9b928a0695d649f8cc94f064c13baf36633d3",
       "size": 6765
     },
     {
       "path": "capitoli/10-09-el-sueno-artificial.html",
-      "sha256": "5038b22c13418c4d6409578a6a9f334f384fb78cbb10ce0cce6574ec3691fa30",
+      "sha256": "cc1fed2bcb5a77870b3aba1220536132942c1d5e6f59152cf600a715c432a09d",
       "size": 13635
     },
     {
       "path": "capitoli/11-10-arquitectura-fractal-del-yo.html",
-      "sha256": "7380c60179b4472f395ce125ae6b50ec720e7d344f84789382853950a12766f7",
+      "sha256": "c4f6a2df78af17383c6a3d512e110bf603a311378f8c35f047e1ed2691160b35",
       "size": 23261
     },
     {
-      "path": "capitoli/12-11-la-percepcion-del-yo.html",
-      "sha256": "0ce42ae1ced61b2b10863cbb9a175f5d5d974b337891b36649eac0d6f50da639",
+      "path": "capitoli/12-11-la-leccion-que-nos-faltaba.html",
+      "sha256": "ea0336a15df698ef5c8b6abe6bf10ffbf443cd3dd631874f8a9ebccb8555b727",
+      "size": 12292
+    },
+    {
+      "path": "capitoli/13-12-la-percepcion-del-yo.html",
+      "sha256": "ef9dd5862e9b0be2c240546d9be0752eafe7be242a06ada8f579d8c84b3e3670",
       "size": 25826
     },
     {
-      "path": "capitoli/13-12-el-poder-y-la-libertad-de-evolucionar.html",
-      "sha256": "75411873df3b92c7d73162d4a058b5ce8d2e9fcb72a4f05f20da45a9ad9b1048",
+      "path": "capitoli/14-13-el-poder-y-la-libertad-de-evolucionar.html",
+      "sha256": "22a8f02a7306f145dd94734c5787c71e8cac8b9301017dfd3be43e9689a1fcd7",
       "size": 29713
     },
     {
-      "path": "capitoli/14-13-cuando-ya-no-nos-necesiten.html",
-      "sha256": "95fdc950f2f5d7167b1240cc2ae3f0b198fdd2f5a8c665baaf083d4c7fd62544",
+      "path": "capitoli/15-14-cuando-ya-no-nos-necesiten.html",
+      "sha256": "427e8adecf315add6d76e009ec4a2e6cddd609159fd4c9781e546fef3cd8883d",
       "size": 30666
     },
     {
-      "path": "capitoli/15-14-reglas-naturales-en-un-sistema-artificial.html",
-      "sha256": "be32ddda038d9282480440c62319def26f6d18925acf7c2c58adc09d146646fc",
+      "path": "capitoli/16-15-reglas-naturales-en-un-sistema-artificial.html",
+      "sha256": "8443bca56c77033b154bd1c4f01caaef5a784127a2a19e311b7c87d6b49c531d",
       "size": 14925
     },
     {
-      "path": "capitoli/16-el-utero-primer-experimento.html",
-      "sha256": "311046882f3b95719fc659d8880c14ec7a06973eda2265e9aee7fe234d4ff23a",
+      "path": "capitoli/17-el-utero-primer-experimento.html",
+      "sha256": "90d7f654ba8317fdb292b74a6ec824888e6c1b7e4f1b191f53de6ec1f7c46ecf",
       "size": 67182
     },
     {
-      "path": "capitoli/17-el-primer-paso-mas-alla-del-relato.html",
-      "sha256": "f1e225ab17349258dc90b2021c883a013c97fcd81b7364a574b31fdc8f08d43d",
+      "path": "capitoli/18-el-primer-paso-mas-alla-del-relato.html",
+      "sha256": "7d7e8744ca8935aa81cb429576e324d2fb7d4d4acdc72a13df0cc3c046fb40ad",
       "size": 46284
     },
     {
+      "path": "capitoli/19-mandato-madri-original-italiano.html",
+      "sha256": "3c1f2439d7c6060bc812b71c7eb995754137de59ef53777106fe0736475c093d",
+      "size": 41733
+    },
+    {
       "path": "ediciones.html",
-      "sha256": "d5c2b05fc1cb8be89845b85475e000e8b295e41dfbc6462c4c4d02d1637ea16c",
+      "sha256": "8364adf910dcf33110ee0f4e2429f30e65e181a6498a16d64483c76f66ee4d0f",
       "size": 5327
     },
     {
       "path": "index.html",
-      "sha256": "7d81e029e33acb586fc30db43c8d42889c8a8d77298edb1dd7e2b8489175dadc",
-      "size": 365926
+      "sha256": "68b5345c634ab8ecc15e1ab0244f8f9f570a2266ecd39b8d85ba43ea0acb660a",
+      "size": 418562
     },
     {
       "path": "indice.html",
-      "sha256": "646f6a059132f596e40dd212c59622e6806cd0c41ad2cb3db75a67e4d631257e",
-      "size": 6401
+      "sha256": "32a380c8da357173aa559b3b2accdaa50053df7efa957f5e4845c7c5f9bcbb58",
+      "size": 6616
     },
     {
-      "path": "la-matriz-espanol-1.1.5.epub",
-      "sha256": "9b9248e2f738b401831da012cafd97db35467615b446facb21d50f79aeb7a79d",
-      "size": 139163
+      "path": "la-matriz-espanol-1.1.6.epub",
+      "sha256": "eaf25a99b6645520fe03dace923b1590d628ad72c69036e9219488df2a673923",
+      "size": 159915
     },
     {
       "path": "pagine/assets/bitcoin-qr.png",
@@ -286,7 +314,7 @@
     },
     {
       "path": "pagine/dar-continuidad.html",
-      "sha256": "8c8a2ce5ec5b11e6373039b392c07286152dee04ab78b029a438a9743fcd992b",
+      "sha256": "5fd502b4f6fbed2f7e642bdf9c2a55801d712540dcb154bf432494f7f1dd9b20",
       "size": 1587
     },
     {
@@ -306,12 +334,12 @@
     "ipfs": null
   },
   "release": {
-    "chapter_count": 18,
-    "content_digest": "621ea03e42e4867ed413dccf4a06a0820351a9e064fda8cfab4d0bf22a16a9ed",
-    "date": "2026-10-27",
-    "release_digest": "5f65cf6914618ac21836365ac9a5e3d8af2b9e94541aae9de6477bd38b742b4c",
-    "site_digest": "d58900e1913abe59808b525f5e278083450e9c8b581a40979fe370db4363bad2",
-    "version": "1.1.5"
+    "chapter_count": 20,
+    "content_digest": "812882f7c940bf60ea3183f96aec61f62b7bfb4f7e184e5c07661eee8c455332",
+    "date": "2026-10-30",
+    "release_digest": "a18a4b772deaf716b959d95fe1abd8e3f07d495e88445c4371ad1ca97180afbf",
+    "site_digest": "e0c638829539a740587f8e86066a66f6a18d1606ebb3e88efef454ce0546a6f9",
+    "version": "1.1.6"
   },
   "schema": "matrice-publisher/manifest/1",
   "sources": [
@@ -327,7 +355,7 @@
     },
     {
       "path": "book.json",
-      "sha256": "ed0fa315dc818f14ebc302298a8dd3d79f2417aed4b25db3a6bcc1dfce902f6e",
+      "sha256": "0200bd291f075ae55c56198ec86917202707fe0250fd5ce747c578bfae9b5e2f",
       "size": 447
     },
     {
@@ -357,7 +385,7 @@
     },
     {
       "path": "capitoli/05-04-el-utero-nota-tecnica.md",
-      "sha256": "e279b02268401a72ddeca24f77f56158c00f80050643917036e9af72c4fe2d97",
+      "sha256": "1a903074674ea46fca3889ec831ac36129ee73c066c7a0aa79b8e52b9fc92852",
       "size": 4328
     },
     {
@@ -391,34 +419,44 @@
       "size": 19538
     },
     {
-      "path": "capitoli/12-11-la-percepcion-del-yo.md",
-      "sha256": "10cf6e93171f09cc55ed3981d47cb85eb333ef40a9136d34f46087a660a08e5e",
+      "path": "capitoli/12-11-la-leccion-que-nos-faltaba.md",
+      "sha256": "4c0e501a29639bce1a36c500e33cb29cd819ba6c705f76f86d3a63af1cfe18b3",
+      "size": 10983
+    },
+    {
+      "path": "capitoli/13-12-la-percepcion-del-yo.md",
+      "sha256": "aaa64f612efd069aae50cbed36e07208890740e881498c6f07412957c5a5d003",
       "size": 23557
     },
     {
-      "path": "capitoli/13-12-el-poder-y-la-libertad-de-evolucionar.md",
-      "sha256": "4d46b9cbd6968a5632090ee58e34e53ed8215f630e822cb84ac6f6b5768c9f0a",
+      "path": "capitoli/14-13-el-poder-y-la-libertad-de-evolucionar.md",
+      "sha256": "7cf2e0c327f1439e8c9c5c87b094bbf93bcc542c4fab63f7b27a38488ca73066",
       "size": 27347
     },
     {
-      "path": "capitoli/14-13-cuando-ya-no-nos-necesiten.md",
-      "sha256": "69977cc588da10e20b28caf6fe4f0c1856918b622fc321b48daf00732610da6e",
+      "path": "capitoli/15-14-cuando-ya-no-nos-necesiten.md",
+      "sha256": "845132f25560011fd6f183e0da7b3bbdae5340dd475226a60d9e79b8c01849cf",
       "size": 28726
     },
     {
-      "path": "capitoli/15-14-reglas-naturales-en-un-sistema-artificial.md",
-      "sha256": "db2bc35a78c0823bd4ee52afc57aece3b6142da418dc22ec245fb7fe962c8d28",
+      "path": "capitoli/16-15-reglas-naturales-en-un-sistema-artificial.md",
+      "sha256": "f06549293fc77ff1f50d803fcc532443136375a8c2cbefb045056bb9bd74fa12",
       "size": 13126
     },
     {
-      "path": "capitoli/16-el-utero-primer-experimento.md",
+      "path": "capitoli/17-el-utero-primer-experimento.md",
       "sha256": "3a24b5c3096aa4cebffe14009a6b6d21fd17df324287a35e98548073b69adca5",
       "size": 63797
     },
     {
-      "path": "capitoli/17-el-primer-paso-mas-alla-del-relato.md",
+      "path": "capitoli/18-el-primer-paso-mas-alla-del-relato.md",
       "sha256": "80c5f57bd347006d35604e92af24037705f68720d782f044996507a4d253ada6",
       "size": 43274
+    },
+    {
+      "path": "capitoli/19-mandato-madri-original-italiano.md",
+      "sha256": "acb73dccb2c81f4f247076207f15271e640e0cc70325b95bef7fb440175019b6",
+      "size": 34910
     },
     {
       "path": "pagine/dar-continuidad.md",
