@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Editions — La Matrice</title><style>
+:root {
+  color-scheme: light;
+  --paper: #faf8f3; --ink: #23201c; --muted: #6c645a;
+  --line: #dbd5c9; --accent: #614a31; --measure: 39rem;
+  --serif: Georgia, "Iowan Old Style", Palatino, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--serif); font-size: 1.1rem; line-height: 1.76;
+  -webkit-text-size-adjust: 100%; }
+a { color: var(--accent); text-underline-offset: .18em; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.reader-bar { max-width: var(--measure); margin: auto; padding: 1rem 1.4rem 0;
+  display: flex; justify-content: space-between; gap: 1rem; align-items: center;
+  font: .73rem var(--sans); letter-spacing: .08em; color: var(--muted); }
+.reader-bar a { text-decoration: none; }
+.book { max-width: var(--measure); margin: auto; padding: 0 1.4rem 1rem; }
+.cover { min-height: 56vh; display: flex; flex-direction: column;
+  align-items: center; justify-content: center; text-align: center;
+  padding: 5.2rem 0 4rem; }
+.cover .kicker { font: .76rem var(--sans); letter-spacing: .22em;
+  text-transform: uppercase; color: var(--muted); }
+.cover h1 { font-size: clamp(2.8rem, 11vw, 4.4rem); font-weight: 400;
+  line-height: 1.12; margin: 1.25rem 0 .9rem; letter-spacing: -.035em; }
+.byline { font: .92rem var(--sans); letter-spacing: .09em; }
+.cover-subtitle { font: .81rem var(--sans); color: var(--muted); }
+.download { margin-top: .9rem; font: .79rem var(--sans); }
+.book-part { padding: 3.5rem 0 4.5rem; border-top: 1px solid var(--line);
+  scroll-margin-top: 2.7rem; }
+.book-part-title { font-size: clamp(1.6rem, 5vw, 2.17rem);
+  font-weight: 400; line-height: 1.25; letter-spacing: -.016em;
+  margin: 1.3rem 0 2rem; }
+.prose { font-family: var(--serif); font-size: 1.1rem; line-height: 1.76; font-weight: 400; }
+.prose p, .prose li, .prose blockquote p { font-size: inherit; line-height: inherit; }
+.prose p { margin: 0 0 1.1rem; }
+.prose h2, .prose h3, .prose h4 { line-height: 1.33; font-weight: 400;
+  margin: 2.1rem 0 .85rem; }
+.prose h2 { font-size: 1.46rem; }
+.prose h3 { font-size: 1.22rem; }
+.prose h4 { font-size: 1.03rem; font-weight: 600; }
+.prose blockquote { margin: 1.6rem 0; border-left: 2px solid var(--line);
+  padding: .2rem 0 .2rem 1.1rem; color: #4b453d; font-style: italic; }
+.prose blockquote p:last-child { margin-bottom: 0; }
+.prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.5rem auto;
+  width: 44%; }
+.prose ul, .prose ol { padding-left: 1.5rem; }
+.prose li { margin-bottom: .45rem; }
+.prose pre { white-space: pre-wrap; overflow-wrap: anywhere;
+  background: #f2efe8; padding: 1rem; font: .83rem/1.5 ui-monospace, monospace; }
+.prose code { font: .88em ui-monospace, monospace; overflow-wrap: anywhere; }
+.prose img { max-width: 100%; height: auto; }
+.prose table { display: block; overflow-x: auto; border-collapse: collapse; }
+.prose td, .prose th { padding: .4rem; border-bottom: 1px solid var(--line); }
+#esperimento { padding-top: 5rem; }
+.endnote { padding: 3.6rem 0; margin: 3.6rem 0 4.5rem;
+  border-top: 1px solid var(--line); text-align: center; }
+.endnote h2 { font-size: 1.67rem; font-weight: 400; margin: .7rem 0 1.7rem; }
+.endnote p { max-width: 35rem; margin: 0 auto 1.1rem; }
+.endnote img { display: block; width: 210px; height: auto; max-width: 72%;
+  margin: 2rem auto 1.1rem; padding: .6rem; background: white; }
+.endnote code { font: .8rem/1.6 ui-monospace, monospace;
+  overflow-wrap: anywhere; user-select: all; }
+.endnote .small-link { font: .8rem var(--sans); }
+.toc { padding: 3.3rem 0 4rem; border-top: 1px solid var(--line); }
+.toc h2 { font-weight: 400; font-size: 1.9rem; margin: 0 0 1.3rem; }
+.toc ol { list-style: none; margin: 0; padding: 0; }
+.toc li { border-bottom: 1px solid var(--line); padding: .65rem 0; }
+.toc a { color: var(--ink); text-decoration: none; display: block;
+  line-height: 1.45; font-size: 1rem; }
+.toc a:hover { color: var(--accent); text-decoration: underline; }
+.toc .toc-nonchapter a { font-style: italic; }
+.reader-bottom { max-width: var(--measure); margin: auto;
+  padding: 1.4rem 1.4rem 3.5rem; border-top: 1px solid var(--line);
+  color: var(--muted); font: .78rem/1.8 var(--sans); }
+.reader-bottom a { text-decoration: none; }
+@media (max-width: 35rem) {
+  .cover { min-height: 48vh; padding: 4.5rem 0 3.5rem; }
+  .book-part { padding: 2.7rem 0 3.6rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+#experiment { padding-top: 5rem; }
+</style></head><body><main class="book"><header class="cover"><h1>Editions</h1></header><div class="toc"><h2>Edition One · 1.1.6</h2><p>The continuous reading, the first experiment and the free contribution.</p><p><a href="index.html">Read the current edition</a></p><h2>In Italian</h2><p>La Matrice was written in Italian. The Italian editions are published on their own and remain the reference text.</p><p><a href="https://raffaelespezia.github.io/la-matrice-lettura/">Leggi in italiano</a></p></div><p><a href="manifest.json">Digests and technical data for this release</a></p></main></body></html>

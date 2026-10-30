@@ -1,0 +1,11 @@
+{
+  "versione": "1.1.6",
+  "lingua": "es",
+  "epub": "la-matriz-espanol-1.1.6.epub",
+  "epub_sha256": "eaf25a99b6645520fe03dace923b1590d628ad72c69036e9219488df2a673923",
+  "cid": "bafybeiblimtdmhebi4onjxtpkoli3hppz2uhcw7urviycx2ebvdtvflxuu",
+  "topic_id": "0.0.10926025",
+  "sequence_number": 22,
+  "consensus_timestamp": "1793382003.746198104",
+  "mirror": "https://mainnet-public.mirrornode.hedera.com/api/v1/topics/0.0.10926025/messages/22"
+}

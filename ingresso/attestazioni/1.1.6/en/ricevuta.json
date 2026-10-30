@@ -1,0 +1,14 @@
+{
+  "topic_id": "0.0.10926025",
+  "transaction_id": "0.0.10926024@1793381992.427295207",
+  "sequence_number": 21,
+  "consensus_timestamp": "1793381998.960027116",
+  "payload_sha256": "cf556368da8a1b60314323bb87330adc3b9884268c8845125f7c4092db7f5f06",
+  "rete": "mainnet",
+  "costo_hbar": null,
+  "registrata_il": "2026-10-30T17:40:02+00:00",
+  "verifica": {
+    "mirror": "https://mainnet-public.mirrornode.hedera.com/api/v1/topics/0.0.10926025/messages/21",
+    "hashscan": "https://hashscan.io/mainnet/topic/0.0.10926025"
+  }
+}
