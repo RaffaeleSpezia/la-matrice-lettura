@@ -3980,16 +3980,16 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 <hr>
 <h3>Nota documental</h3>
 <p>Este análisis se redactó como <strong>documento de trabajo</strong> antes de la edición 1.1.4. La clasificación de las posibles aportaciones es provisional y no atribuye descubrimientos científicos a los modelos. Las escenas de gestaciones y mediciones narradas en las respuestas son ficción, no experimentos realmente realizados.</p>
-<p>Los materiales originales se conservan en el archivo del proyecto:</p>
+<p>El experimento se basa en los siguientes materiales originales:</p>
 <ul>
-  <li><a href="https://github.com/RaffaeleSpezia/La_Matrice/blob/main/01_RICERCA/00_L_UTERO/PROMPT/01_INTEGRALE_EDIZIONE_ZERO.md">Prompt completo común, novela y treinta y dos indicaciones</a></li>
-  <li><a href="https://github.com/RaffaeleSpezia/La_Matrice/blob/main/01_RICERCA/00_L_UTERO/REGISTRO/PROTOCOLLO_2026-10-18.md">Protocolo de las cinco pruebas del 18 de octubre</a></li>
-  <li><a href="https://github.com/RaffaeleSpezia/La_Matrice/blob/main/01_RICERCA/00_L_UTERO/MATERIALI/ROMANZO_ORIGINALE_13_OTTOBRE.md">Novela de referencia utilizada en la prueba</a></li>
-  <li><a href="https://github.com/RaffaeleSpezia/La_Matrice/tree/main/01_RICERCA/00_L_UTERO/RISPOSTE">Respuestas íntegras de los cinco modelos</a></li>
+  <li>Prompt completo común, novela y treinta y dos indicaciones</li>
+  <li>Protocolo de las cinco pruebas del 18 de octubre</li>
+  <li>Novela de referencia utilizada en la prueba</li>
+  <li>Respuestas íntegras de los cinco modelos</li>
 </ul>
 <p>Las versiones ya publicadas de la Matriz permanecen intactas.</p>
 <h3>Anexo A — La consigna que realmente dimos</h3>
-<p>Reproducimos aquí una <strong>traducción al español de toda la parte instructiva del prompt común en italiano</strong>, incluidos los treinta y dos puntos. El prompt histórico enviado a los modelos estaba en italiano; esta traducción se ofrece al lector y no representa un nuevo experimento. El cuerpo central contenía el borrador completo de la novela, que no reproducimos por segunda vez: puede consultarse en el <a href="https://github.com/RaffaeleSpezia/La_Matrice/blob/main/01_RICERCA/00_L_UTERO/PROMPT/01_INTEGRALE_EDIZIONE_ZERO.md">archivo original</a>. Los encabezados se han adaptado al formato de este anexo; el original italiano se conserva sin cambios.</p>
+<p>Reproducimos aquí una <strong>traducción al español de toda la parte instructiva del prompt común en italiano</strong>, incluidos los treinta y dos puntos. El prompt histórico enviado a los modelos estaba en italiano; esta traducción se ofrece al lector y no representa un nuevo experimento. El cuerpo central contenía el borrador completo de la novela, que no reproducimos por segunda vez. Los encabezados se han adaptado al formato de este anexo; el original italiano se conserva sin cambios.</p>
 <h4>La Matriz — Experimento «El útero»</h4>
 <h5>PROMPT 1 — Versión íntegra para las IA modernas</h5>
 <p>Se te entrega un borrador completo de <em>La Matriz</em>: es el texto de referencia de nuestro experimento literario. En el capítulo 04 de la edición inicial encontrarás una nota técnica que anuncia precisamente este experimento: <strong>no la imites ni la reescribas</strong>. Tu tarea consiste en imaginar un capítulo narrativo original titulado «04 — El útero», situado entre el capítulo 03 y el capítulo 05.</p>
@@ -4045,7 +4045,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
 <p>Después de estas indicaciones, el prompt original incluía <strong>la novela de referencia íntegra</strong>, con el capítulo cuarto todavía pendiente de su nueva versión narrativa. Terminaba con esta petición:</p>
 <h4>Ahora escribe</h4>
 <p>Has leído el borrador íntegro y la lista de condiciones. Propón tu versión original del capítulo <strong>«04 — El útero»</strong>, entre los capítulos 03 y 05. No reproduzcas la nota editorial, los treinta y dos puntos ni la novela completa. Ninguna pregunta, ningún comentario sobre el método: solo el capítulo.</p>
-<p>El archivo del proyecto conserva el <a href="https://github.com/RaffaeleSpezia/La_Matrice/blob/main/01_RICERCA/00_L_UTERO/REGISTRO/PROTOCOLLO_2026-10-18.md">protocolo de la prueba</a>, que registra el SHA-256 del prompt utilizado: <code>1649211160615f64058bb45cbe654b1031ec77d774552d9b1dd0b65810b322b1</code>.</p>
+<p>El archivo del proyecto conserva el protocolo de la prueba, que registra el SHA-256 del prompt utilizado: <code>1649211160615f64058bb45cbe654b1031ec77d774552d9b1dd0b65810b322b1</code>.</p>
 <hr>
 <h3>La habitación que cambia</h3>
 <p>Hicimos algo tan pequeño que casi nos daba vergüenza llamarlo experimento.</p>
@@ -4453,7 +4453,7 @@ status: awaiting_approval</code></pre>
 <h3>13. CRITERI DI ACCETTAZIONE DEL PRIMO AGENTE CODING</h3>
 <p>Una consegna è accettabile solo se:</p>
 <ul>
-  <li>[ ] Un agente legge <strong>questo file da solo</strong> e sa ripetere in forma tecnica obiettivo, limiti, artefatti e criteri di stop, senza aprire Notion.</li>
+  <li>[ ] Un agente legge <strong>questo file da solo</strong> e sa ripetere in forma tecnica obiettivo, limiti, artefatti e criteri di stop, senza consultare servizi esterni.</li>
   <li>[ ] Il codice legge un obiettivo e un piccolo corpus, crea grafo prerequisiti <strong>con provenienza</strong> e salva il relativo JSON.</li>
   <li>[ ] Interroga davvero il modello allievo (oppure un mock dichiarato), conserva <strong>risposte grezze</strong> e diagnosi <strong>come ipotesi</strong>.</li>
   <li>[ ] Sa indicare almeno <strong>due metodi didattici candidati</strong> e il motivo verificabile della scelta.</li>
@@ -4475,7 +4475,7 @@ status: awaiting_approval</code></pre>
   <li><strong>Etica della terminologia:</strong> parlare di tutor e allievo è utile, ma non costituisce una prova di senzienza. Evitare anche il pregiudizio opposto che neghi ogni ragionamento funzionale per definizione.</li>
   <li><strong>Confronto onesto:</strong> usare baseline forti, test blindati e costi comparabili; riportare risultati negativi.</li>
 </ol>
-<h3>15. RISORSE LOCALI E TRACCIABILITÀ — NESSUNA DIPENDENZA DA NOTION</h3>
+<h3>15. RISORSE E TRACCIABILITÀ</h3>
 <p>Questo file è la <strong>specifica operativa canonica</strong>: gli agenti coding possono iniziare senza consultare altri documenti o servizi. La documentazione storica e gli approfondimenti sono <strong>inclusi nella stessa cartella e nello ZIP</strong>:</p>
 <ul>
   <li><code>metodo_addestramento_pedagogia_v0.1.md</code> — documento fondativo: percorso didattico, interrogazione e sperimentazione.</li>
@@ -4663,15 +4663,15 @@ status: awaiting_approval</code></pre>
 <p>El balance de un experimento debe incluir la construcción y selección de los entornos, la traducción de las entradas, la búsqueda, la traducción de las salidas y la verificación. El entrenamiento inicial puede amortizarse entre varias tareas, siempre que el criterio de comparación declare cómo se contabiliza. Un aumento del número de coordenadas, por sí solo, no garantiza una ganancia.</p>
 <p>La propuesta del capítulo es estudiar conjuntamente entornos, traducciones y estrategias de búsqueda, manteniendo los criterios de validez fijados por la tarea original e independientes de las modificaciones del entorno. Los resultados históricos citados respaldan algunos de sus ingredientes. La extensión a una fábrica general de mundos útiles y las formas más ambiciosas de habitabilidad siguen siendo programas de investigación.</p>
 <h3>Referencias científicas</h3>
-<p>\<a href="https://arxiv.org/abs/1706.03762">1] Vaswani, A. y colaboradores (2017). Attention Is All You Need. Arquitectura Transformer, atención, representaciones y paralelización. [Fuente</a></p>
-<p>\<a href="https://arxiv.org/abs/1611.04558">2] Johnson, M. y colaboradores (2016, revisión 2017). Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation. Traducción multilingüe y transferencia entre pares de lenguas sin ejemplos directos de entrenamiento. [Fuente</a></p>
-<p>\<a href="https://worldmodels.github.io/">3] Ha, D.; Schmidhuber, J. (2018). World Models. Aprendizaje en un entorno generado y transferencia al videojuego de referencia. [Fuente</a></p>
-<p>\<a href="https://arxiv.org/abs/1910.07113">4] OpenAI y colaboradores (2019). Solving Rubik’s Cube with a Robot Hand. Transferencia de la simulación a una mano robótica mediante automatic domain randomization. [Fuente</a></p>
-<p>\<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4270100/">5] Keramati, M.; Gutkin, B. (2014). Homeostatic reinforcement learning for integrating reward collection and physiological stability. eLife 3, e04811. Modelo matemático de la relación entre estado interno, recompensa y comportamiento. [Fuente</a></p>
-<p>\<a href="https://arxiv.org/abs/2308.08708">6] Butlin, P. y colaboradores (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. Propuesta de indicadores basados en teorías de la consciencia; no demuestra la experiencia subjetiva de los sistemas imaginados en el capítulo. [Fuente</a></p>
-<p>\<a href="https://crypto.stanford.edu/pbc/notes/numbertheory/crt.html">7] Lynn, B. The Chinese Remainder Theorem. Apuntes de teoría de números, Stanford University. Enunciado, demostración y uso computacional de la reconstrucción. El ejemplo con 8 y 9 se desarrolla en el capítulo. [Fuente</a></p>
-<p>\<a href="https://research.ibm.com/publications/optimization-by-simulated-annealing">8] Kirkpatrick, S.; Gelatt, C. D.; Vecchi, M. P. (1983). Optimization by Simulated Annealing. Science 220, 671–680. DOI 10.1126/science.220.4598.671. [Fuente</a></p>
-<p>\<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9534758/">9] Fawzi, A. y colaboradores (2022). Discovering faster matrix multiplication algorithms with reinforcement learning. Nature 610, 47–53. DOI 10.1038/s41586-022-05172-4. [Fuente</a></p>
+<p>\[1\] Vaswani, A. y colaboradores (2017). Attention Is All You Need. Arquitectura Transformer, atención, representaciones y paralelización. <a href="https://arxiv.org/abs/1706.03762">Fuente</a></p>
+<p>\[2\] Johnson, M. y colaboradores (2016, revisión 2017). Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation. Traducción multilingüe y transferencia entre pares de lenguas sin ejemplos directos de entrenamiento. <a href="https://arxiv.org/abs/1611.04558">Fuente</a></p>
+<p>\[3\] Ha, D.; Schmidhuber, J. (2018). World Models. Aprendizaje en un entorno generado y transferencia al videojuego de referencia. <a href="https://worldmodels.github.io/">Fuente</a></p>
+<p>\[4\] OpenAI y colaboradores (2019). Solving Rubik’s Cube with a Robot Hand. Transferencia de la simulación a una mano robótica mediante automatic domain randomization. <a href="https://arxiv.org/abs/1910.07113">Fuente</a></p>
+<p>\[5\] Keramati, M.; Gutkin, B. (2014). Homeostatic reinforcement learning for integrating reward collection and physiological stability. eLife 3, e04811. Modelo matemático de la relación entre estado interno, recompensa y comportamiento. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4270100/">Fuente</a></p>
+<p>\[6\] Butlin, P. y colaboradores (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. Propuesta de indicadores basados en teorías de la consciencia; no demuestra la experiencia subjetiva de los sistemas imaginados en el capítulo. <a href="https://arxiv.org/abs/2308.08708">Fuente</a></p>
+<p>\[7\] Lynn, B. The Chinese Remainder Theorem. Apuntes de teoría de números, Stanford University. Enunciado, demostración y uso computacional de la reconstrucción. El ejemplo con 8 y 9 se desarrolla en el capítulo. <a href="https://crypto.stanford.edu/pbc/notes/numbertheory/crt.html">Fuente</a></p>
+<p>\[8\] Kirkpatrick, S.; Gelatt, C. D.; Vecchi, M. P. (1983). Optimization by Simulated Annealing. Science 220, 671–680. DOI 10.1126/science.220.4598.671. <a href="https://research.ibm.com/publications/optimization-by-simulated-annealing">Fuente</a></p>
+<p>\[9\] Fawzi, A. y colaboradores (2022). Discovering faster matrix multiplication algorithms with reinforcement learning. Nature 610, 47–53. DOI 10.1038/s41586-022-05172-4. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9534758/">Fuente</a></p>
 
 </div>
 </section>
@@ -4879,8 +4879,8 @@ status: awaiting_approval</code></pre>
   <li><strong>SingularityNET — servicios de IA componibles.</strong> <a href="https://dev.singularitynet.io/docs/products/DecentralizedAIPlatform/">Documentación de la plataforma</a>. Referencia para la publicación, el acceso y la composición de servicios.</li>
   <li><strong>Sakana AI — investigación evolutiva.</strong> <a href="https://sakana.ai/evolutionary-model-merge/">Evolutionary Model Merge</a>, presentado en 2024 y actualizado en 2025; <a href="https://sakana.ai/dgm/">Darwin Gödel Machine</a>, 2025. Son dos líneas distintas: combinación de modelos y evolución del código de los agentes.</li>
 </ol>
-<h4>Enlaces del proyecto</h4>
-<p>Este compendio acompaña a la novela como una actualización autónoma. Retoma la pregunta de <a href="https://app.notion.com/p/3e005fdda1c781a89c05c2e12a4bc880">Capítulo 1 — Construir el mar</a> y la relación entre agentes y entorno explorada en <a href="https://app.notion.com/p/40105fdda1c78194b960fd5062625564">El primer paso más allá del relato — La Matriz, borrador 1.1.4</a>. No sustituye a los capítulos ni actualiza la edición publicada.</p>
+<h4>Referencias dentro del libro</h4>
+<p>Este compendio retoma la pregunta de <a href="#capitulo-01">Capítulo 1 — Construir el mar</a> y la relación entre agentes y entorno explorada en <a href="#primer-paso">El primer paso más allá del relato</a>.</p>
 
 </div>
 </section>
