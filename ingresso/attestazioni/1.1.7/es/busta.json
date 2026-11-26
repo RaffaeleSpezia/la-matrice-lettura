@@ -1,0 +1,17 @@
+{
+  "attestato_il": "2026-11-26T12:16:04+00:00",
+  "capitoli": 22,
+  "cid": "bafybeidd72eo4kiyyfyjghzvwz7v4j6feqnc6kzzg47k6j57thibwb3nye",
+  "content_digest": "5732f45418531edd335056840c89cc01f804f8a901b92c2fed759cb8a0a566e2",
+  "data": "2026-11-26",
+  "epub_sha256": "6f4ad68c22c62865f6f5acfaefacbb2c19525b0ef5c4ff7cdc0db02d9cc9398c",
+  "lingua": "es",
+  "manifest_digest": "7bf48f2d6c53705ee7d571d8e1a2884481b675a7cc04145c935074f8d583197f",
+  "opera": "La Matriz",
+  "qr_sha256": "981d6f8177a67844d6b1040d800cd3270388416e6b40012441b261190d7a8064",
+  "release_digest": "434e786c48a5988c82eff8d4f361600701da1f68b3c2d1bd0d52e547cf1a674b",
+  "schema": "matrice-publisher/notarizzazione/1",
+  "site_digest": "6245f8de8411089543dc7c4a2c58c517bcae3996e34b7bd979b1f3226a32e978",
+  "tipo": "release",
+  "versione": "1.1.7"
+}

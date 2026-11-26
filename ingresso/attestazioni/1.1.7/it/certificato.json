@@ -1,0 +1,11 @@
+{
+  "cid": "bafybeif5wfjzscd24wtrfge3u77maareqdysc74v25ewngncggn2vcqjmq",
+  "consensus_timestamp": "1795695291.226165104",
+  "epub": "la-matrice-1.1.7.epub",
+  "epub_sha256": "4ceeb18adb81f22d511cbd54a160b1702e1e9e13336c48dbeaf7aa582bd933ad",
+  "lingua": "it",
+  "mirror": "https://mainnet-public.mirrornode.hedera.com/api/v1/topics/0.0.10926025/messages/23",
+  "sequence_number": 23,
+  "topic_id": "0.0.10926025",
+  "versione": "1.1.7"
+}

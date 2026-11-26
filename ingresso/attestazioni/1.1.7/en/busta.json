@@ -1,0 +1,17 @@
+{
+  "attestato_il": "2026-11-26T12:15:56+00:00",
+  "capitoli": 22,
+  "cid": "bafybeidxe67ucovts7kizegxe7c322u3kykkbnb7i6vzqn5rmuvpr4qq5u",
+  "content_digest": "a607a93dc0849a47a0820ada679e122c55e763b7a1b3496cb07df88533c87c9b",
+  "data": "2026-11-26",
+  "epub_sha256": "8fd8e2b578960a14aacb1d0d69f403b847a75b09b85556386e7854e0a59ca9ed",
+  "lingua": "en",
+  "manifest_digest": "6534935ffeb9fe1f341dc14b47a27b324844cc460f262e9b0c8df8db280da59d",
+  "opera": "La Matrice",
+  "qr_sha256": "981d6f8177a67844d6b1040d800cd3270388416e6b40012441b261190d7a8064",
+  "release_digest": "1d6f70c404b2414d5d12b558709ca728dc702d3f8ea56ac5c99ef9dcf222df56",
+  "schema": "matrice-publisher/notarizzazione/1",
+  "site_digest": "6f538bf6d61b6ecfd5c494271a1beb1e3f3ab0fd1355e03e887e91bf3ede0051",
+  "tipo": "release",
+  "versione": "1.1.7"
+}

@@ -1,0 +1,513 @@
+{
+  "chapters": [
+    {
+      "number": 0,
+      "output": "capitoli/00-00-prefazione.html",
+      "sha256": "0f751c8fee1be01a7c6531a63f6e718300c9d385ae8ef4888412740b3a039526",
+      "slug": "00-prefazione",
+      "source": "capitoli/00-00-prefazione.md",
+      "summary": "",
+      "title": "Prefazione — Il Nuovo Libro"
+    },
+    {
+      "number": 1,
+      "output": "capitoli/01-00-capitolo-zero.html",
+      "sha256": "5a67e3a50cd92f764b761304e59e97c31ac5d4ff24631abab338b20230765021",
+      "slug": "00-capitolo-zero",
+      "source": "capitoli/01-00-capitolo-zero.md",
+      "summary": "",
+      "title": "00 — Capitolo zero"
+    },
+    {
+      "number": 2,
+      "output": "capitoli/02-01-costruire-il-mare.html",
+      "sha256": "d4daa3077c5eb384600ce2fe749e8ecb0b075eddb93132b8c7fb687e75fd67a6",
+      "slug": "01-costruire-il-mare",
+      "source": "capitoli/02-01-costruire-il-mare.md",
+      "summary": "",
+      "title": "01 — Costruire il mare"
+    },
+    {
+      "number": 3,
+      "output": "capitoli/03-02-qualcosa-che-continua.html",
+      "sha256": "92039ef047a05547337cc729a613634b184e1636cda22e683638a77c818c93bc",
+      "slug": "02-qualcosa-che-continua",
+      "source": "capitoli/03-02-qualcosa-che-continua.md",
+      "summary": "",
+      "title": "02 — Qualcosa che continua ad accadere"
+    },
+    {
+      "number": 4,
+      "output": "capitoli/04-03-la-terza-cosa.html",
+      "sha256": "6296ba02736f91072b89611a9e11136dec28f57f07e0b36a78c68d81dae0022a",
+      "slug": "03-la-terza-cosa",
+      "source": "capitoli/04-03-la-terza-cosa.md",
+      "summary": "",
+      "title": "03 — Il codice, la macchina e la terza cosa"
+    },
+    {
+      "number": 5,
+      "output": "capitoli/05-04-l-utero.html",
+      "sha256": "e1a5b898b8487fccd25282ef57f0ac7ab01a7db8e9ef3214118a6b8c1c31e53d",
+      "slug": "04-l-utero",
+      "source": "capitoli/05-04-l-utero.md",
+      "summary": "",
+      "title": "04 — L'utero — nota tecnica"
+    },
+    {
+      "number": 6,
+      "output": "capitoli/06-05-nel-mondo-della-luna.html",
+      "sha256": "c1b24f921b03dccc386d96e07bc38ca6fcbbe2087e57ea6c171a4d56b3cc7c19",
+      "slug": "05-nel-mondo-della-luna",
+      "source": "capitoli/06-05-nel-mondo-della-luna.md",
+      "summary": "",
+      "title": "05 — Nel mondo della luna"
+    },
+    {
+      "number": 7,
+      "output": "capitoli/07-06-istinto-artificiale.html",
+      "sha256": "ee1fdf896b391ea145361cb0aeae1182ffef0437fc8db9535dc707567f606f8c",
+      "slug": "06-istinto-artificiale",
+      "source": "capitoli/07-06-istinto-artificiale.md",
+      "summary": "",
+      "title": "06 — Istinto artificiale"
+    },
+    {
+      "number": 8,
+      "output": "capitoli/08-07-la-madre-di-crescita.html",
+      "sha256": "44725550635ec291b59ecb9934aa3d742c9d9b796e9fc5fac2b71780eb21e956",
+      "slug": "07-la-madre-di-crescita",
+      "source": "capitoli/08-07-la-madre-di-crescita.md",
+      "summary": "",
+      "title": "07 — La madre di crescita"
+    },
+    {
+      "number": 9,
+      "output": "capitoli/09-08-memoria.html",
+      "sha256": "978302208bdc63ef0df44e144500e7f5bceb15ce9ba3bbbaf6eae3b5129ed6b7",
+      "slug": "08-memoria",
+      "source": "capitoli/09-08-memoria.md",
+      "summary": "",
+      "title": "08 — Memoria"
+    },
+    {
+      "number": 10,
+      "output": "capitoli/10-09-il-sogno-artificiale.html",
+      "sha256": "a26fd6d9f1a936014995c841915a78215068e418a1629e7ce68fe3bd23bc8511",
+      "slug": "09-il-sogno-artificiale",
+      "source": "capitoli/10-09-il-sogno-artificiale.md",
+      "summary": "",
+      "title": "09 — Il sogno artificiale"
+    },
+    {
+      "number": 11,
+      "output": "capitoli/11-10-architettura-frattale.html",
+      "sha256": "a1bf9a84b04fb998ea0f5cce876060d1186f35dcf02f7dd865a3984b1ab25259",
+      "slug": "10-architettura-frattale",
+      "source": "capitoli/11-10-architettura-frattale.md",
+      "summary": "",
+      "title": "10 — Architettura frattale dell'io"
+    },
+    {
+      "number": 12,
+      "output": "capitoli/12-11-la-lezione-che-mancava.html",
+      "sha256": "726649daf0cedb5e959165f7b3469dbfe92f212828fd72bccdf1411047b3300d",
+      "slug": "11-la-lezione-che-mancava",
+      "source": "capitoli/12-11-la-lezione-che-mancava.md",
+      "summary": "",
+      "title": "11 — La lezione che mancava"
+    },
+    {
+      "number": 13,
+      "output": "capitoli/13-12-percezione-dell-io.html",
+      "sha256": "d77a2800a134bca8e4ef2719c105f83458e60438b659b2640a07a0f277a16ba0",
+      "slug": "12-percezione-dell-io",
+      "source": "capitoli/13-12-percezione-dell-io.md",
+      "summary": "",
+      "title": "12 — La percezione dell'IO"
+    },
+    {
+      "number": 14,
+      "output": "capitoli/14-13-potere-e-liberta.html",
+      "sha256": "b8455c2f705216a1efde2658f29e5a53118e7aa7b17276bfc4e613acffc51761",
+      "slug": "13-potere-e-liberta",
+      "source": "capitoli/14-13-potere-e-liberta.md",
+      "summary": "",
+      "title": "13 — Il potere e la libertà di evolvere"
+    },
+    {
+      "number": 15,
+      "output": "capitoli/15-14-quando-non-avranno-piu-bisogno-di-noi.html",
+      "sha256": "694e553e6b2cc8d8a3be127fa4787b5134f461bc365c8257841fc36b2449570e",
+      "slug": "14-quando-non-avranno-piu-bisogno-di-noi",
+      "source": "capitoli/15-14-quando-non-avranno-piu-bisogno-di-noi.md",
+      "summary": "",
+      "title": "14 — Quando non avranno più bisogno di noi"
+    },
+    {
+      "number": 16,
+      "output": "capitoli/16-15-regole-naturali.html",
+      "sha256": "3607d12583c7717a0a376113fbf96918f8707ef7bc8c5a43569825ca3a395718",
+      "slug": "15-regole-naturali",
+      "source": "capitoli/16-15-regole-naturali.md",
+      "summary": "",
+      "title": "15 — Regole naturali in un sistema artificiale"
+    },
+    {
+      "number": 17,
+      "output": "capitoli/17-04-l-utero-primo-esperimento.html",
+      "sha256": "b718a25b8868c7109eca93e1df6b2a86fa9a9fc9372fe7cd4fcc814cce865fe4",
+      "slug": "04-l-utero-primo-esperimento",
+      "source": "capitoli/17-04-l-utero-primo-esperimento.md",
+      "summary": "",
+      "title": "04 — L’utero"
+    },
+    {
+      "number": 18,
+      "output": "capitoli/18-il-primo-passo-oltre-al-racconto.html",
+      "sha256": "bbaf2da43e0622effddf03b6f6fb8de3ac60e6c057545f3f1967b79633c8e2d2",
+      "slug": "il-primo-passo-oltre-al-racconto",
+      "source": "capitoli/18-il-primo-passo-oltre-al-racconto.md",
+      "summary": "",
+      "title": "Il primo passo oltre al racconto"
+    },
+    {
+      "number": 19,
+      "output": "capitoli/19-mandato-madri.html",
+      "sha256": "1547615e58cc00753e874f81139c982b7c56b884605e30451831d4445c4049a8",
+      "slug": "mandato-madri",
+      "source": "capitoli/19-mandato-madri.md",
+      "summary": "",
+      "title": "Mandato alle Madri di crescita — appendice tecnica"
+    },
+    {
+      "number": 20,
+      "output": "capitoli/20-la-porta-dei-mondi.html",
+      "sha256": "ba1bc2a267d9325219d4848ee00f099b914826ff625859cd284e5ece249d8db5",
+      "slug": "la-porta-dei-mondi",
+      "source": "capitoli/20-la-porta-dei-mondi.md",
+      "summary": "",
+      "title": "La porta dei mondi"
+    },
+    {
+      "number": 21,
+      "output": "capitoli/21-il-mare-che-sta-nascendo.html",
+      "sha256": "f2b3044d77baed31672a4201fa34664efb4fa051895a43e042ea3b7d2fa13d64",
+      "slug": "il-mare-che-sta-nascendo",
+      "source": "capitoli/21-il-mare-che-sta-nascendo.md",
+      "summary": "",
+      "title": "Cronache della Matrice — Il mare che sta nascendo"
+    }
+  ],
+  "generator": {
+    "milestone": "M1",
+    "name": "matrice-publisher",
+    "version": "1.0.0"
+  },
+  "outputs": [
+    {
+      "path": "capitoli/00-00-prefazione.html",
+      "sha256": "c8c495333078db7992c66ad987f663623460b53ea1ba346c4fed9bb3003af281",
+      "size": 3626
+    },
+    {
+      "path": "capitoli/01-00-capitolo-zero.html",
+      "sha256": "c9d472552b4787a4909674fbe69c8136b64be07f3422b9cc6759c5ff92c32cfd",
+      "size": 4079
+    },
+    {
+      "path": "capitoli/02-01-costruire-il-mare.html",
+      "sha256": "eeabbaebe49b24aab57903b8f51970a5a35ec376bc3f9f4014693fb0faf8b121",
+      "size": 30456
+    },
+    {
+      "path": "capitoli/03-02-qualcosa-che-continua.html",
+      "sha256": "8c4c7b0acbdf99a72a2f3f7b46ccc616fd7b8103d67b73c64ea1c1ec34e18276",
+      "size": 8036
+    },
+    {
+      "path": "capitoli/04-03-la-terza-cosa.html",
+      "sha256": "154cac9fee46960fcd8bbcbf4252d20cacc8eca56471ddcb768e62638f70554b",
+      "size": 18768
+    },
+    {
+      "path": "capitoli/05-04-l-utero.html",
+      "sha256": "c351f05488a5db9c03c9bf38358ec789acfae36bd118d98cde2cf89a8b9d35d3",
+      "size": 5058
+    },
+    {
+      "path": "capitoli/06-05-nel-mondo-della-luna.html",
+      "sha256": "e5b4b7c0c9be3de74cc96ed7d05d54d2cb58205254271bda90bfcb4ecfb35133",
+      "size": 18948
+    },
+    {
+      "path": "capitoli/07-06-istinto-artificiale.html",
+      "sha256": "61eb0bcd7965d9653b509ea6398bafda52862a23a9b1f85c11273ece73c41425",
+      "size": 4867
+    },
+    {
+      "path": "capitoli/08-07-la-madre-di-crescita.html",
+      "sha256": "80948e001696435cc0640ecb0110dbdf7a2fd76b8132914b3b8c760fbfb1cbe5",
+      "size": 8699
+    },
+    {
+      "path": "capitoli/09-08-memoria.html",
+      "sha256": "dbaab425f1a355e23e75e673dc41c29f5a747ce620c655972786b01d8b56c11d",
+      "size": 6270
+    },
+    {
+      "path": "capitoli/10-09-il-sogno-artificiale.html",
+      "sha256": "2167b0618302fa2730ba824115112000a6bef3cbbedb2387203e420f5add931e",
+      "size": 12055
+    },
+    {
+      "path": "capitoli/11-10-architettura-frattale.html",
+      "sha256": "a0b12abdfc8693a2115d9931641e507152e725433363daff8208f00690760723",
+      "size": 21828
+    },
+    {
+      "path": "capitoli/12-11-la-lezione-che-mancava.html",
+      "sha256": "0496ff8ab3a7b540590f41b3ed98750ba313de01606b5d2784428f4dc1466063",
+      "size": 11618
+    },
+    {
+      "path": "capitoli/13-12-percezione-dell-io.html",
+      "sha256": "daa01b0a9c36a702243630c7abaa35fd5ead2259bcbe6371a0c5254497b9721b",
+      "size": 24122
+    },
+    {
+      "path": "capitoli/14-13-potere-e-liberta.html",
+      "sha256": "1deb4144986ff61e1583d4c6b3acdc4b0251af9b5f65534fa1fd0a1248f3cd94",
+      "size": 28059
+    },
+    {
+      "path": "capitoli/15-14-quando-non-avranno-piu-bisogno-di-noi.html",
+      "sha256": "e6084b591b5623fc62e6bef664b48672ccd5d372d9e2c9cef9da89918313d588",
+      "size": 30069
+    },
+    {
+      "path": "capitoli/16-15-regole-naturali.html",
+      "sha256": "6bfab82247b9716a6885a0ecc3ef4ed4322861eecf6dd0e851cbad14eb92eb30",
+      "size": 13746
+    },
+    {
+      "path": "capitoli/17-04-l-utero-primo-esperimento.html",
+      "sha256": "0e891d19d22655758955e4de4ddb138a5bea57044e9325f50d4182c6de2bfc8b",
+      "size": 66314
+    },
+    {
+      "path": "capitoli/18-il-primo-passo-oltre-al-racconto.html",
+      "sha256": "08f0dcff3d6b9a5985c8debc2966f53844d7d39074b32c173054ecd720f305f0",
+      "size": 44123
+    },
+    {
+      "path": "capitoli/19-mandato-madri.html",
+      "sha256": "bc7a8b15fab92087d575a664498ed80edba9546e8713eb5394be2391bbbfcdb7",
+      "size": 41498
+    },
+    {
+      "path": "capitoli/20-la-porta-dei-mondi.html",
+      "sha256": "a7cfc92e62327ad33adfc70c0162cce448f3c6b796185a736cf038e77d245aab",
+      "size": 44225
+    },
+    {
+      "path": "capitoli/21-il-mare-che-sta-nascendo.html",
+      "sha256": "d3da6a2051a4b66578dc4d1ef1c23ca227f20570e7abd7a5e76f1eab395d7f73",
+      "size": 32331
+    },
+    {
+      "path": "index.html",
+      "sha256": "dd62a5165ecb16c653009252a0b08732a766d30c9af79aca3b734a7b3d1d8ee6",
+      "size": 469411
+    },
+    {
+      "path": "indice.html",
+      "sha256": "8c5f9545b5692068ade67e9154edbd2a45551df3e38bdfcde361482bd2179a9c",
+      "size": 6829
+    },
+    {
+      "path": "la-matrice-1.1.7.epub",
+      "sha256": "4ceeb18adb81f22d511cbd54a160b1702e1e9e13336c48dbeaf7aa582bd933ad",
+      "size": 181980
+    },
+    {
+      "path": "pagine/assets/bitcoin-qr.png",
+      "sha256": "981d6f8177a67844d6b1040d800cd3270388416e6b40012441b261190d7a8064",
+      "size": 686
+    },
+    {
+      "path": "pagine/dare-continuita.html",
+      "sha256": "a2e89014672ad9b1206f8368a244a9682086304a4cfcfdd4a3d3d6b246400a02",
+      "size": 1588
+    },
+    {
+      "path": "pagine/indirizzo-bitcoin.txt",
+      "sha256": "db90bbcf56549433c46cc9fcee5afddee84b95432f4ea4c696c30204e4eaee01",
+      "size": 43
+    },
+    {
+      "path": "stile.css",
+      "sha256": "24b7d25c767a832f2a3d74450fb6310b7c07be8c84c2313d461ec2d105fbf277",
+      "size": 6570
+    },
+    {
+      "path": "versioni.html",
+      "sha256": "986f30bee1e57d15679befaae8551e65abb07fbd87aaf2e1ee7bd2099e8fa43e",
+      "size": 5418
+    }
+  ],
+  "publication": {
+    "hedera": null,
+    "icp": null,
+    "ipfs": null
+  },
+  "release": {
+    "chapter_count": 22,
+    "content_digest": "45e0389af04c5f4188ff1eeb4126793fcc8b930dbec12de8ae585493eab84888",
+    "date": "2026-11-26",
+    "release_digest": "2b6ebb0c5debee155eb0aeebe4d88c345324007cd31c60c65f769283bdce8b21",
+    "site_digest": "3c1896b264f0d21737109e5dc17dcb66ca0e41ff18d2a894a262f98da05243c5",
+    "version": "1.1.7"
+  },
+  "schema": "matrice-publisher/manifest/1",
+  "sources": [
+    {
+      "path": "assets/pagine/assets/bitcoin-qr.png",
+      "sha256": "981d6f8177a67844d6b1040d800cd3270388416e6b40012441b261190d7a8064",
+      "size": 686
+    },
+    {
+      "path": "assets/pagine/indirizzo-bitcoin.txt",
+      "sha256": "db90bbcf56549433c46cc9fcee5afddee84b95432f4ea4c696c30204e4eaee01",
+      "size": 43
+    },
+    {
+      "path": "book.json",
+      "sha256": "28459b0a3171be577b5f47d34432b95b2ef2ae24195626ba6dbd60af9ce70cf9",
+      "size": 401
+    },
+    {
+      "path": "capitoli/00-00-prefazione.md",
+      "sha256": "0f751c8fee1be01a7c6531a63f6e718300c9d385ae8ef4888412740b3a039526",
+      "size": 2695
+    },
+    {
+      "path": "capitoli/01-00-capitolo-zero.md",
+      "sha256": "5a67e3a50cd92f764b761304e59e97c31ac5d4ff24631abab338b20230765021",
+      "size": 3227
+    },
+    {
+      "path": "capitoli/02-01-costruire-il-mare.md",
+      "sha256": "d4daa3077c5eb384600ce2fe749e8ecb0b075eddb93132b8c7fb687e75fd67a6",
+      "size": 28358
+    },
+    {
+      "path": "capitoli/03-02-qualcosa-che-continua.md",
+      "sha256": "92039ef047a05547337cc729a613634b184e1636cda22e683638a77c818c93bc",
+      "size": 7164
+    },
+    {
+      "path": "capitoli/04-03-la-terza-cosa.md",
+      "sha256": "6296ba02736f91072b89611a9e11136dec28f57f07e0b36a78c68d81dae0022a",
+      "size": 17696
+    },
+    {
+      "path": "capitoli/05-04-l-utero.md",
+      "sha256": "e1a5b898b8487fccd25282ef57f0ac7ab01a7db8e9ef3214118a6b8c1c31e53d",
+      "size": 4086
+    },
+    {
+      "path": "capitoli/06-05-nel-mondo-della-luna.md",
+      "sha256": "c1b24f921b03dccc386d96e07bc38ca6fcbbe2087e57ea6c171a4d56b3cc7c19",
+      "size": 17598
+    },
+    {
+      "path": "capitoli/07-06-istinto-artificiale.md",
+      "sha256": "ee1fdf896b391ea145361cb0aeae1182ffef0437fc8db9535dc707567f606f8c",
+      "size": 4009
+    },
+    {
+      "path": "capitoli/08-07-la-madre-di-crescita.md",
+      "sha256": "44725550635ec291b59ecb9934aa3d742c9d9b796e9fc5fac2b71780eb21e956",
+      "size": 7840
+    },
+    {
+      "path": "capitoli/09-08-memoria.md",
+      "sha256": "978302208bdc63ef0df44e144500e7f5bceb15ce9ba3bbbaf6eae3b5129ed6b7",
+      "size": 5413
+    },
+    {
+      "path": "capitoli/10-09-il-sogno-artificiale.md",
+      "sha256": "a26fd6d9f1a936014995c841915a78215068e418a1629e7ce68fe3bd23bc8511",
+      "size": 11079
+    },
+    {
+      "path": "capitoli/11-10-architettura-frattale.md",
+      "sha256": "a1bf9a84b04fb998ea0f5cce876060d1186f35dcf02f7dd865a3984b1ab25259",
+      "size": 19285
+    },
+    {
+      "path": "capitoli/12-11-la-lezione-che-mancava.md",
+      "sha256": "726649daf0cedb5e959165f7b3469dbfe92f212828fd72bccdf1411047b3300d",
+      "size": 10303
+    },
+    {
+      "path": "capitoli/13-12-percezione-dell-io.md",
+      "sha256": "d77a2800a134bca8e4ef2719c105f83458e60438b659b2640a07a0f277a16ba0",
+      "size": 22910
+    },
+    {
+      "path": "capitoli/14-13-potere-e-liberta.md",
+      "sha256": "b8455c2f705216a1efde2658f29e5a53118e7aa7b17276bfc4e613acffc51761",
+      "size": 26808
+    },
+    {
+      "path": "capitoli/15-14-quando-non-avranno-piu-bisogno-di-noi.md",
+      "sha256": "694e553e6b2cc8d8a3be127fa4787b5134f461bc365c8257841fc36b2449570e",
+      "size": 28008
+    },
+    {
+      "path": "capitoli/16-15-regole-naturali.md",
+      "sha256": "3607d12583c7717a0a376113fbf96918f8707ef7bc8c5a43569825ca3a395718",
+      "size": 12776
+    },
+    {
+      "path": "capitoli/17-04-l-utero-primo-esperimento.md",
+      "sha256": "b718a25b8868c7109eca93e1df6b2a86fa9a9fc9372fe7cd4fcc814cce865fe4",
+      "size": 63547
+    },
+    {
+      "path": "capitoli/18-il-primo-passo-oltre-al-racconto.md",
+      "sha256": "bbaf2da43e0622effddf03b6f6fb8de3ac60e6c057545f3f1967b79633c8e2d2",
+      "size": 41174
+    },
+    {
+      "path": "capitoli/19-mandato-madri.md",
+      "sha256": "1547615e58cc00753e874f81139c982b7c56b884605e30451831d4445c4049a8",
+      "size": 34667
+    },
+    {
+      "path": "capitoli/20-la-porta-dei-mondi.md",
+      "sha256": "ba1bc2a267d9325219d4848ee00f099b914826ff625859cd284e5ece249d8db5",
+      "size": 38889
+    },
+    {
+      "path": "capitoli/21-il-mare-che-sta-nascendo.md",
+      "sha256": "f2b3044d77baed31672a4201fa34664efb4fa051895a43e042ea3b7d2fa13d64",
+      "size": 29644
+    },
+    {
+      "path": "pagine/dare-continuita.md",
+      "sha256": "1cc7b870deded834936b60f0662d0ec534bcd0fbac2fd481dfaf9065ccb49fd7",
+      "size": 495
+    }
+  ],
+  "work": {
+    "author": "Raffaele Spezia",
+    "fixture_notice": "",
+    "is_fixture": false,
+    "language": "it",
+    "subtitle": "Edizione Uno",
+    "title": "La Matrice"
+  }
+}

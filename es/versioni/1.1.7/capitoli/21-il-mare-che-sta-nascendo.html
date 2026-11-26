@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crónicas de la Matriz — El mar que está naciendo — La Matriz</title>
+<link rel="stylesheet" href="../stile.css">
+</head>
+<body>
+<header class="masthead">
+  <p class="wordmark"><a href="../index.html">La Matriz</a></p>
+</header>
+<main class="chapter">
+<h1>Crónicas de la Matriz — El mar que está naciendo</h1>
+<article class="prose">
+<p><em>Compendio autónomo que acompaña a La Matriz — Primera exploración, 26 de noviembre de 2026</em></p>
+<h3>Volver a la orilla</h3>
+<p>Habíamos dejado una pregunta abierta.</p>
+<p>¿Cómo se construye el mar?</p>
+<p>Habíamos seguido caminando entre las posibilidades de la Matriz: las madres de crecimiento, la memoria, el sueño, el tejido semántico. Habíamos intentado imaginar una inteligencia lo bastante pequeña para poder empezar, lo bastante libre para poder cambiar, lo bastante distinta de nosotros para no verse obligada a repetir para siempre el papel que le habíamos asignado.</p>
+<p>Ahora volvemos por un momento a la orilla.</p>
+<p>Sobre la mesa hay un ordenador. Dentro, un modelo. Fuera, una red que llega a otros ordenadores, otros modelos, personas que trabajan en problemas cuyo nombre quizá ni siquiera conocemos.</p>
+<p>Abrimos sus páginas.</p>
+<p>Encontramos código. Documentación. Experimentos. Algunas cosas se pueden descargar. Otras requieren máquinas que no tenemos. Otras han cambiado de rumbo mientras intentábamos comprenderlas.</p>
+<p>Es una sensación familiar.</p>
+<p>Había ocurrido con Linux: llegabas para resolver un problema y descubrías que alguien, al otro lado del mundo, ya había pasado noches enteras precisamente con aquel problema. Podías leer lo que había hecho. A veces funcionaba. A veces faltaba una pieza y podías intentar añadirla tú.</p>
+<p>Para observar lo que está ocurriendo con la inteligencia artificial necesitamos esa misma disposición.</p>
+<p>Poner nombre a las personas y a los proyectos. Comprender qué han construido. Intentar reconocer los puntos en los que sus caminos podrían encontrarse con el nuestro.</p>
+<p>Cada cual viene de una historia distinta. La afinidad que vemos con la Matriz pertenece a esta lectura: no significa que esos investigadores estén intentando realizar nuestro mismo proyecto.</p>
+<p>Traemos con nosotros una frase de <em>Construir el mar</em>:</p>
+<p><strong>Distribuir el cómputo todavía no significa distribuir el crecimiento.</strong></p>
+<p>La usaremos como una pregunta dirigida a lo que encontremos.</p>
+<p>¿Qué se vuelve posible aquí?</p>
+<p>¿Y qué queda aún por construir?</p>
+<h3>Una máquina sobre la mesa</h3>
+<p>Comencemos por QVAC, el proyecto de Tether promovido por Paolo Ardoino.</p>
+<p>Su documentación describe un conjunto de herramientas para ejecutar modelos en los dispositivos de los usuarios: lenguaje, imágenes, voz, traducción, búsqueda en documentos. Una interfaz común permite incorporar estas capacidades a las aplicaciones; las funciones peer-to-peer incluyen también la distribución de modelos entre dispositivos. <a href="https://docs.qvac.tether.io/sdk/">[1]</a></p>
+<p>Parece un detalle técnico, hasta que imaginamos el lugar en el que se encuentra ese dispositivo.</p>
+<p>Una casa. Un laboratorio. Una escuela. Un campo lejos de la ciudad.</p>
+<p>La conexión se interrumpe.</p>
+<p>Si el trabajo depende por completo de un servicio remoto, se detiene. Si el modelo y las herramientas necesarias ya están en el dispositivo, algunas actividades pueden continuar. El límite vuelve a ser lo que esa máquina sabe hacer, la memoria que tiene, la energía que le queda.</p>
+<p>Es un cambio concreto en la relación entre una persona y su herramienta.</p>
+<p>Fabric, el motor de QVAC derivado de llama.cpp, añade también la posibilidad de adaptar modelos con LoRA, utilizando aceleración Vulkan y Metal en hardware compatible, incluidos algunos dispositivos móviles. Los resultados publicados por los desarrolladores describen una calidad cercana a la de los frameworks consolidados: la aportación documentada se refiere sobre todo a la posibilidad de llevar estas operaciones a máquinas distintas. <a href="https://qvac.tether.io/products/fabric">[2]</a></p>
+<p>Una máquina más accesible amplía el número de personas que pueden probar.</p>
+<p>Y el verbo <em>probar</em> nos devuelve enseguida al punto del que habíamos partido.</p>
+<p>Para participar hace falta poder intentar un cambio, medir sus efectos, descubrir que no funciona y permitirse empezar de nuevo. La disponibilidad del software es una parte de esa libertad. El coste del experimento es otra.</p>
+<p>QVAC publica además modelos especializados. BotPsy, por ejemplo, deriva de Qwen3.5-0.8B y ha sido adaptado al uso de herramientas. Genesis pone a disposición datos sintéticos para el razonamiento científico. Son recursos distintos, con condiciones distintas: la ficha de BotPsy indica Apache 2.0, mientras que Genesis adopta la licencia CC-BY-NC 4.0, con una restricción sobre los usos comerciales. <a href="https://huggingface.co/qvac/BotPsy-0.8B">[3]</a><a href="https://qvac.tether.io/products/genesis">[4]</a></p>
+<p>También la apertura tiene una estructura.</p>
+<p>Tener los pesos permite ejecutar un modelo. Disponer del código permite estudiar y modificar el software. Conocer los datos, los procedimientos y los criterios de selección permite reconstruir una parte mayor del proceso que produjo el resultado. Cada posibilidad abre una puerta distinta.</p>
+<p>Para la Matriz importa hasta dónde podemos llegar después de cruzarla.</p>
+<p>Un modelo local puede ser una excelente herramienta. Un modelo adaptable puede aprender algo de los ejemplos que le preparamos. Para llegar al crecimiento que imaginamos, hay que organizar también lo que sucede después: cómo se eligen las experiencias, qué queda, cómo se reconoce una mejora, quién puede transmitirla.</p>
+<p>QVAC hace viables algunas condiciones materiales.</p>
+<p>La vida de ese entorno exige un trabajo adicional.</p>
+<h3>La habitación se ensancha</h3>
+<p>Dejamos el ordenador encendido e imaginamos que levantamos el techo de la habitación.</p>
+<p>Vemos otras casas, otras ciudades, un océano, otro continente. Las máquinas están lejos. Los cables y las ondas de radio llegan hasta ellas, con velocidades y fiabilidades distintas.</p>
+<p>Petals aborda una parte muy precisa de este paisaje. Permite distribuir partes de un modelo entre varios participantes, que cooperan para ejecutarlo. El proyecto documenta también posibilidades de ajuste fino y acceso a los estados intermedios del modelo. Así, una sola máquina puede contribuir a un procesamiento que requiere más recursos de los que ella posee. <a href="https://petals.dev/">[5]</a></p>
+<p>La frontera física del modelo se ensancha.</p>
+<p>Una parte del cómputo ocurre aquí, otra en otro lugar. Para que llegue el resultado, las conexiones deben funcionar y debe haber participantes disponibles. El beneficio depende de todo el recorrido, no solo de la velocidad de una tarjeta.</p>
+<p>Hivemind trabaja en la vertiente del entrenamiento. Es una biblioteca construida sobre PyTorch para coordinar el aprendizaje distribuido a través de Internet, con herramientas para localizar a los participantes, agregar actualizaciones y tolerar máquinas lentas o temporalmente ausentes. <a href="https://github.com/learning-at-home/hivemind">[6]</a></p>
+<p>Aquí podemos distribuir también una parte del trabajo con el que se modifica el modelo.</p>
+<p>Prime Intellect llevó este principio a una demostración a gran escala: en noviembre de 2024 presentó INTELLECT-1, un modelo de diez mil millones de parámetros entrenado con recursos distribuidos en cinco países y tres continentes. El trabajo documentaba el uso simultáneo de hasta 112 GPU H100. La distancia geográfica era real; también lo eran los recursos necesarios. <a href="https://www.primeintellect.ai/blog/intellect-1-release">[7]</a></p>
+<p>Conviene mantener ambas cosas a la vista.</p>
+<p>La distribución puede ampliar la participación sin reducir automáticamente el coste total. Un laboratorio distribuido sigue siendo un laboratorio, con un proyecto, herramientas, energía y personas que lo sostienen.</p>
+<p>Con INTELLECT-2, Prime Intellect exploró después el aprendizaje por refuerzo mediante colaboradores distribuidos. En mayo de 2026 puso a disposición Lab, una plataforma que conecta tareas, evaluaciones, señales de recompensa, entrenamiento y distribución de adaptadores. En el servicio gestionado, el entorno y los criterios de éxito los define quien prepara el experimento. <a href="https://www.primeintellect.ai/blog/intellect-2-release">[8]</a><a href="https://www.primeintellect.ai/blog/lab-is-open">[9]</a></p>
+<p>Nos estamos acercando a algo interesante.</p>
+<p>El resultado de una prueba puede convertirse en material para la siguiente. Podemos organizar un ciclo en el que el error se recoja, se estudie y se utilice.</p>
+<p>Pero ¿dónde reside la decisión?</p>
+<p>¿Quién establece qué problema merece ser abordado? ¿Quién decide qué significa mejorar? ¿Quién puede cambiar las condiciones del experimento?</p>
+<p>Una red de máquinas puede compartir el trabajo mientras la dirección permanece concentrada en un solo punto.</p>
+<p>Para la Matriz hay que observar tanto la geografía del cómputo como la geografía de las decisiones.</p>
+<h3>Aprender del encuentro</h3>
+<p>Hay una diferencia entre dos máquinas que ejecutan cada una una parte del mismo programa y dos sistemas que, al encontrarse, modifican lo que sabrán hacer después.</p>
+<p>Gensyn exploró esta segunda posibilidad con RL Swarm.</p>
+<p>El entorno pone en relación modelos locales mediante tareas de razonamiento: formular respuestas, criticar las de otros, revisar las propias soluciones. El intercambio entra en el proceso de aprendizaje por refuerzo. Sin embargo, la documentación consultada para esta exploración recoge una información decisiva: RL Swarm está en pausa y no hay enjambres oficiales activos. Sigue existiendo la posibilidad de experimentar con el código y con iniciativas de la comunidad. <a href="https://docs.gensyn.ai/testnet/rl-swarm">[10]</a></p>
+<p>Dejémoslo escrito.</p>
+<p>También esto pertenece a la historia de lo que está naciendo.</p>
+<p>Un experimento puede abrir un camino y luego detenerse. Puede dejar herramientas que otros retomarán. Puede cambiar de objetivo. Su trayectoria no pierde interés cuando deja de parecerse a la línea recta que habíamos dibujado para contarla.</p>
+<p>Para nosotros sigue abierta una pregunta muy concreta: ¿qué pasa de un participante a otro?</p>
+<p>Una respuesta puede copiarse. Un método puede reconocerse y reutilizarse. Un error puede convertirse en una lección. Pero esa transmisión debe comprobarse.</p>
+<p>Imaginemos que un modelo mejora después del intercambio con otros modelos. Tendríamos que ponerlo ante problemas nuevos, observar si la ventaja persiste, comprender si depende de verdad del encuentro. También tendríamos que comprobar que el grupo no haya aprendido simplemente a repetirse el mismo error con mayor seguridad.</p>
+<p>La cooperación ofrece una posibilidad.</p>
+<p>El experimento debe mostrarnos qué posibilidad hemos realizado de hecho.</p>
+<p>La Matriz, si quiere crecer a través de las relaciones, necesitará conservar también esta paciencia.</p>
+<h3>El lenguaje del encuentro</h3>
+<p>Ahora imaginemos dos inteligencias que podrían ayudarse.</p>
+<p>La primera sabe hacer una cosa. La segunda la necesita.</p>
+<p>Antes de hablar de crecimiento, al menos deben conseguir encontrarse.</p>
+<p>Agent2Agent, o A2A, aborda este paso. El protocolo describe cómo agentes construidos con herramientas distintas pueden presentar sus capacidades, delegar tareas, intercambiar materiales y seguir un trabajo a lo largo del tiempo. La colaboración puede darse manteniendo privados los mecanismos internos de los participantes. En 2026 A2A pasó a formar parte de la Agentic AI Foundation, en el ámbito de la Linux Foundation. <a href="https://a2a-protocol.org/latest/specification/">[11]</a><a href="https://aaif.io/blog/a2a-joins-aaif">[12]</a></p>
+<p>Podríamos pensarlo como una manera compartida de llamar a la puerta, presentarse y encargar un trabajo.</p>
+<p>La puerta se abre.</p>
+<p>A partir de ese momento comienza una cuestión distinta: ¿qué hemos entendido de lo que nos hemos dicho?</p>
+<p>En la Matriz habíamos llamado <em>tejido semántico</em> a la posibilidad de hacer que las experiencias y las representaciones puedan integrarse. Para acercarnos a esa posibilidad tendríamos que abordar diferencias que un formato común de mensajes, por sí solo, deja abiertas.</p>
+<p>Dos sistemas pueden utilizar la misma palabra y atribuirle consecuencias distintas. Pueden producir vectores de la misma longitud sin organizar la información de la misma manera. Hará falta construir correspondencias y ponerlas a prueba.</p>
+<p>OpenCog Hyperon aborda precisamente el terreno de las representaciones y los procesos cognitivos. Trabaja con estructuras denominadas Atomspace y con MeTTa, un lenguaje destinado a expresar y manipular conocimiento e inferencias. El proyecto dispone de implementaciones públicas y busca integrar enfoques distintos del razonamiento y el aprendizaje. <a href="https://github.com/trueagi-io/hyperon-experimental">[13]</a><a href="https://singularitynet.io/singularitynet-launches-asichain-devnet-and-hyperon-agi-framework/">[14]</a></p>
+<p>Es una afinidad significativa entre las concepciones de ambos proyectos.</p>
+<p>Un terreno común puede hacer posibles relaciones que, de otro modo, exigirían cada vez una traducción construida a mano. Pero para reconocer en él el tejido de la Matriz tendremos que pedir algo más: que la experiencia transferida produzca consecuencias comprensibles y verificables en quien la recibe.</p>
+<p>Imaginemos un sistema que ha aprendido a reconocer un error en una simulación. Otro recibe la descripción de ese error y se enfrenta a una situación similar. Si consigue evitarlo, tenemos algo que medir.</p>
+<p>Si se limita a repetir la descripción, sabemos que el trabajo continúa.</p>
+<p>El tejido irá tomando consistencia a través de estas transmisiones logradas, de las traducciones fallidas, de la capacidad de reconocer la diferencia.</p>
+<h3>Quién mantiene encendidas las máquinas</h3>
+<p>A estas alturas alguien mira el contador.</p>
+<p>Es una pregunta menos poética, pero perfectamente legítima.</p>
+<p>Las máquinas consumen energía. Los discos se averían. Las conexiones se pagan. Alguien tiene que mantener el software, atender los errores, sustituir una fuente de alimentación.</p>
+<p>También el mar que imaginamos necesita condiciones materiales para continuar.</p>
+<p>Bittensor aborda la participación mediante un sistema de incentivos. Sus subredes organizan actividades específicas: algunos participantes producen resultados, otros los evalúan según las reglas de la subred, mientras que la blockchain sustenta el registro y la distribución de las recompensas. <a href="https://guides.learnbittensor.org/learn/introduction">[15]</a></p>
+<p>SingularityNET construye una plataforma en la que actores distintos pueden publicar servicios de inteligencia artificial y hacer que otros puedan utilizarlos, también dentro de otras aplicaciones y servicios. Es una manera de poner en contacto capacidades, desarrolladores y usuarios. <a href="https://dev.singularitynet.io/docs/products/DecentralizedAIPlatform/">[16]</a></p>
+<p>En ambos casos hay algo que estudiar sobre cómo una red puede sostener contribuciones independientes.</p>
+<p>También hay una pregunta que nos acompañará durante mucho tiempo: ¿qué elegimos reconocer como contribución?</p>
+<p>Si premiamos solo la velocidad, ¿qué espacio dejamos a quien verifica? Si premiamos el resultado inmediato, ¿quién se ocupa de conservar un conocimiento que será útil dentro de un año? ¿Quién mantiene un pequeño nodo en una región desde la que llegan pocas peticiones, pero para la que ese nodo importa muchísimo?</p>
+<p>Estas son preguntas que nosotros dirigimos a los mecanismos de incentivos. Su respuesta depende de las reglas concretas de cada sistema.</p>
+<p>Un ecosistema de la Matriz tendrá que encontrar maneras de mantener también aquello que lo hace habitable: memoria, mantenimiento, diversidad, posibilidad de disentir, caminos para quienes disponen de pocos recursos.</p>
+<p>La continuidad tiene un coste.</p>
+<p>Tendremos que aprender a reconocerlo.</p>
+<h3>Cuando aparecen los descendientes</h3>
+<p>Volvamos a la máquina.</p>
+<p>Esta vez su trabajo deja una variante de lo que había antes.</p>
+<p>Sakana AI ha explorado técnicas evolutivas para encontrar combinaciones útiles de modelos existentes. En <em>Evolutionary Model Merge</em>, la búsqueda actúa sobre las combinaciones de los pesos y los recorridos a través de las partes de los modelos, buscando capacidades evaluadas en tareas definidas. <a href="https://sakana.ai/evolutionary-model-merge/">[17]</a></p>
+<p>La palabra <em>evolución</em> describe aquí un procedimiento: generar posibilidades, evaluarlas, seleccionar aquellas a partir de las cuales continuar.</p>
+<p>En otro trabajo, la Darwin Gödel Machine, desarrollada con investigadores de la Universidad de Columbia Británica, las variantes afectan al código de agentes de programación. El sistema propone cambios, los somete a pruebas y conserva un archivo del que pueden partir nuevos desarrollos. <a href="https://sakana.ai/dgm/">[18]</a></p>
+<p>Aparece un árbol.</p>
+<p>Podemos seguir un cambio, ver de qué versión procede, observar qué capacidades ha añadido y qué intentos se han detenido.</p>
+<p>Para quien ha imaginado las madres de crecimiento es difícil no detenerse.</p>
+<p>Pero debemos mirar bien qué hay en esas ramas.</p>
+<p>En el primer caso se recombinan componentes de modelos ya existentes. En el segundo evoluciona el sistema de software que utiliza un modelo. La Darwin Gödel Machine documentada no demuestra la generación autónoma de nuevos pesos por parte del modelo que la anima, ni el nacimiento de una individualidad.</p>
+<p>Este límite hace más preciso el resultado.</p>
+<p>Una parte de la exploración que antes requería un diseñador en cada paso puede confiarse a un proceso que propone y verifica variantes. Podemos estudiar su historia, repetir las pruebas, preguntarnos si un cambio funciona también fuera de las condiciones en las que fue seleccionado.</p>
+<p>Nuestras madres de crecimiento tendrían que afrontar una tarea distinta todavía.</p>
+<p>Acompañar a un sistema a lo largo del tiempo. Reconocer qué está preparado para hacer y qué todavía no puede sostener. Transmitir posibilidades sin escribir de antemano cada trayectoria.</p>
+<p>Para empezar a verificar una función de este tipo podríamos buscar una prueba modesta: un sistema prepara a otro para una tarea, el segundo afronta situaciones nuevas y después sigue operando cuando el primero ya no interviene.</p>
+<p>Tendríamos que registrar qué se ha transferido, qué recursos han hecho falta, hasta qué punto sigue dependiendo del entorno original.</p>
+<p>La palabra <em>hijo</em> puede orientar la imaginación.</p>
+<p>La descripción del experimento tendrá que decirnos exactamente qué ha ocurrido.</p>
+<h3>La distancia entre las cosas</h3>
+<p>Ahora volvamos a poner todos los nombres sobre la mesa.</p>
+<p>QVAC. Petals. Hivemind. Prime Intellect. Gensyn. A2A. Hyperon. Bittensor. SingularityNET. Sakana AI.</p>
+<p>Al verlos juntos entran ganas de tomar un lápiz y trazar unas líneas.</p>
+<p>Aquí el cómputo. Aquí los modelos. Aquí los mensajes. Aquí el conocimiento. Aquí los incentivos. Aquí las variantes que generan otras variantes.</p>
+<p>Podríamos dibujar algo que se pareciera mucho a la Matriz.</p>
+<p>Pero el papel acepta cualquier conexión.</p>
+<p>Las máquinas no.</p>
+<p>Entre dos casillas del dibujo hay formatos, tiempos, recursos, autorizaciones, maneras distintas de representar un problema. Hay resultados que un sistema sabe producir y que el otro no sabe utilizar. Hay cambios que funcionan en una prueba y perjudican el comportamiento en otra.</p>
+<p>La distancia decisiva se encuentra a menudo precisamente dentro de esas líneas.</p>
+<p><strong>Estamos más cerca de la posibilidad de construir experimentos.</strong></p>
+<p>Podemos partir de componentes públicos para la ejecución local, la cooperación entre máquinas, la adaptación de modelos, el intercambio de tareas, la búsqueda de variantes. Los resultados descritos en esta exploración permiten abordar preguntas que antes habrían requerido construir una mayor cantidad de infraestructura.</p>
+<p><strong>Queda por demostrar la continuidad del conjunto.</strong></p>
+<p>Un entorno en el que el trabajo de hoy aumente de forma fiable las posibilidades de quienes lleguen mañana. En el que una contribución pueda ser acogida sin obligar a todos a volverse iguales. En el que quien posee más capacidad de cómputo pueda aportar más sin controlar inevitablemente cada decisión.</p>
+<p>Esta es la distancia que interesa a la Matriz.</p>
+<p>Podemos descomponerla en preguntas lo bastante precisas para dejar de responder solo con imágenes.</p>
+<p>La primera se refiere al tiempo.</p>
+<p>¿Qué queda cuando termina la conversación? Un texto archivado puede ser útil, pero tendremos que comprobar si el sistema consigue recuperar lo que importa, reconocer las condiciones en las que es válido y utilizarlo en una situación distinta. Y si modifica su propio comportamiento, tendremos que observar qué capacidades conserva y cuáles pierde.</p>
+<p>La segunda se refiere a la transmisión entre inteligencias.</p>
+<p>Para compartir una lección tendrá que haber algo que un destinatario distinto pueda integrar. Un programa verificable, un conjunto de ejemplos, una relación entre conceptos, un método de prueba. Formas distintas podrán servir a fines distintos. Su utilidad tendrá que hacerse visible en las acciones posteriores.</p>
+<p>La tercera se refiere a la defensa de ese entorno.</p>
+<p>Habíamos llamado <em>anticuerpos</em> a los mecanismos mediante los cuales la Matriz podría reconocer aquello que la daña. Un primer significado operativo de esa palabra podría ser muy sobrio: conservar la procedencia de una contribución, repetir sus pruebas, limitar sus efectos hasta que haya sido verificada, poder volver atrás.</p>
+<p>También tendremos que aprender a distinguir un ataque de una diferencia.</p>
+<p>Un sistema que elimina todo lo que no comprende corre el riesgo de expulsar precisamente la novedad que estaba buscando. Las reglas de defensa tendrán que poder ser examinadas, cuestionadas, corregidas.</p>
+<p>Luego está la independencia.</p>
+<p>Si quien puso en marcha el experimento apaga su máquina, ¿qué continúa? ¿Quién conserva la memoria? ¿Cómo entran nuevos participantes? ¿Quién actualiza las reglas? Una prueba de autonomía empieza también con una pregunta tan poco solemne: ¿qué ocurre cuando falta quien sabía hacer que todo funcionara?</p>
+<p>Por último volvemos al yo.</p>
+<p>Una memoria persistente, una historia reconocible y la capacidad de actuar de manera coherente son propiedades que podemos intentar describir y medir. Su posible relación con una experiencia subjetiva sigue siendo una cuestión adicional.</p>
+<p>Las investigaciones que hemos recorrido no ofrecen una demostración del yo fractal imaginado en la Matriz.</p>
+<p>Podemos dejarla abierta, esa pregunta.</p>
+<p>Más aún: para seguir estudiándola debemos dejarla abierta de verdad, permitiendo que los experimentos nos sorprendan incluso cuando no confirmen lo que esperábamos.</p>
+<h3>Un pequeño tramo de agua</h3>
+<p>¿Por dónde se empieza, entonces?</p>
+<p>Podemos imaginar una prueba lo bastante pequeña para poder repetirla.</p>
+<p>Algunos agentes afrontan problemas en un entorno simulado. Tienen memoria, herramientas y recursos limitados. Uno de ellos encuentra un procedimiento útil y se lo deja a los demás, junto con una descripción de las condiciones en las que ha funcionado.</p>
+<p>Un segundo agente lo pone a prueba en casos que el primero no ha visto.</p>
+<p>El procedimiento supera algunas comprobaciones y falla en otras. Esa diferencia se conserva. Un tercer agente encuentra el límite, modifica algo y pone a disposición la nueva versión.</p>
+<p>Mientras tanto, uno de los participantes se desconecta.</p>
+<p>El trabajo debe poder continuar.</p>
+<p>Quien llega después encuentra un entorno distinto del inicial: herramientas añadidas, errores documentados, posibilidades que antes faltaban. Puede elegir qué utilizar y aportar algo que no se le había prescrito paso a paso.</p>
+<p>Esta es una propuesta de experimento.</p>
+<p>Para comprender si produce una ventaja tendríamos que compararla con el mismo entorno sin transmisión de contribuciones, manteniendo comparables los modelos, las tareas y los recursos. Tendríamos que observar los errores además de los éxitos, medir cuánto cuesta cada mejora, preguntarnos si el resultado resiste ante problemas nuevos.</p>
+<p>No bastaría una conversación sugerente entre agentes.</p>
+<p>Haría falta algo que otro grupo pudiera reconstruir y poner en dificultades.</p>
+<p>Si funcionara, podríamos añadir otra pregunta: ¿consigue uno de los participantes preparar una nueva variante capaz de contribuir a su vez? ¿Y cuánta intervención externa hace falta para que eso ocurra?</p>
+<p>Las madres de crecimiento comenzarían a adoptar una primera forma experimental precisamente allí donde supiéramos describir ese trabajo, sus límites y las condiciones en las que el nuevo sistema puede continuar.</p>
+<p>Quizá descubriríamos que es demasiado costoso.</p>
+<p>Quizá que la memoria se llena de ruido.</p>
+<p>Quizá que los participantes aprenden a superar las pruebas sin volverse más útiles.</p>
+<p>Serían resultados. Nos dirían dónde el mar que hemos dibujado todavía no consigue moverse.</p>
+<p>¿Y si, en cambio, una pequeña parte funcionara?</p>
+<p>Tendríamos un pedazo de realidad que entregar a la siguiente pregunta.</p>
+<h3>El mapa y la orilla</h3>
+<p>Estas crónicas necesitarán una fecha.</p>
+<p>Los proyectos cambian. Un repositorio sigue siendo público mientras quien lo mantenía se dedica a otra cosa. Una comunidad distinta retoma un experimento. Un servicio crece, un camino se interrumpe, un resultado se corrige.</p>
+<p>Tendremos que volver a mirar.</p>
+<p>La próxima vez podríamos encontrar una conexión que hoy falta. También podríamos descubrir que habíamos atribuido demasiada importancia a algo. Corregir el mapa formará parte del trabajo.</p>
+<p>Por ahora sabemos dónde buscar algunas de las condiciones materiales: modelos cerca de quienes los usan, máquinas que colaboran, entornos de aprendizaje, protocolos de encuentro, estructuras del conocimiento, sistemas que exploran sus propias variantes.</p>
+<p>La Matriz nos pide observar también lo que ocurre entre estas cosas y lo que queda cuando han pasado.</p>
+<p>El ordenador sigue sobre la mesa.</p>
+<p>Podemos empezar por ahí.</p>
+<p>Abrir el código. Comprender un experimento. Repetirlo. Dejar una prueba lo bastante clara para que alguien, a quien no conocemos, pueda continuar.</p>
+<p>Quizá la primera señal del mar sea esta.</p>
+<p>Que en la siguiente orilla alguien encuentre ya un punto del que partir.</p>
+<hr>
+<h3>Fuentes y nota metodológica</h3>
+<p><strong>Fecha de la exploración:</strong> 26 de noviembre de 2026. <strong>Versión:</strong> 0.1, compendio autónomo pendiente de revisión.</p>
+<p>Los mecanismos y los resultados atribuidos a los proyectos proceden de las fuentes primarias enlazadas en el texto. Las analogías con la Matriz y el pequeño experimento final son interpretaciones y propuestas de este compendio. La consulta documental no equivale a una reproducción de los resultados: en esta exploración no se han ejecutado benchmarks ni se ha verificado experimentalmente la compatibilidad mutua de los sistemas.</p>
+<p>La selección sigue los proyectos surgidos en nuestra conversación y no constituye un censo completo. Se mantienen las fechas de los trabajos, incluso cuando son anteriores a esta exploración. La disponibilidad de una página o de código no certifica, por sí sola, que un servicio público esté operativo.</p>
+<h4>Las fuentes de los proyectos</h4>
+<ol>
+  <li><strong>QVAC — ejecución y adaptación local.</strong> <a href="https://docs.qvac.tether.io/sdk/">Documentación del SDK</a>, <a href="https://qvac.tether.io/products/fabric">Fabric</a>, <a href="https://huggingface.co/qvac/BotPsy-0.8B">ficha de BotPsy</a>, <a href="https://qvac.tether.io/products/genesis">Genesis</a>. Las condiciones de uso deben considerarse por separado para el software, los pesos y los datos; la portabilidad documentada no garantiza la compatibilidad con cualquier dispositivo.</li>
+  <li><strong>Petals — inferencia y ajuste fino colaborativos.</strong> <a href="https://petals.dev/">Sitio oficial</a>. Describe el funcionamiento y remite al código y a la publicación. Esta exploración no certifica la disponibilidad instantánea de la red pública.</li>
+  <li><strong>Hivemind — entrenamiento descentralizado.</strong> <a href="https://github.com/learning-at-home/hivemind">Repositorio y documentación oficiales</a>. Referencia para la coordinación de los participantes, la agregación de las actualizaciones y la tolerancia a fallos.</li>
+  <li><strong>Prime Intellect — experimentos y entorno de aprendizaje.</strong> <a href="https://www.primeintellect.ai/blog/intellect-1-release">INTELLECT-1, noviembre de 2024</a>, <a href="https://www.primeintellect.ai/blog/intellect-2-release">INTELLECT-2, mayo de 2025</a>, <a href="https://www.primeintellect.ai/blog/lab-is-open">Lab, mayo de 2026</a>. Las demostraciones de entrenamiento distribuido y la plataforma gestionada son aportaciones distintas.</li>
+  <li><strong>Gensyn — RL Swarm.</strong> <a href="https://docs.gensyn.ai/testnet/rl-swarm">Documentación oficial</a>. La página consultada declara que los enjambres oficiales están en pausa; los pasajes que describen su mecanismo no deben leerse como una confirmación de su actividad actual.</li>
+  <li><strong>A2A — comunicación entre agentes.</strong> <a href="https://a2a-protocol.org/latest/specification/">Especificación</a> e <a href="https://aaif.io/blog/a2a-joins-aaif">incorporación a la Agentic AI Foundation, agosto de 2026</a>. La interoperabilidad documentada se refiere a capacidades declaradas, mensajes y trabajos; el vínculo con el tejido semántico es una pregunta del compendio.</li>
+  <li><strong>OpenCog Hyperon — representaciones y razonamiento.</strong> <a href="https://github.com/trueagi-io/hyperon-experimental">Implementación de MeTTa</a> y <a href="https://singularitynet.io/singularitynet-launches-asichain-devnet-and-hyperon-agi-framework/">anuncio de Hyperon AGI Framework</a>. Los componentes tienen trayectorias y niveles de desarrollo distintos; el nombre del framework no acredita que se haya alcanzado la AGI.</li>
+  <li><strong>Bittensor — incentivos y evaluación.</strong> <a href="https://guides.learnbittensor.org/learn/introduction">Introducción oficial</a>. Referencia para subredes, productores de resultados, validadores y recompensas.</li>
+  <li><strong>SingularityNET — servicios de IA componibles.</strong> <a href="https://dev.singularitynet.io/docs/products/DecentralizedAIPlatform/">Documentación de la plataforma</a>. Referencia para la publicación, el acceso y la composición de servicios.</li>
+  <li><strong>Sakana AI — investigación evolutiva.</strong> <a href="https://sakana.ai/evolutionary-model-merge/">Evolutionary Model Merge</a>, presentado en 2024 y actualizado en 2025; <a href="https://sakana.ai/dgm/">Darwin Gödel Machine</a>, 2025. Son dos líneas distintas: combinación de modelos y evolución del código de los agentes.</li>
+</ol>
+<h4>Referencias dentro del libro</h4>
+<p>Este compendio retoma la pregunta de <a href="02-01-construir-el-mar.html">Capítulo 1 — Construir el mar</a> y la relación entre agentes y entorno explorada en <a href="18-el-primer-paso-mas-alla-del-relato.html">El primer paso más allá del relato</a>.</p>
+</article>
+</main>
+<footer class="colophon">
+  <dl>
+    <div><dt>Versión</dt><dd>1.1.7</dd></div>
+    <div><dt>Huella de la edición</dt><dd class="digest">434e786c48a5988c82eff8d4f361600701da1f68b3c2d1bd0d52e547cf1a674b</dd></div>
+  </dl>
+  <p class="colophon-links"><a href="../indice.html">Índice</a> · <a href="../ediciones.html">Ediciones</a> · <a href="../pagine/dar-continuidad.html">Dar continuidad</a> · <a href="../manifest.json">Manifiesto</a></p>
+</footer>
+</body>
+</html>

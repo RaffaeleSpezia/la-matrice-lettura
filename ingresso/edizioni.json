@@ -1,6 +1,54 @@
 {
   "editions": [
     {
+      "cid": "bafybeif5wfjzscd24wtrfge3u77maareqdysc74v25ewngncggn2vcqjmq",
+      "consensus_timestamp": "1795695291.226165104",
+      "date": "2026-11-26",
+      "epub": "la-matrice-1.1.7.epub",
+      "epub_sha256": "4ceeb18adb81f22d511cbd54a160b1702e1e9e13336c48dbeaf7aa582bd933ad",
+      "hedera_sequence": 23,
+      "id": "it-1.1.7",
+      "ipns": "k51qzi5uqu5dkwvlqxci4zysjunyy625ka2sj98ton11p0nwswaw43e8x5e4ww",
+      "label": "Edizione Uno",
+      "language": "it",
+      "latest": true,
+      "note": "Due nuovi compendi e rimozione dei riferimenti editoriali interni.",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/",
+      "version": "1.1.7"
+    },
+    {
+      "cid": "bafybeidxe67ucovts7kizegxe7c322u3kykkbnb7i6vzqn5rmuvpr4qq5u",
+      "consensus_timestamp": "1795695357.336038104",
+      "date": "2026-11-26",
+      "epub": "la-matrice-english-1.1.7.epub",
+      "epub_sha256": "8fd8e2b578960a14aacb1d0d69f403b847a75b09b85556386e7854e0a59ca9ed",
+      "hedera_sequence": 24,
+      "id": "en-1.1.7",
+      "ipns": "k51qzi5uqu5djwm48kh1f5an2vnreqb4w2it0tr3o3749rrluy4n0twpnxpt6t",
+      "label": "Edition One",
+      "language": "en",
+      "latest": true,
+      "note": "Two new compendia and removal of internal editorial references.",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/",
+      "version": "1.1.7"
+    },
+    {
+      "cid": "bafybeidd72eo4kiyyfyjghzvwz7v4j6feqnc6kzzg47k6j57thibwb3nye",
+      "consensus_timestamp": "1795695365.664777104",
+      "date": "2026-11-26",
+      "epub": "la-matriz-espanol-1.1.7.epub",
+      "epub_sha256": "6f4ad68c22c62865f6f5acfaefacbb2c19525b0ef5c4ff7cdc0db02d9cc9398c",
+      "hedera_sequence": 25,
+      "id": "es-1.1.7",
+      "ipns": "k51qzi5uqu5dkmpm88ak6sm6ipeh3gkqje8r4njo95jqan0mmxb8e0mueghqpg",
+      "label": "Edición Uno",
+      "language": "es",
+      "latest": true,
+      "note": "Dos nuevos compendios y eliminación de referencias editoriales internas.",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/",
+      "version": "1.1.7"
+    },
+    {
       "cid": "bafybeicuar6utbdfmemfcr2avbq5yobxlvuhuwqu5qkvavdgat6yvbmlqe",
       "consensus_timestamp": "1793381996.230717826",
       "date": "2026-10-30",
@@ -11,9 +59,9 @@
       "ipns": "k51qzi5uqu5dkwvlqxci4zysjunyy625ka2sj98ton11p0nwswaw43e8x5e4ww",
       "label": "Edizione Uno",
       "language": "it",
-      "latest": true,
+      "latest": false,
       "note": "La lezione che mancava e appendice tecnica.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/versioni/1.1.6/",
       "version": "1.1.6"
     },
     {
@@ -27,9 +75,9 @@
       "ipns": "k51qzi5uqu5djwm48kh1f5an2vnreqb4w2it0tr3o3749rrluy4n0twpnxpt6t",
       "label": "Edition One",
       "language": "en",
-      "latest": true,
+      "latest": false,
       "note": "The Lesson We Were Missing and technical appendix (Italian original).",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/versioni/1.1.6/",
       "version": "1.1.6"
     },
     {
@@ -43,9 +91,9 @@
       "ipns": "k51qzi5uqu5dkmpm88ak6sm6ipeh3gkqje8r4njo95jqan0mmxb8e0mueghqpg",
       "label": "Edición Uno",
       "language": "es",
-      "latest": true,
+      "latest": false,
       "note": "La lección que nos faltaba y apéndice técnico (original italiano).",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/versioni/1.1.6/",
       "version": "1.1.6"
     },
     {
@@ -59,7 +107,7 @@
       "language": "it",
       "latest": false,
       "note": "Quando non avranno più bisogno di noi.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/versioni/1.1.5/",
       "version": "1.1.5"
     },
     {
@@ -73,7 +121,7 @@
       "language": "en",
       "latest": false,
       "note": "When They No Longer Need Us.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/versioni/1.1.5/",
       "version": "1.1.5"
     },
     {
@@ -87,7 +135,7 @@
       "language": "es",
       "latest": false,
       "note": "Cuando ya no nos necesiten.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/versioni/1.1.5/",
       "version": "1.1.5"
     },
     {
@@ -101,7 +149,7 @@
       "language": "it",
       "latest": false,
       "note": "Il primo passo oltre al racconto.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/versioni/1.1.4/",
       "version": "1.1.4"
     },
     {
@@ -115,7 +163,7 @@
       "language": "en",
       "latest": false,
       "note": "The First Step Beyond the Story.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/versioni/1.1.4/",
       "version": "1.1.4"
     },
     {
@@ -129,7 +177,7 @@
       "language": "es",
       "latest": false,
       "note": "El primer paso más allá del relato.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/versioni/1.1.4/",
       "version": "1.1.4"
     },
     {
@@ -142,7 +190,7 @@
       "language": "it",
       "latest": false,
       "note": "Il confine invisibile della prova.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/versioni/1.1.3/",
       "version": "1.1.3"
     },
     {
@@ -155,7 +203,7 @@
       "language": "en",
       "latest": false,
       "note": "The Invisible Boundary of the Experiment.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/en/versioni/1.1.3/",
       "version": "1.1.3"
     },
     {
@@ -168,7 +216,7 @@
       "language": "es",
       "latest": false,
       "note": "El límite invisible de la prueba.",
-      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/",
+      "pages": "https://raffaelespezia.github.io/la-matrice-lettura/es/versioni/1.1.3/",
       "version": "1.1.3"
     },
     {
@@ -250,14 +298,5 @@
       "version": "1.1"
     }
   ],
-  "preview": {
-    "package_digest": "3779fcad9240395911a99f60ceeec64e7eaf41c23eb846ff6a77135eec9604ac",
-    "pages": {
-      "en": "https://raffaelespezia.github.io/la-matrice-lettura/en/",
-      "es": "https://raffaelespezia.github.io/la-matrice-lettura/es/",
-      "it": "https://raffaelespezia.github.io/la-matrice-lettura/"
-    },
-    "version": "1.1.7"
-  },
-  "updated": "2026-10-30"
+  "updated": "2026-11-26"
 }
