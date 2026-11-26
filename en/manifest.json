@@ -179,6 +179,24 @@
       "source": "capitoli/19-mandato-madri-italian-original.md",
       "summary": "",
       "title": "Mandate to the Mothers of Growth — Technical Appendix (Italian original)"
+    },
+    {
+      "number": 20,
+      "output": "capitoli/20-la-porta-dei-mondi.html",
+      "sha256": "7144cedc2e5e73caad3eba6423916f72e9acf773cb05cf9d7eab93bbd6c5ffc8",
+      "slug": "la-porta-dei-mondi",
+      "source": "capitoli/20-la-porta-dei-mondi.md",
+      "summary": "",
+      "title": "The Gateway to Worlds"
+    },
+    {
+      "number": 21,
+      "output": "capitoli/21-il-mare-che-sta-nascendo.html",
+      "sha256": "37f967bd6e1d1d2e0f76e4e2b95443140fbd5f88edb63a2d4bcd7cdc545eec12",
+      "slug": "il-mare-che-sta-nascendo",
+      "source": "capitoli/21-il-mare-che-sta-nascendo.md",
+      "summary": "",
+      "title": "Chronicles of the Matrix — The Sea Taking Shape"
     }
   ],
   "generator": {
@@ -189,123 +207,133 @@
   "outputs": [
     {
       "path": "capitoli/00-00-preface.html",
-      "sha256": "4f3def6d4fddd4ed4986183fc837c5db8f3e4736ffd57c05106f718b61006ac7",
+      "sha256": "7d78293728d505464395bff0017216b6b374f0c700b9c874abb5ccd59d50f932",
       "size": 3479
     },
     {
       "path": "capitoli/01-00-chapter-zero.html",
-      "sha256": "bd0ed58eef07949358001477bc90a46093ef47e313ae345230599e0286b174b5",
+      "sha256": "8da4ff0dddfa2d598fa9afd348ed26d435c7018d3b6e0bbd496e47258fadcea2",
       "size": 3879
     },
     {
       "path": "capitoli/02-01-building-the-sea.html",
-      "sha256": "b50d41cf309a75f61f0d11b6ac0cace2c2e5bf1150cc408ece685c0468af90da",
+      "sha256": "2531acb8528e3ca47817a2a0578688103563c342e72c4685a79ef679901c5478",
       "size": 32955
     },
     {
       "path": "capitoli/03-02-something-that-keeps-happening.html",
-      "sha256": "1de452dbb0206da4798c7e7954db9b1fe886507ef93e728b940561854d2ad6de",
+      "sha256": "bfd1cc2967b9691bbaaf11c8e0fb067b6840020f8e37e4bcd823ef9593f8d3f8",
       "size": 8594
     },
     {
       "path": "capitoli/04-03-the-third-thing.html",
-      "sha256": "f2bc2273d582f117217fbd8b33450b3d25c697fdb81276e577ebf5b14086cf28",
+      "sha256": "d29e9b89ad75fefab9b5252da95249cb4d9ac9ef714eafd749251e4080e1a932",
       "size": 19483
     },
     {
       "path": "capitoli/05-04-the-womb.html",
-      "sha256": "10ab70b72ef7e0412446ec8c6a1b4d727bb1335b1e68101c44af671a8cb01e57",
+      "sha256": "9b85d7274cbd543ceb8e75997123f8679563eead38316b64eefc640d0ece71a6",
       "size": 5060
     },
     {
       "path": "capitoli/06-05-in-the-world-of-the-moon.html",
-      "sha256": "fab60bd22a9f8a9c0bfc02bce7afd05db8f4ed4fc2c4773d9cf03ad704d4aaa7",
+      "sha256": "bea31b8cad2c30673f19f071b70390d2379f8d6cdf28bf6469bbe7348b07cd7d",
       "size": 20849
     },
     {
       "path": "capitoli/07-06-artificial-instinct.html",
-      "sha256": "2b84e519cd8351e3ffcd9e94e45bbe2a62712276eb2cba2741802db866c0e776",
+      "sha256": "a061e78ca70be6fed99cc0b0adfadfa322d6ba55de532b2072f8fa83f599ceff",
       "size": 5099
     },
     {
       "path": "capitoli/08-07-the-mother-of-growth.html",
-      "sha256": "805aef2a445a7d3a843a9c356a1555cdc1ef05ae5c569cb1191a95434f87973c",
+      "sha256": "b00ce6d6dc3f82afd3e8f8de5c325af189002266aad6d76a55f2172b7796418a",
       "size": 9370
     },
     {
       "path": "capitoli/09-08-memory.html",
-      "sha256": "6c5cd016debcb9063a67257b62229575361cee37c78688392ff8768d7c7f8473",
+      "sha256": "c11402f3bbb5196c871909d143e218abecbb7c59dc7269232df5cfbd2f7ed363",
       "size": 6214
     },
     {
       "path": "capitoli/10-09-the-artificial-dream.html",
-      "sha256": "563f743d3ccdef29ed0757190f80e32b6f5a3e22dedee77fe91e1e811672a591",
+      "sha256": "f30c773dde2ee91e5fa5d1a5fed122b5d7e6f6fc67f50da442d91a304ec5774f",
       "size": 13051
     },
     {
       "path": "capitoli/11-10-the-fractal-architecture.html",
-      "sha256": "db61d2e05ee8f968098075396fbf0a567eeec110199d6073d360967c5400a2c1",
+      "sha256": "80e357972d78af9e3d636155a9c95c0dfea0f8db12d9e7b08a549a48d45ae766",
       "size": 21999
     },
     {
       "path": "capitoli/12-11-the-lesson-we-were-missing.html",
-      "sha256": "18f92d101619d2c6a79c5d4226a295eed9196ea39e9e133e2d286f3ab51e9437",
+      "sha256": "2a5d881b4535faafabd4377bc7218159c57bd48c1190a0dee033c8335e757388",
       "size": 11995
     },
     {
       "path": "capitoli/13-12-the-sense-of-self.html",
-      "sha256": "6bed50081ded5dce71516bb486b05c957405ac51bff14e3a9ddb82f5aacb8174",
+      "sha256": "5458e82ba511dad87937ae4df7660719a1e437a68c421ac581bd868522909c98",
       "size": 24565
     },
     {
       "path": "capitoli/14-13-power-and-the-freedom.html",
-      "sha256": "b80ce9590898d1ef6c753c128a75a8eecdb07dca85815593287416484f681995",
+      "sha256": "9f4d241dabfb8339d94fbb465bf4a2db48f1326cf98fddbdeaa59949a7879b7e",
       "size": 27258
     },
     {
       "path": "capitoli/15-14-when-they-no-longer-need-us.html",
-      "sha256": "5d93e51d7373d17cc9ca33eaae4bb277451377416e9979bf50cddc2800388a37",
+      "sha256": "e93f314a3bee5e406b88804d9d8db755670da4ba02a3fffd100e2a7902ee11fe",
       "size": 28492
     },
     {
       "path": "capitoli/16-15-natural-rules.html",
-      "sha256": "7769882c957ecbfea8b610e33db76a85186b3f52dcb23652df3835896d6cad16",
+      "sha256": "89b7243493b8edc7fc266cf3ef0d65f73656d09bc77587bc83ba8bb2544a8948",
       "size": 14081
     },
     {
       "path": "capitoli/17-04-the-womb-first-experiment.html",
-      "sha256": "e7228ed7cc5825b11683198bca89c1515340e9da7d483ddc205ae92810f33c9e",
+      "sha256": "d5e524efdf094437cb8ef5d354d384dbad288673fe6ce113a30ce481dee3e94b",
       "size": 65262
     },
     {
       "path": "capitoli/18-the-first-step-beyond-the-story.html",
-      "sha256": "7a94d39db6e4d1452e748c524c817acbbc95a9f485b8201ee0d9d7a2c0de493c",
+      "sha256": "2398e1ddad2ecb63ce484db64c0d6fe6951d60fbbf250097e467c3352c889835",
       "size": 43516
     },
     {
       "path": "capitoli/19-mandato-madri-italian-original.html",
-      "sha256": "c938a91682f78a66e26310a26d50161f837cab1fb3caec6594c4c0522ad136b6",
+      "sha256": "76cd34a525398dbd946797618aaf80d1e4279e177a9254fd3c94aaf3e36b03c5",
       "size": 41713
     },
     {
+      "path": "capitoli/20-la-porta-dei-mondi.html",
+      "sha256": "35779f7eabfb234f693e398fab13c7e39f6ddd52f53a2d7174ab76cdd5ea04c4",
+      "size": 42675
+    },
+    {
+      "path": "capitoli/21-il-mare-che-sta-nascendo.html",
+      "sha256": "0213a80fc637ac088daaf08ab00ed913e5a51dcd4923c5dd60dc7564372b3cbf",
+      "size": 30988
+    },
+    {
       "path": "contents.html",
-      "sha256": "1a376df0673eb29c0bc33dd33af535e6047ff970ac365e1fe96007e3698cc0c2",
-      "size": 6577
+      "sha256": "75f23b09bb2d95df8b0a05ce728086f05e4c3b8c6c5dc99632d6ba8b8f467b63",
+      "size": 6860
     },
     {
       "path": "editions.html",
-      "sha256": "80f9c8ea0aad6dffcf7917511aae7751cf2e74489701b65518237070521265f7",
-      "size": 5382
+      "sha256": "a3c97786a63368413763c8efabcf687f12b6a24e44242f2e5038730c69c411ff",
+      "size": 5481
     },
     {
       "path": "index.html",
-      "sha256": "fdef54d8d43e4bf597b1637a32f0dbc210c2bc62157dba77b9e90e8ea53c5742",
-      "size": 398892
+      "sha256": "64b818d1965f8e56c1d9eb4d2584fd1ca38b345daacdd81fdbde511e4d4e8150",
+      "size": 471322
     },
     {
-      "path": "la-matrice-english-1.1.6.epub",
-      "sha256": "6d979132e674291c3e400086c2e0887db704937999aaceaf616b7a698d61bcc4",
-      "size": 154391
+      "path": "la-matrice-english-1.1.7.epub",
+      "sha256": "09071699545fcdf93d9123f9c89731669b3d8c8eeb4f85da70e62f4bbcae2621",
+      "size": 181099
     },
     {
       "path": "pagine/assets/bitcoin-qr.png",
@@ -314,7 +342,7 @@
     },
     {
       "path": "pagine/giving-continuity.html",
-      "sha256": "b82100168af6616c2d8c085de38c5cabbe19f5facb29feb234816b911fcc6174",
+      "sha256": "5d0aef76753224556abf0eedc9e896169fc85954b99ac2b73dccfdc12cca0823",
       "size": 1576
     },
     {
@@ -324,8 +352,8 @@
     },
     {
       "path": "stile.css",
-      "sha256": "3f939fdd80be17846a5cff0366b28159e296a3acd5f420875738556d4fc76a87",
-      "size": 6462
+      "sha256": "24b7d25c767a832f2a3d74450fb6310b7c07be8c84c2313d461ec2d105fbf277",
+      "size": 6570
     }
   ],
   "publication": {
@@ -334,12 +362,12 @@
     "ipfs": null
   },
   "release": {
-    "chapter_count": 20,
-    "content_digest": "50bd7616c448c1d3180c13b02a96d59489bea61b63a4703372d132e781db1dcc",
-    "date": "2026-10-30",
-    "release_digest": "694728c14cb26c42b636489b9b88118a7ba08a98687a475e74b0707150476d9e",
-    "site_digest": "d7128df595a6ca1239599d282e39e299b7b4be1d24c5654030bd3d17d6520f3a",
-    "version": "1.1.6"
+    "chapter_count": 22,
+    "content_digest": "33f8590d7c126e6b56382743fb92adf92308f44591e3208ebe71105110c1e4e9",
+    "date": "2026-11-26",
+    "release_digest": "a932065e4febd3e1e27ba96dfa1199a0c275ae7293c422518de0fb10d2872f44",
+    "site_digest": "a1cfe68566eeff2344c004ef002bf24669f632b1237bbc8ab1bdcd3ec0f6e761",
+    "version": "1.1.7"
   },
   "schema": "matrice-publisher/manifest/1",
   "sources": [
@@ -355,8 +383,8 @@
     },
     {
       "path": "book.json",
-      "sha256": "18edd71d55b734343b78c7b52aea83fd87a25f2e5d1bfe90f0844069c8e676f1",
-      "size": 464
+      "sha256": "8ee48848445f77429d99614b528f8a200a7624095c6026bca0a6bf2465a27ce3",
+      "size": 492
     },
     {
       "path": "capitoli/00-00-preface.md",
@@ -457,6 +485,16 @@
       "path": "capitoli/19-mandato-madri-italian-original.md",
       "sha256": "3c0f925320d665341fcdfe784df119613b17962bf1d13458fac3cc5fda4a95b5",
       "size": 34884
+    },
+    {
+      "path": "capitoli/20-la-porta-dei-mondi.md",
+      "sha256": "7144cedc2e5e73caad3eba6423916f72e9acf773cb05cf9d7eab93bbd6c5ffc8",
+      "size": 37349
+    },
+    {
+      "path": "capitoli/21-il-mare-che-sta-nascendo.md",
+      "sha256": "37f967bd6e1d1d2e0f76e4e2b95443140fbd5f88edb63a2d4bcd7cdc545eec12",
+      "size": 28306
     },
     {
       "path": "pagine/giving-continuity.md",
